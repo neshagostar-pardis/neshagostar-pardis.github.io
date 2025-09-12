@@ -86,6 +86,28 @@
 - **Part Machining**: Turning and milling of plastic components
 - **Repeatable Quality**: Consistent quality assurance in serial production
 
+**4. Official KUKA CNC Integration Resources:**
+- **[KUKA CNC Technology Overview](https://www.kuka.com/en-us/products/robotics-systems/robot-periphery/kuka-cnc-technology)** - Official CNC integration technology page
+- **[KUKA.CNC Application Videos](https://www.youtube.com/results?search_query=KUKA.CNC+machining+robot)** - YouTube demonstrations of actual systems
+- **[KUKA Ready2_arc Welding Package](https://www.kuka.com/en-us/products/robotics-systems/software/welding-software)** - CNC-style welding programming
+- **[KUKA KR QUANTEC Series](https://www.kuka.com/en-us/products/robotics-systems/industrial-robots/kr-quantec-2)** - Industrial robots with CNC capability
+
+**5. KUKA Robot Compatibility with CNC Technology:**
+
+**✅ Full CNC Integration Support:**
+- **KR QUANTEC Series** (KR 120, KR 150, KR 210, KR 270) - Heavy-duty industrial robots
+- **KR AGILUS Series** (KR 6, KR 10, KR 16) - Compact high-precision robots  
+- **KR CYBERTECH Series** (KR 16, KR 20, KR 25) - Arc welding specialists
+- **KR FORTEC Series** (KR 16, KR 20) - Foundry and harsh environment robots
+- **KR TITAN Series** (KR 1000) - Heavy payload robots for large part machining
+
+**⚠️ Limited CNC Integration:**
+- **LBR iiwa Series** - Collaborative robots (limited CNC functions due to safety requirements)
+- **KR 3 AGILUS** - Smallest robot (limited due to payload constraints)
+
+**❌ No CNC Integration:**
+- **Mobile robots** (KMR series) - Not designed for stationary machining applications
+
 **Universal Robots (Denmark)**
 - **Strengths**: Easiest programming, collaborative features, cost-effective
 - **Weaknesses**: Limited payload/reach options, lower precision

@@ -77,6 +77,7 @@ class DocumentationRenderer {
             ['selection-matrix', 'ماتریس انتخاب'],
             ['application-recommendations', 'توصیه‌های کاربردی'],
             ['market-analysis', 'تحلیل بازار'],
+            ['cnc-capable-robots', 'ربات‌های قابل CNC'],
             ['final-recommendations', 'توصیه‌های نهایی']
         ]));
 
@@ -87,7 +88,9 @@ class DocumentationRenderer {
             ['selection-matrix', 'Selection Matrix'],
             ['application-recommendations', 'Application Recommendations'],
             ['market-analysis', 'Market Analysis'],
-            ['final-recommendations', 'Final Recommendations']
+            ['cnc-capable-robots', 'CNC-Capable Robots'],
+            ['final-recommendations', 'Final Recommendations'],
+            ['system-architecture', 'System Architecture']
         ]));
     }
 
