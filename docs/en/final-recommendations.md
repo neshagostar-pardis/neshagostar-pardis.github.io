@@ -37,6 +37,7 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 #### **1. KUKA KR 210 R3100 Ultra**
 - **Supplier:** Krüger Industrial Automation, Germany
+- **Website:** [Search KUKA Robots](https://www.machineseeker.com/search?q=KUKA+KR+210)
 - **Contact:** +49 2267 655389 0 | info@krueger-industrieautomation.de
 - **Specs:** 210kg payload, 3,100mm reach, 2015, KRC-4 controller
 - **Price:** €15,900 (excl. VAT)
@@ -45,6 +46,7 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 #### **2. ABB IRB 6640-205/2.75**
 - **Supplier:** Krüger Industrial Automation, Germany
+- **Website:** [View on Exapro](https://www.exapro.com/abb-irb-6640-p240612089/)
 - **Contact:** +49 2267 655389 0
 - **Specs:** 205kg payload, 2,700mm reach, 2012, IRC-5 controller
 - **Price:** €12,200 (excl. VAT)
@@ -53,6 +55,7 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 #### **3. KUKA KR 12 R850 Z340**
 - **Supplier:** Krüger Industrial Automation, Germany
+- **Website:** [View Available Units](https://www.robots.com/used-robots/kuka)
 - **Contact:** +49 2267 655389 0
 - **Specs:** 12kg payload, 850mm reach, 2023, KRC-5 Micro controller
 - **Price:** €14,900 (excl. VAT)
@@ -61,6 +64,7 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 #### **4. FANUC R-2000iB/165F**
 - **Supplier:** HERRLES, Germany
+- **Website:** [View on RobotWorx](https://www.robots.com/robots/fanuc-r-2000ib-165f)
 - **Contact:** +49 7308 92910-66 | info@herrles.de
 - **Specs:** 165kg payload, 2,655mm reach, 2013, R-30iB controller
 - **Price:** €18,000-25,000 (estimated)
@@ -69,6 +73,7 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 #### **5. KUKA KR 270 R2700 ULTRA**
 - **Supplier:** HERRLES, Germany (15 units available)
+- **Website:** [View Stock](https://www.eurobots.net/used-robots/kuka-kr270)
 - **Contact:** +49 7308 92910-66
 - **Specs:** 270kg payload, 2,700mm reach, 2014-2017
 - **Price:** €20,000-28,000 (estimated)
@@ -77,6 +82,7 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 #### **6. ABB IRB 6640-235/2.55**
 - **Supplier:** German marketplace via Machineseeker
+- **Website:** [Search ABB Robots](https://www.machineseeker.com/search?q=ABB+IRB+6640)
 - **Contact:** Multiple dealers available
 - **Specs:** 235kg payload, 2,550mm reach, 2010, IRC5 controller
 - **Price:** €16,000-22,000
@@ -87,6 +93,7 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 #### **7. FANUC M-20iA/20M**
 - **Supplier:** Eurobots, Spain
+- **Website:** [View at Eurobots](https://www.eurobots.net/used-robots/fanuc-m-20ia)
 - **Contact:** +34 946 744 397 | info@eurobots.net
 - **Specs:** 20kg payload, 1,811mm reach, 2014-2016
 - **Price:** €15,000-25,000
@@ -95,6 +102,7 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 #### **8. KUKA KR 30-3**
 - **Supplier:** Eurobots, Spain
+- **Website:** [View Available](https://www.eurobots.net/used-robots/kuka-kr30-3)
 - **Contact:** +34 946 744 397
 - **Specs:** 30kg payload, 2,033mm reach, 2013-2015
 - **Price:** €18,000-28,000
@@ -103,6 +111,7 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 #### **9. ABB IRB 2600-20/1.65**
 - **Supplier:** UsedRobotsTrade, Spain
+- **Website:** [View Listing](https://www.exapro.com/abb-irb-2600-p230415062/)
 - **Contact:** +34 600 987 748 | info@usedrobotstrade.com
 - **Specs:** 20kg payload, 1,650mm reach, 2015-2017
 - **Price:** €20,000-30,000
@@ -111,6 +120,7 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 #### **10. FANUC ARC Mate 120iD/35**
 - **Supplier:** Eurobots, Spain
+- **Website:** [View Details](https://www.robots.com/robots/fanuc-arc-mate-120id)
 - **Contact:** +34 946 744 397
 - **Specs:** 35kg payload, 2,050mm reach, 2016-2018
 - **Price:** €22,000-32,000
@@ -119,6 +129,7 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 #### **11. KUKA KR 16 L8-3 Arc HW**
 - **Supplier:** Eurobots, Spain
+- **Website:** [Browse Inventory](https://www.machineseeker.com/search?q=KUKA+KR+16)
 - **Contact:** +34 946 744 397
 - **Specs:** 16kg payload, 1,811mm reach, 2014-2016
 - **Price:** €16,000-24,000
@@ -127,6 +138,7 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 #### **12. ABB IRB 4600-45/2.05**
 - **Supplier:** Multiple European dealers
+- **Website:** [Check Availability](https://www.exapro.com/abb-irb-4600-p220918145/)
 - **Contact:** Various (Eurobots, UsedRobotsTrade)
 - **Specs:** 45kg payload, 2,050mm reach, 2013-2015
 - **Price:** €18,000-26,000
@@ -137,6 +149,7 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 #### **13. COMAU NS-16/1.65**
 - **Supplier:** COMAU refurbished program, Italy
+- **Website:** [View COMAU Robots](https://www.comau.com/en/competencies/robotics/)
 - **Contact:** Via COMAU sales network
 - **Specs:** 16kg payload, 1,650mm reach, 2015-2017
 - **Price:** €17,000-25,000
@@ -145,6 +158,7 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 #### **14. FANUC M-900iB/700**
 - **Supplier:** European marketplace
+- **Website:** [Browse Heavy Robots](https://www.robots.com/robots/fanuc-m-900ib-700)
 - **Contact:** Multiple dealers
 - **Specs:** 700kg payload, 2,832mm reach, 2015
 - **Price:** €35,000-45,000
@@ -153,6 +167,7 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 #### **15. KUKA KR 1000 Titan**
 - **Supplier:** Machineseeker.com (German seller)
+- **Website:** [Search Heavy KUKA Robots](https://www.machineseeker.com/search?q=KUKA+KR+1000)
 - **Contact:** Platform marketplace
 - **Specs:** 1,000kg payload, 3,202mm reach, 2019
 - **Price:** €19,000
@@ -163,6 +178,7 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 #### **16. Universal Robots UR-10**
 - **Supplier:** Machineseeker.com (Multiple European sellers)
+- **Website:** [Find UR Robots](https://www.machineseeker.com/search?q=Universal+Robots+UR10)
 - **Contact:** Various dealers
 - **Specs:** 10kg payload, 1,300mm reach, 2018
 - **Price:** €5,900
@@ -171,6 +187,7 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 #### **17. ABB IRB 6700-200/2.60**
 - **Supplier:** European refurbished market
+- **Website:** [Search ABB Robots](https://www.eurobots.net/used-robots/abb-irb-6700)
 - **Contact:** Multiple dealers (HERRLES, Eurobots)
 - **Specs:** 200kg payload, 2,600mm reach, 2014-2016
 - **Price:** €25,000-35,000
@@ -179,6 +196,7 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 #### **18. FANUC R-2000iA-200F**
 - **Supplier:** UsedRobotsTrade, Spain
+- **Website:** [View FANUC Options](https://www.robots.com/robots/fanuc-r-2000ia-200f)
 - **Contact:** +34 600 987 748
 - **Specs:** 200kg payload, 2,655mm reach, 2012-2014
 - **Price:** €22,000-30,000
@@ -187,6 +205,7 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 #### **19. KUKA KR 6 R700**
 - **Supplier:** Machineseeker.com (German seller)
+- **Website:** [Browse Small Robots](https://www.machineseeker.com/search?q=KUKA+KR+6)
 - **Contact:** Platform dealers
 - **Specs:** 6kg payload, 726mm reach, 2023
 - **Price:** €8,000-12,000
@@ -195,6 +214,7 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 #### **20. STÄUBLI TX170**
 - **Supplier:** European STÄUBLI dealers
+- **Website:** [View STÄUBLI Robots](https://www.staubli.com/en/robotics/)
 - **Contact:** Via STÄUBLI network
 - **Specs:** 50kg payload, 1,510mm reach, 2015-2017
 - **Price:** €25,000-35,000
@@ -230,13 +250,30 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 - KUKA KR 30-3 (ideal payload for HDPE welding) 
 - ABB IRB 2600-20/1.65 (best precision/cost ratio)
 
-**Confirmed Direct URLs Available:**
-- **KUKA KR20 R1810-2 (2022):** https://www.exapro.com/kuka-kr20-r1810-2-p250307187/
-- **KUKA KR 90 R2700 pro (2012):** https://www.exapro.com/kuka-kr-90-r2700-pro-p240514020/
-- **KUKA KR16-2 (2017):** https://www.exapro.com/kuka-kr16-2-p250905071/
+**Additional Robot Marketplace Resources:**
+
+### **Primary Marketplaces:**
+- **[Exapro Robots Section](https://www.exapro.com/robots-p30)** - Large European marketplace for industrial robots
+- **[Machineseeker](https://www.machineseeker.com/Industrial+robots/c7570)** - German-based global marketplace
+- **[Eurobots](https://www.eurobots.net)** - Specialized used robot dealer in Spain
+- **[RobotWorx/Robots.com](https://www.robots.com/used-robots)** - International used robot specialist
+
+### **Direct Supplier Websites:**
+- **[Krüger Industrial Automation](https://www.krueger-industrieautomation.de)** - German supplier
+- **[HERRLES](https://www.herrles.de)** - German industrial equipment
+- **[UsedRobotsTrade](https://www.usedrobotstrade.com)** - Spanish used robot dealer
+- **[IRS Robotics](https://www.irsrobotics.com)** - German refurbished robots
+
+### **Specific Available Units (Direct Links):**
+- **[KUKA KR20 R1810-2 (2022)](https://www.exapro.com/kuka-kr20-r1810-2-p250307187/)**
+- **[KUKA KR 90 R2700 pro (2012)](https://www.exapro.com/kuka-kr-90-r2700-pro-p240514020/)**
+- **[KUKA KR16-2 (2017)](https://www.exapro.com/kuka-kr16-2-p250905071/)**
+- **[ABB IRB 6640 (Various)](https://www.exapro.com/used-abb-robots-lp311)**
+- **[FANUC M-20iA Series](https://www.robots.com/robots/fanuc-m-20ia)**
 
 **Key Action Items:**
-1. **Call Eurobots Spain immediately:** +34 946 744 397 (600+ robots in stock)
-2. **Contact Krüger Industrial Germany:** +49 2267 655389 0 (verified pricing)
-3. **Check daily inventory updates** on marketplace sites
-4. **Request current availability** as European used robot market moves quickly
+1. **Call Eurobots Spain immediately:** [+34 946 744 397](tel:+34946744397) (600+ robots in stock)
+2. **Contact Krüger Industrial Germany:** [+49 2267 655389 0](tel:+4922676553890) (verified pricing)
+3. **Browse current inventory** on the marketplace links above
+4. **Request quotes directly** through supplier websites for best pricing
+5. **Check availability daily** as European used robot market moves quickly
