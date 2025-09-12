@@ -1,54 +1,85 @@
-# Neshagostar Pardis Official Website
+# Neshagostar Pardis Documentation Site
 
-Official GitHub Pages website for Neshagostar Pardis - Iran's pioneering manufacturer of polyethylene infrastructure solutions.
+A clean, bilingual (Persian/English) markdown documentation renderer for GitHub Pages.
 
-## About
+## 🚀 Quick Start
 
-This repository hosts the official website for Neshagostar Pardis, showcasing our comprehensive range of polyethylene pipes, wastewater treatment systems, and infrastructure solutions.
+Visit your site at: `https://[your-username].github.io/[repository-name]/`
 
-## Features
+## 📁 Project Structure
 
-- Modern, responsive design
-- Optimized for performance and SEO
-- Clean, semantic HTML5 structure
-- Professional business presentation
-- Mobile-first approach
-
-## Deployment
-
-This site is automatically deployed to GitHub Pages at:
 ```
-https://neshagostar-pardis.github.io
+.
+├── index.html              # Main HTML file
+├── styles.css              # Styling
+├── script.js               # JavaScript for markdown rendering
+├── docs/
+│   ├── fa/                 # Persian markdown files
+│   │   ├── getting-started.md
+│   │   ├── installation-guide.md
+│   │   └── robot-selection-guide.md
+│   └── en/                 # English markdown files
+│       ├── getting-started.md
+│       ├── installation-guide.md
+│       └── robot-selection-guide.md
+├── .github/
+│   └── workflows/
+│       └── deploy.yml      # GitHub Actions workflow
+└── .nojekyll              # Bypass Jekyll processing
 ```
 
-## Setup Instructions
+## 🌐 Features
 
-1. Create a new repository named `neshagostar-pardis.github.io` in your organization
-2. Upload the following files:
-   - `index.html` - Main website structure
-   - `styles.css` - Styling and responsive design
-   - `README.md` - This documentation file
-3. Enable GitHub Pages in repository settings
-4. The site will be live at the URL above
+- **Bilingual Support**: Switch between Persian (فارسی) and English
+- **RTL/LTR Support**: Automatic text direction switching
+- **Markdown Rendering**: Full markdown support including tables, code blocks, headers, lists
+- **Responsive Design**: Works on all device sizes
+- **Clean Interface**: Minimal design focused on documentation readability
 
-## Technologies Used
+## 📝 Adding New Documentation
 
-- HTML5
-- CSS3
-- Responsive Design
-- GitHub Pages
+1. **Add your markdown file** to the appropriate language folder:
+   - English: `docs/en/your-file.md`
+   - Persian: `docs/fa/your-file.md`
 
-## Browser Support
+2. **Update the navigation** in `script.js` (lines 46-60):
+   ```javascript
+   this.files.set('fa', new Map([
+       ['your-file', 'عنوان فارسی'],
+       // ... other files
+   ]));
+   
+   this.files.set('en', new Map([
+       ['your-file', 'English Title'],
+       // ... other files
+   ]));
+   ```
 
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
+3. **Commit and push** - the site will automatically deploy via GitHub Actions!
 
-## License
+## ⚙️ GitHub Pages Setup
 
-All rights reserved. Copyright © 2024 Neshagostar Pardis.
+1. Go to repository **Settings** → **Pages**
+2. Under **Source**, select **GitHub Actions**
+3. The site will deploy automatically on push to main branch
 
-## Contact
+## 🛠️ Local Development
 
-For inquiries: info@neshagostar-pardis.com
+```bash
+# Simple local server
+python3 -m http.server 8000
+# Then visit http://localhost:8000
+```
+
+## 📄 Current Documentation
+
+- **Getting Started**: Introduction to Neshagostar Pardis products and services
+- **Installation Guide**: Complete installation instructions for polyethylene pipes
+- **Robot Selection Guide**: Comprehensive guide for industrial robot selection for manufacturing automation
+
+---
+
+🤖 **Powered by clean, modern web technologies**
+- Vanilla JavaScript
+- CSS Grid & Flexbox  
+- GitHub Actions deployment
