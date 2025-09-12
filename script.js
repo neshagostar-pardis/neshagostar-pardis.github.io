@@ -143,19 +143,23 @@ class DocumentationRenderer {
                 const markdown = await response.text();
                 this.renderMarkdown(markdown);
             } else {
+                console.error(`Failed to load ${filename}.md: ${response.status} ${response.statusText}`);
                 this.renderPlaceholder(filename);
             }
         } catch (error) {
-            console.log(`Loading placeholder for ${filename}`);
+            console.error(`Error loading ${filename}:`, error);
             this.renderPlaceholder(filename);
         }
     }
 
     renderPlaceholder(filename) {
         const content = document.getElementById('markdownContent');
+        const files = this.files.get(this.currentLang);
+        const title = files.get(filename) || filename;
+        
         const placeholder = this.currentLang === 'fa' 
-            ? `# ${filename}\n\nمحتوای این سند هنوز آماده نشده است.\n\nلطفاً فایل مارک‌داون مربوطه را به پوشه \`docs/fa/\` اضافه کنید.`
-            : `# ${filename}\n\nContent for this document is not ready yet.\n\nPlease add the corresponding markdown file to the \`docs/en/\` folder.`;
+            ? `# ${title}\n\n⚠️ خطا در بارگذاری محتوا\n\nفایل \`${filename}.md\` در حال بارگذاری است یا یافت نشد.\n\nلطفاً صفحه را رفرش کنید یا بعداً دوباره امتحان کنید.`
+            : `# ${title}\n\n⚠️ Content Loading Error\n\nThe file \`${filename}.md\` is loading or could not be found.\n\nPlease refresh the page or try again later.`;
         
         this.renderMarkdown(placeholder);
     }
