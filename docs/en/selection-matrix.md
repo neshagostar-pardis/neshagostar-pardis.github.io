@@ -66,6 +66,26 @@
 - **Service**: Limited in Iran, requires third-party support
 - **Cost Range**: New $50,000-$160,000, Used $28,000-$90,000
 
+### **Detailed Explanation of KUKA CNC Technology Integration:**
+
+**1. KUKA.CNC Technology**
+- **Hybrid Controller**: KUKA systems can combine robot control with CNC control capabilities
+- **Direct G-Code Programming**: Ability to use standard CNC G-codes and M-codes directly
+- **Axis Coordination**: Simultaneous control of robot axes and additional axes (up to 8 axes)
+- **Machining Precision**: Position tolerance of ±0.02mm in machining applications
+
+**2. Benefits of CNC-Robot Integration:**
+- **Operator Familiarity**: CNC operators can work without extensive retraining
+- **Existing CAM Utilization**: Direct use of CAM software like Fusion 360, Mastercam
+- **Complex Trajectories**: Generation of complex 3D paths for cutting and welding
+- **Feed Rate Control**: Precise tool speed control like traditional CNC machines
+
+**3. Practical Applications for HDPE:**
+- **Precision Cutting**: CNC-accurate circular cutting path programming
+- **Controlled Welding**: Precise speed and temperature control for welding processes
+- **Part Machining**: Turning and milling of plastic components
+- **Repeatable Quality**: Consistent quality assurance in serial production
+
 **Universal Robots (Denmark)**
 - **Strengths**: Easiest programming, collaborative features, cost-effective
 - **Weaknesses**: Limited payload/reach options, lower precision
