@@ -73,6 +73,17 @@ body {
     color: white;
 }
 
+/* Mobile menu toggle */
+.menu-toggle {
+    display: none;
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 0.5rem;
+    color: #6c757d;
+}
+
 /* Content layout */
 .content {
     display: grid;
@@ -85,6 +96,7 @@ body {
     background: #f8f9fa;
     border-right: 2px solid #e9ecef;
     padding: 2rem 0;
+    transition: transform 0.3s ease;
 }
 
 .navigation {
@@ -310,48 +322,98 @@ body {
 }
 
 /* Responsive design */
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
     .content {
-        grid-template-columns: 1fr;
-    }
-    
-    .sidebar {
-        order: 2;
-        background: white;
-        border-right: none;
-        border-top: 2px solid #e9ecef;
+        grid-template-columns: 250px 1fr;
     }
     
     .main {
-        order: 1;
+        padding: 1.5rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .menu-toggle {
+        display: block;
+    }
+    
+    .content {
+        grid-template-columns: 1fr;
+        position: relative;
+    }
+    
+    .sidebar {
+        position: fixed;
+        top: 0;
+        left: -280px;
+        width: 280px;
+        height: 100vh;
+        z-index: 200;
+        background: white;
+        border-right: 2px solid #e9ecef;
+        box-shadow: 2px 0 10px rgba(0,0,0,0.1);
+        overflow-y: auto;
+        padding-top: 5rem;
+    }
+    
+    .sidebar.open {
+        transform: translateX(280px);
+    }
+    
+    [dir="rtl"] .sidebar {
+        left: auto;
+        right: -280px;
+        border-right: none;
+        border-left: 2px solid #e9ecef;
+        box-shadow: -2px 0 10px rgba(0,0,0,0.1);
+    }
+    
+    [dir="rtl"] .sidebar.open {
+        transform: translateX(-280px);
+    }
+    
+    .main {
         padding: 1rem;
+        grid-column: 1;
     }
     
     .header {
-        flex-direction: column;
+        flex-wrap: wrap;
         gap: 1rem;
         padding: 1rem;
     }
     
+    .header .controls {
+        order: 1;
+        flex: 1;
+        justify-content: space-between;
+    }
+    
     .title {
         font-size: 1.25rem;
+        order: 2;
+        width: 100%;
+        text-align: center;
     }
     
     .navigation {
-        flex-direction: row;
-        overflow-x: auto;
-        padding: 0 1rem;
+        flex-direction: column;
+        padding: 0;
     }
     
     .nav-link {
-        white-space: nowrap;
-        border-bottom: none;
-        border-right: 1px solid #e9ecef;
+        border-bottom: 1px solid #e9ecef;
+        border-right: none;
     }
     
     .nav-link.active {
+        border-left: 4px solid #0056b3;
+        border-bottom: 1px solid #e9ecef;
+    }
+    
+    [dir="rtl"] .nav-link.active {
+        border-right: 4px solid #0056b3;
         border-left: none;
-        border-bottom: 4px solid #0056b3;
     }
     
     .markdown-content {
@@ -368,10 +430,29 @@ body {
     
     .markdown-content table {
         font-size: 0.9rem;
+        overflow-x: auto;
+        display: block;
+        white-space: nowrap;
     }
     
     .markdown-content table td {
         padding: 0.75rem 0.5rem;
+    }
+    
+    /* Overlay for mobile menu */
+    .sidebar-overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0,0,0,0.5);
+        z-index: 150;
+        display: none;
+    }
+    
+    .sidebar-overlay.open {
+        display: block;
     }
 }
 
@@ -383,22 +464,69 @@ body {
     
     .lang-btn {
         width: 100%;
+        font-size: 0.9rem;
+        padding: 6px 12px;
     }
     
     .main {
         padding: 0.5rem;
     }
     
+    .markdown-content {
+        font-size: 0.9rem;
+        line-height: 1.5;
+    }
+    
     .markdown-content h1 {
         font-size: 1.75rem;
+        margin-bottom: 1rem;
     }
     
     .markdown-content h2 {
         font-size: 1.375rem;
+        margin: 1.5rem 0 1rem 0;
+    }
+    
+    .markdown-content h3 {
+        font-size: 1.125rem;
+        margin: 1.25rem 0 0.75rem 0;
+    }
+    
+    .markdown-content h4 {
+        font-size: 1rem;
+        margin: 1rem 0 0.5rem 0;
+    }
+    
+    .markdown-content p {
+        margin-bottom: 1rem;
     }
     
     .markdown-content pre {
         padding: 1rem;
         font-size: 0.85rem;
+        overflow-x: auto;
+    }
+    
+    .markdown-content ul {
+        margin: 1rem 0;
+        padding-left: 1.5rem;
+    }
+    
+    [dir="rtl"] .markdown-content ul {
+        padding-right: 1.5rem;
+        padding-left: 0;
+    }
+    
+    .markdown-content table {
+        font-size: 0.8rem;
+        width: 100%;
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+    
+    .markdown-content table td {
+        padding: 0.5rem 0.25rem;
+        min-width: 100px;
     }
 }

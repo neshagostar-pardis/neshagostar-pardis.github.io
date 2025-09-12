@@ -7,6 +7,7 @@ class DocumentationRenderer {
 
     init() {
         this.setupLanguageButtons();
+        this.setupMobileMenu();
         this.loadFilesList();
         this.renderNavigation();
         this.loadFirstDocument();
@@ -22,6 +23,32 @@ class DocumentationRenderer {
                 }
             });
         });
+    }
+
+    setupMobileMenu() {
+        const menuToggle = document.querySelector('.menu-toggle');
+        const sidebar = document.getElementById('sidebar');
+        const overlay = document.getElementById('sidebarOverlay');
+        
+        if (menuToggle && sidebar && overlay) {
+            menuToggle.addEventListener('click', () => {
+                sidebar.classList.toggle('open');
+                overlay.classList.toggle('open');
+            });
+            
+            overlay.addEventListener('click', () => {
+                sidebar.classList.remove('open');
+                overlay.classList.remove('open');
+            });
+            
+            // Close menu when clicking on nav links
+            sidebar.addEventListener('click', (e) => {
+                if (e.target.classList.contains('nav-link')) {
+                    sidebar.classList.remove('open');
+                    overlay.classList.remove('open');
+                }
+            });
+        }
     }
 
     switchLanguage(lang) {
@@ -42,21 +69,25 @@ class DocumentationRenderer {
     }
 
     loadFilesList() {
-        // Define available files - you can expand this list
+        // Define available files - robot guide sections
         this.files.set('fa', new Map([
-            ['getting-started', 'شروع کار'],
-            ['installation-guide', 'راهنمای نصب'],
-            ['robot-selection-guide', 'راهنمای انتخاب ربات'],
-            ['product-specifications', 'مشخصات محصولات'],
-            ['troubleshooting', 'عیب‌یابی']
+            ['executive-summary', 'خلاصه اجرایی'],
+            ['robot-specifications', 'مشخصات ربات'],
+            ['programming-methods', 'روش‌های برنامه‌نویسی'],
+            ['selection-matrix', 'ماتریس انتخاب'],
+            ['application-recommendations', 'توصیه‌های کاربردی'],
+            ['market-analysis', 'تحلیل بازار'],
+            ['final-recommendations', 'توصیه‌های نهایی']
         ]));
 
         this.files.set('en', new Map([
-            ['getting-started', 'Getting Started'],
-            ['installation-guide', 'Installation Guide'],
-            ['robot-selection-guide', 'Robot Selection Guide'],
-            ['product-specifications', 'Product Specifications'],
-            ['troubleshooting', 'Troubleshooting']
+            ['executive-summary', 'Executive Summary'],
+            ['robot-specifications', 'Robot Specifications'],
+            ['programming-methods', 'Programming Methods'],
+            ['selection-matrix', 'Selection Matrix'],
+            ['application-recommendations', 'Application Recommendations'],
+            ['market-analysis', 'Market Analysis'],
+            ['final-recommendations', 'Final Recommendations']
         ]));
     }
 
