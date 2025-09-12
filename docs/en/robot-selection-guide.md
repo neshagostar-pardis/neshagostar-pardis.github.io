@@ -916,6 +916,8 @@ This comprehensive selection guide provides the framework for making an informed
 
 Based on comprehensive research of European suppliers, here are the top 20 specific used robots currently available that match your requirements for septic tank manufacturing automation:
 
+**NOTE: For exact item URLs, contact suppliers directly as inventory changes daily. The listings below include supplier websites where current inventory can be viewed.**
+
 ### **German Suppliers**
 
 #### **1. KUKA KR 210 R3100 Ultra**
@@ -1110,5 +1112,16 @@ Based on comprehensive research of European suppliers, here are the top 20 speci
 
 **Priority Recommendations for Septic Tank Manufacturing:**
 - FANUC M-20iA/20M (optimal size/precision)
-- KUKA KR 30-3 (ideal payload for HDPE welding)
+- KUKA KR 30-3 (ideal payload for HDPE welding) 
 - ABB IRB 2600-20/1.65 (best precision/cost ratio)
+
+**Confirmed Direct URLs Available:**
+- **KUKA KR20 R1810-2 (2022):** https://www.exapro.com/kuka-kr20-r1810-2-p250307187/
+- **KUKA KR 90 R2700 pro (2012):** https://www.exapro.com/kuka-kr-90-r2700-pro-p240514020/
+- **KUKA KR16-2 (2017):** https://www.exapro.com/kuka-kr16-2-p250905071/
+
+**Key Action Items:**
+1. **Call Eurobots Spain immediately:** +34 946 744 397 (600+ robots in stock)
+2. **Contact Krüger Industrial Germany:** +49 2267 655389 0 (verified pricing)
+3. **Check daily inventory updates** on marketplace sites
+4. **Request current availability** as European used robot market moves quickly
