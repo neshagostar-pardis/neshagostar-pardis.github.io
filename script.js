@@ -1,0 +1,205 @@
+class DocumentationRenderer {
+    constructor() {
+        this.currentLang = 'fa';
+        this.files = new Map();
+        this.init();
+    }
+
+    init() {
+        this.setupLanguageButtons();
+        this.loadFilesList();
+        this.renderNavigation();
+        this.loadFirstDocument();
+    }
+
+    setupLanguageButtons() {
+        const langButtons = document.querySelectorAll('.lang-btn');
+        langButtons.forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                const lang = e.target.dataset.lang;
+                if (lang !== this.currentLang) {
+                    this.switchLanguage(lang);
+                }
+            });
+        });
+    }
+
+    switchLanguage(lang) {
+        this.currentLang = lang;
+        
+        // Update button states
+        document.querySelectorAll('.lang-btn').forEach(btn => {
+            btn.classList.toggle('active', btn.dataset.lang === lang);
+        });
+        
+        // Update document direction
+        document.documentElement.dir = lang === 'fa' ? 'rtl' : 'ltr';
+        document.documentElement.lang = lang;
+        
+        // Re-render navigation and content
+        this.renderNavigation();
+        this.loadFirstDocument();
+    }
+
+    loadFilesList() {
+        // Define available files - you can expand this list
+        this.files.set('fa', new Map([
+            ['getting-started', 'شروع کار'],
+            ['installation-guide', 'راهنمای نصب'],
+            ['robot-selection-guide', 'راهنمای انتخاب ربات'],
+            ['product-specifications', 'مشخصات محصولات'],
+            ['troubleshooting', 'عیب‌یابی']
+        ]));
+
+        this.files.set('en', new Map([
+            ['getting-started', 'Getting Started'],
+            ['installation-guide', 'Installation Guide'],
+            ['robot-selection-guide', 'Robot Selection Guide'],
+            ['product-specifications', 'Product Specifications'],
+            ['troubleshooting', 'Troubleshooting']
+        ]));
+    }
+
+    renderNavigation() {
+        const nav = document.getElementById('navigation');
+        nav.innerHTML = '';
+        
+        const files = this.files.get(this.currentLang);
+        if (!files) return;
+
+        files.forEach((title, filename) => {
+            const link = document.createElement('a');
+            link.href = '#';
+            link.textContent = title;
+            link.className = 'nav-link';
+            link.dataset.file = filename;
+            
+            link.addEventListener('click', (e) => {
+                e.preventDefault();
+                this.loadDocument(filename);
+                this.setActiveNavItem(link);
+            });
+            
+            nav.appendChild(link);
+        });
+    }
+
+    setActiveNavItem(activeLink) {
+        document.querySelectorAll('.nav-link').forEach(link => {
+            link.classList.remove('active');
+        });
+        activeLink.classList.add('active');
+    }
+
+    loadFirstDocument() {
+        const files = this.files.get(this.currentLang);
+        if (files && files.size > 0) {
+            const firstFile = files.keys().next().value;
+            this.loadDocument(firstFile);
+            
+            // Set first nav item as active
+            const firstLink = document.querySelector('.nav-link');
+            if (firstLink) {
+                this.setActiveNavItem(firstLink);
+            }
+        }
+    }
+
+    async loadDocument(filename) {
+        try {
+            const response = await fetch(`./docs/${this.currentLang}/${filename}.md`);
+            if (response.ok) {
+                const markdown = await response.text();
+                this.renderMarkdown(markdown);
+            } else {
+                this.renderPlaceholder(filename);
+            }
+        } catch (error) {
+            console.log(`Loading placeholder for ${filename}`);
+            this.renderPlaceholder(filename);
+        }
+    }
+
+    renderPlaceholder(filename) {
+        const content = document.getElementById('markdownContent');
+        const placeholder = this.currentLang === 'fa' 
+            ? `# ${filename}\n\nمحتوای این سند هنوز آماده نشده است.\n\nلطفاً فایل مارک‌داون مربوطه را به پوشه \`docs/fa/\` اضافه کنید.`
+            : `# ${filename}\n\nContent for this document is not ready yet.\n\nPlease add the corresponding markdown file to the \`docs/en/\` folder.`;
+        
+        this.renderMarkdown(placeholder);
+    }
+
+    renderMarkdown(markdown) {
+        const container = document.getElementById('markdownContent');
+        
+        // Simple markdown to HTML conversion
+        let html = markdown
+            // Headers
+            .replace(/^# (.*$)/gm, '<h1>$1</h1>')
+            .replace(/^## (.*$)/gm, '<h2>$1</h2>')
+            .replace(/^### (.*$)/gm, '<h3>$1</h3>')
+            .replace(/^#### (.*$)/gm, '<h4>$1</h4>')
+            
+            // Bold and italic
+            .replace(/\*\*\*(.*?)\*\*\*/g, '<strong><em>$1</em></strong>')
+            .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+            .replace(/\*(.*?)\*/g, '<em>$1</em>')
+            
+            // Code blocks
+            .replace(/```([\s\S]*?)```/g, '<pre><code>$1</code></pre>')
+            .replace(/`([^`]+)`/g, '<code>$1</code>')
+            
+            // Links
+            .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>')
+            
+            // Unordered lists
+            .replace(/^\- (.*$)/gm, '<li>$1</li>')
+            .replace(/^\* (.*$)/gm, '<li>$1</li>')
+            
+            // Ordered lists  
+            .replace(/^\d+\. (.*$)/gm, '<li>$1</li>')
+            
+            // Line breaks
+            .replace(/\n\n/g, '</p><p>')
+            .replace(/\n/g, '<br>')
+            
+            // Blockquotes
+            .replace(/^> (.*$)/gm, '<blockquote>$1</blockquote>')
+            
+            // Tables (basic support)
+            .replace(/\|(.*?)\|/g, (match, content) => {
+                const cells = content.split('|').map(cell => cell.trim());
+                const cellsHtml = cells.map(cell => `<td>${cell}</td>`).join('');
+                return `<tr>${cellsHtml}</tr>`;
+            });
+
+        // Wrap paragraphs
+        html = '<p>' + html + '</p>';
+        html = html.replace(/<\/p><p><h/g, '</p><h').replace(/<\/h([1-6])><p>/g, '</h$1><p>');
+        html = html.replace(/<\/p><p><ul>/g, '</p><ul>').replace(/<\/ul><p>/g, '</ul><p>');
+        html = html.replace(/<\/p><p><ol>/g, '</p><ol>').replace(/<\/ol><p>/g, '</ol><p>');
+        html = html.replace(/<\/p><p><pre>/g, '</p><pre>').replace(/<\/pre><p>/g, '</pre><p>');
+        html = html.replace(/<\/p><p><blockquote>/g, '</p><blockquote>').replace(/<\/blockquote><p>/g, '</blockquote><p>');
+        
+        // Fix list containers
+        html = html.replace(/(<li>.*?<\/li>)/gs, (match) => {
+            return '<ul>' + match + '</ul>';
+        });
+        html = html.replace(/<\/ul><br><ul>/g, '');
+        
+        // Fix table containers
+        html = html.replace(/(<tr>.*?<\/tr>)/gs, '<table>$1</table>');
+        html = html.replace(/<\/table><br><table>/g, '');
+
+        // Clean up empty paragraphs
+        html = html.replace(/<p><\/p>/g, '');
+        html = html.replace(/<p><br><\/p>/g, '');
+
+        container.innerHTML = html;
+    }
+}
+
+// Initialize when DOM is loaded
+document.addEventListener('DOMContentLoaded', () => {
+    new DocumentationRenderer();
+});
