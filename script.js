@@ -63,6 +63,14 @@ class DocumentationRenderer {
         document.documentElement.dir = lang === 'fa' ? 'rtl' : 'ltr';
         document.documentElement.lang = lang;
         
+        // Update site title based on language
+        const siteTitle = document.getElementById('siteTitle');
+        if (siteTitle) {
+            siteTitle.textContent = lang === 'fa' 
+                ? 'مستندات نشاگستر پردیس' 
+                : 'Neshagostar Pardis Documentation';
+        }
+        
         // Re-render navigation and content
         this.renderNavigation();
         this.loadFirstDocument();
