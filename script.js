@@ -78,6 +78,7 @@ class DocumentationRenderer {
             ['application-recommendations', 'توصیه‌های کاربردی'],
             ['market-analysis', 'تحلیل بازار'],
             ['cnc-capable-robots', 'ربات‌های قابل CNC'],
+            ['cnc-robot-programming', 'آموزش برنامه‌نویسی CNC'],
             ['final-recommendations', 'توصیه‌های نهایی']
         ]));
 
@@ -89,6 +90,7 @@ class DocumentationRenderer {
             ['application-recommendations', 'Application Recommendations'],
             ['market-analysis', 'Market Analysis'],
             ['cnc-capable-robots', 'CNC-Capable Robots'],
+            ['cnc-robot-programming', 'CNC Programming Tutorial'],
             ['final-recommendations', 'Final Recommendations'],
             ['system-architecture', 'System Architecture']
         ]));
