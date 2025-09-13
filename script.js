@@ -87,7 +87,8 @@ class DocumentationRenderer {
             ['market-analysis', 'تحلیل بازار'],
             ['cnc-capable-robots', 'ربات‌های قابل CNC'],
             ['cnc-robot-programming', 'آموزش برنامه‌نویسی CNC'],
-            ['final-recommendations', 'توصیه‌های نهایی']
+            ['final-recommendations', 'توصیه‌های نهایی'],
+            ['european-robot-marketplace-2025', 'بازار ربات اروپا ۲۰۲۵']
         ]));
 
         this.files.set('en', new Map([
@@ -100,7 +101,8 @@ class DocumentationRenderer {
             ['cnc-capable-robots', 'CNC-Capable Robots'],
             ['cnc-robot-programming', 'CNC Programming Tutorial'],
             ['final-recommendations', 'Final Recommendations'],
-            ['system-architecture', 'System Architecture']
+            ['system-architecture', 'System Architecture'],
+            ['european-robot-marketplace-2025', 'European Robot Marketplace 2025']
         ]));
     }
 
