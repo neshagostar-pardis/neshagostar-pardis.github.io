@@ -101,7 +101,6 @@ class DocumentationRenderer {
             ['cnc-capable-robots', 'CNC-Capable Robots'],
             ['cnc-robot-programming', 'CNC Programming Tutorial'],
             ['final-recommendations', 'Final Recommendations'],
-            ['system-architecture', 'System Architecture'],
             ['european-robot-marketplace-2025', 'European Robot Marketplace 2025']
         ]));
     }
