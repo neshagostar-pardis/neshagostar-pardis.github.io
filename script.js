@@ -88,7 +88,8 @@ class DocumentationRenderer {
             ['cnc-capable-robots', 'ربات‌های قابل CNC'],
             ['cnc-robot-programming', 'آموزش برنامه‌نویسی CNC'],
             ['final-recommendations', 'توصیه‌های نهایی'],
-            ['european-robot-marketplace-2025', 'بازار ربات اروپا ۲۰۲۵']
+            ['european-robot-marketplace-2025', 'بازار ربات اروپا ۲۰۲۵'],
+            ['kuka-cnc-integration-guide', 'راهنمای یکپارچگی KUKA-CNC']
         ]));
 
         this.files.set('en', new Map([
@@ -101,7 +102,8 @@ class DocumentationRenderer {
             ['cnc-capable-robots', 'CNC-Capable Robots'],
             ['cnc-robot-programming', 'CNC Programming Tutorial'],
             ['final-recommendations', 'Final Recommendations'],
-            ['european-robot-marketplace-2025', 'European Robot Marketplace 2025']
+            ['european-robot-marketplace-2025', 'European Robot Marketplace 2025'],
+            ['kuka-cnc-integration-guide', 'KUKA-CNC Integration Guide']
         ]));
     }
 
