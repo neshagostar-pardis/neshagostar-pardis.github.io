@@ -21,7 +21,7 @@ a { color: var(--link); }
 .top .wrap { display: flex; flex-wrap: wrap; gap: 8px 24px; align-items: center; justify-content: space-between; padding-block: 10px; }
 .top a { color: #242424; text-decoration: none; }
 .brand img { display: block; height: 60px; width: auto; }
-.top nav { display: flex; gap: 20px; font-weight: 700; }
+.top nav { display: flex; flex-wrap: wrap; gap: 4px 20px; font-weight: 700; }
 .top nav a:hover, .top nav a:focus { color: var(--accent-hover); }
 .top nav a[aria-current] { border-block-end: 3px solid var(--accent); }
 
@@ -55,3 +55,16 @@ table.rates { width: 100%; border-collapse: collapse; background: var(--surface)
 @media (max-width: 600px) { .rates th, .rates td { padding: 6px 4px; font-size: .85rem; } h1 { font-size: 1.3rem; } }
 .tbl { overflow-x: auto; -webkit-overflow-scrolling: touch; }
 html, body { overflow-x: hidden; }
+
+/* monthly price chart (hdpe): two validated series colours, PE100 also dashed so identity is not colour-only */
+:root { --s1: #13621f; --s2: #c26a00; }
+@media (prefers-color-scheme: dark) { :root { --s1: #3fa456; --s2: #d27c10; } }
+.chart svg.mchart { height: auto; }
+.mchart .grid { stroke: var(--line); stroke-width: 1; }
+.mchart .tick { fill: var(--muted); font-size: 11px; font-family: Vazirmatn, Tahoma, sans-serif; }
+.mchart .ln { fill: none; stroke-width: 2; stroke-linejoin: round; }
+.mchart .ln.s1 { stroke: var(--s1); } .mchart .ln.s2 { stroke: var(--s2); stroke-dasharray: 6 4; }
+.mchart .pt { stroke: var(--surface); stroke-width: 1.5; } .mchart .pt.s1 { fill: var(--s1); } .mchart .pt.s2 { fill: var(--s2); }
+.legend { display: flex; flex-wrap: wrap; gap: 4px 16px; align-items: center; font-size: .9rem; margin-block-start: 6px; }
+.legend .key::before { content: ""; display: inline-block; width: 22px; height: 0; margin-inline-end: 6px; vertical-align: middle; border-block-start: 3px solid var(--s1); }
+.legend .key.s2::before { border-block-start: 3px dashed var(--s2); }
