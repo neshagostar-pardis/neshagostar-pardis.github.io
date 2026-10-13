@@ -1,0 +1,26 @@
+/* /monaghesat/ hub and daily tender pages. Uses the tokens from style.css; logical properties for RTL. */
+.days ul { display: flex; flex-wrap: wrap; gap: 6px 8px; padding: 0; margin: 8px 0 0; list-style: none; }
+.days a { display: inline-block; padding: 2px 10px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); font-size: .85rem; text-decoration: none; }
+.day { scroll-margin-top: 12px; }
+.day .empty { margin-block: 4px 16px; }
+.more { margin-block: 4px 0; font-size: .9rem; }
+
+.tenders { list-style: none; padding: 0; margin: 8px 0 0; display: grid; gap: 12px; }
+.tender { background: var(--surface); border: 1px solid var(--line); border-inline-start: 4px solid var(--accent); border-radius: 4px; padding: 10px 14px; min-width: 0; }
+.tender.is-expired { border-inline-start-color: var(--line); }
+.tender.is-expired .t-title { color: var(--muted); }
+.t-title { font-size: 1rem; line-height: 1.7; margin: 0 0 4px; padding: 0; border: 0; overflow-wrap: anywhere; }
+.t-badges { margin: 0 0 6px; display: flex; flex-wrap: wrap; gap: 4px; }
+.badge { display: inline-block; font-size: .75rem; line-height: 1.6; padding: 0 8px; border-radius: 999px; background: var(--bg); border: 1px solid var(--line); }
+.badge.expired { background: var(--up); color: #fff; border-color: var(--up); font-weight: 700; }
+.badge.tag { color: var(--green); }
+.t-facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 2px 16px; margin: 0; font-size: .9rem; }
+.t-facts div { display: flex; gap: 6px; min-width: 0; }
+.t-facts dt { color: var(--muted); white-space: nowrap; }
+.t-facts dt::after { content: ":"; }
+.t-facts dd { margin: 0; overflow-wrap: anywhere; }
+.t-sum { margin: 6px 0 0; font-size: .95rem; }
+.t-src { margin: 6px 0 0; font-size: .85rem; overflow-wrap: anywhere; }
+.archive { columns: 2 14rem; padding-inline-start: 18px; }
+.disclaimer { margin-block-start: 20px; }
+@media (max-width: 600px) { .tender { padding: 8px 10px; } .t-facts { grid-template-columns: 1fr; } }

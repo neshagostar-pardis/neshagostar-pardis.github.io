@@ -2,7 +2,7 @@
  {
   "date": "2026-10-14",
   "jalali": "1405/07/22",
-  "fetched_at": "2026-10-14T02:38:09+03:30",
+  "fetched_at": "2026-10-14T03:12:44+03:30",
   "unit": "toman",
   "source": "https://alanchand.com/",
   "rates": {
@@ -23,8 +23,8 @@
    },
    "try": {
     "name": "لیر ترکیه",
-    "buy": 5190,
-    "sell": 5350
+    "buy": 5200,
+    "sell": 5360
    }
   }
  }
