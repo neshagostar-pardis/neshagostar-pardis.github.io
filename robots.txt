@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://neshagostar-pardis.github.io/sitemap.xml
