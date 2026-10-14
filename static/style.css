@@ -49,9 +49,6 @@ table.rates { width: 100%; border-collapse: collapse; background: var(--surface)
 .tags { display: flex; flex-wrap: wrap; gap: 8px; padding: 0; list-style: none; }
 .tags li { background: var(--bg); border: 1px solid var(--line); border-radius: 999px; padding: 2px 12px; font-size: .9rem; }
 
-.foot { background: var(--footer); color: var(--footer-ink); font-size: .85rem; padding-block: 8px; }
-.foot a { color: var(--accent); }
-.foot .muted { color: #b5b5b5; }
 @media (max-width: 600px) { .rates th, .rates td { padding: 6px 4px; font-size: .85rem; } h1 { font-size: 1.3rem; } }
 .tbl { overflow-x: auto; -webkit-overflow-scrolling: touch; }
 html, body { overflow-x: hidden; }
@@ -81,3 +78,28 @@ td.st { font-weight: 700; white-space: nowrap; }
 .st-partial, .st-late { color: var(--accent-hover); } .st-pending { color: var(--muted); }
 .ntf-list li { color: var(--text); } .ntf-list li strong { color: var(--up); }
 .ntf-list li.st-partial strong, .ntf-list li.st-late strong { color: var(--accent-hover); }
+
+/* footer: mirrors neshagostar.com (charcoal band, four columns, copyright bar with contact icons) */
+.foot { background: var(--footer); color: #969696; font-size: .85rem; padding: 0; margin-block-start: 48px; }
+.foot a { color: #e5e5e5; text-decoration: none; }
+.foot a:hover, .foot a:focus { color: var(--accent); }
+.foot h3 { color: #ffffff; font-size: 1rem; margin-block: 0 12px; padding-block-end: 8px; border-block-end: 1px solid #4a4a4a; }
+.foot-cols { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 32px; padding-block: 40px 24px; }
+.foot-about img { display: block; height: auto; margin-block-end: 12px; }
+.foot-about p { line-height: 2; margin: 0; text-align: justify; }
+.foot ul { list-style: none; margin: 0 0 16px; padding: 0; }
+.foot li { padding-block: 6px; border-block-end: 1px solid #4a4a4a; }
+.foot-contact .office strong { display: flex; align-items: center; gap: 6px; color: #ffffff; }
+.foot-contact .office p { margin: 4px 0 16px; line-height: 2; }
+.foot .ic { width: 16px; height: 16px; fill: var(--accent); flex: none; }
+.foot-bar { border-block-start: 1px solid #4a4a4a; color: #a6a6a6; }
+.foot-bar .wrap { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; padding-block: 14px; }
+.foot-bar p { margin: 0; flex: 1 1 320px; }
+.foot-bar small { color: #7a7a7a; }
+.foot .social { display: flex; gap: 8px; margin: 0; }
+.foot .social li { padding: 0; border: 0; }
+.foot .social a { display: grid; place-items: center; width: 36px; height: 36px; border-radius: 50%; background: var(--accent); }
+.foot .social a:hover, .foot .social a:focus { background: var(--accent-hover); }
+.foot .social svg { width: 18px; height: 18px; fill: #242424; }
+@media (max-width: 900px) { .foot-cols { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 560px) { .foot-cols { grid-template-columns: 1fr; gap: 20px; } }
