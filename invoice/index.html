@@ -28,8 +28,15 @@
 <main class="inv-main">
   <section id="login" class="login card">
     
-    <h2>هنوز راه‌اندازی نشده</h2>
-    <p>برای این بخش هنوز کاربری تعریف نشده است. مدیر سایت باید کاربران را اضافه کند.</p>
+    <h2>ورود</h2>
+    <p class="muted">این بخش فقط برای کاربران مجاز نشاگستر پردیس است. اطلاعات قیمت پس از ورود و فقط روی دستگاه شما باز می‌شود.</p>
+    <form id="login-form" autocomplete="on">
+      <label>نام کاربری <input id="login-user" name="username" autocomplete="username" required></label>
+      <label>رمز عبور <input id="login-pass" name="password" type="password" autocomplete="current-password" required></label>
+      <label class="chk"><input id="login-remember" type="checkbox"> مرا روی این دستگاه تا ۱۲ ساعت به خاطر بسپار</label>
+      <button type="submit" class="ibtn primary" id="login-btn">ورود</button>
+      <p id="login-msg" class="msg" role="alert"></p>
+    </form>
     
     <noscript><p class="msg">این بخش بدون جاوااسکریپت کار نمی‌کند.</p></noscript>
   </section>

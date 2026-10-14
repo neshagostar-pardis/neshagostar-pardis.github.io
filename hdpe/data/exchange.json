@@ -27,7 +27,7 @@
    "producer": "پتروشیمی جم",
    "class": "PE100",
    "url": "https://iranzayeat.com/prices/search/pscat-60/pstag-327",
-   "fetched_at": "2026-10-14T18:27:41+03:30"
+   "fetched_at": "2026-10-14T18:40:55+03:30"
   },
   "pe80": {
    "daily": [
@@ -49,7 +49,7 @@
    "producer": "چند پتروشیمی (امیرکبیر، ایلام، شازند و …)",
    "class": "PE80",
    "url": "https://iranzayeat.com/prices/search/pscat-60/pstag-326",
-   "fetched_at": "2026-10-14T18:27:42+03:30"
+   "fetched_at": "2026-10-14T18:40:56+03:30"
   }
  }
 }
