@@ -24,3 +24,21 @@
 .archive { columns: 2 14rem; padding-inline-start: 18px; }
 .disclaimer { margin-block-start: 20px; }
 @media (max-width: 600px) { .tender { padding: 8px 10px; } .t-facts { grid-template-columns: 1fr; } }
+
+/* hub filter (static/tenders-filter.js) and month archive */
+.tf { background: var(--surface); border: 1px solid var(--line); border-radius: 4px; padding: 10px 14px; margin-block: 16px; }
+.tf[hidden] { display: none; }
+.tf-ranges { display: flex; flex-wrap: wrap; gap: 6px; }
+.tf-ranges button { font: inherit; font-size: .9rem; padding: 2px 14px; border: 1px solid var(--line); border-radius: 999px; background: var(--bg); color: var(--text); cursor: pointer; }
+.tf-ranges button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #242424; font-weight: 700; }
+.tf-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 8px 16px; margin-block-start: 10px; }
+.tf-field { display: flex; flex-direction: column; gap: 2px; font-size: .85rem; color: var(--muted); position: relative; min-width: 0; }
+.tf-field input { font: inherit; font-size: 1rem; color: var(--text); background: var(--bg); border: 1px solid var(--line); border-radius: 4px; padding: 6px 10px; min-width: 0; }
+.tf-field input:focus { outline: 2px solid var(--accent); outline-offset: 0; }
+.tf-day ul { position: absolute; inset-inline: 0; top: 100%; z-index: 5; max-height: 18rem; overflow-y: auto; margin: 2px 0 0; padding: 4px 0; list-style: none; background: var(--surface); border: 1px solid var(--line); border-radius: 4px; box-shadow: 0 4px 12px rgb(0 0 0 / .12); }
+.tf-day li { padding: 4px 10px; color: var(--text); cursor: pointer; font-size: .95rem; }
+.tf-day li[aria-selected="true"], .tf-day li:hover { background: var(--accent); color: #242424; }
+#tf-status { margin-block: 8px 0; }
+.tf-more { display: block; margin: 12px auto; }
+.months { display: flex; flex-wrap: wrap; gap: 6px 16px; padding: 0; list-style: none; }
+.mlist { padding-inline-start: 18px; } .mlist li { margin-block: 4px; }
