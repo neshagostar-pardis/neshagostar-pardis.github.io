@@ -1,6 +1,6 @@
 {
  "unit": "IRR/kg",
- "basis": "company purchase invoices, unit price excluding VAT and freight; monthly weight-weighted average",
+ "basis": "میانگین ماهانه نرخ‌های ثبت‌شده نشاگستر پردیس، بدون مالیات بر ارزش افزوده و هزینه حمل",
  "grades": [
   {
    "slug": "pe100",
@@ -946,5 +946,6 @@
     }
    ]
   }
- ]
+ ],
+ "source": "داده‌های قیمت نشاگستر"
 }

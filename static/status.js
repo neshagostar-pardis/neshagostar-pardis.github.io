@@ -5,7 +5,7 @@
   var TZ = 'Asia/Tehran';
   var LATE_HOUR = 13; // no successful run by this Tehran hour: today is flagged as late
   var DAYS = 30;
-  var STEP = { rates: 'دریافت نرخ ارز', build: 'ساخت صفحات', seo: 'بررسی کیفیت صفحات', save: 'ذخیره داده‌ها', tenders: 'دریافت مناقصات' };
+  var STEP = { rates: 'دریافت نرخ ارز', build: 'ساخت صفحات', seo: 'بررسی کیفیت صفحات', save: 'ذخیره داده‌ها', tenders: 'دریافت مناقصات', exchange: 'دریافت قیمت بورس کالا' };
   var LLM = {
     billing_error: 'اعتبار LLM تمام شده است؛ اعتبار را شارژ یا کلید را عوض کنید.',
     authentication_failed: 'کلید LLM نامعتبر است یا تنظیم نشده است.'
@@ -33,11 +33,12 @@
   }
 
   function describe(run) {
-    var failed = Object.keys(STEP).filter(function (k) { return k !== 'tenders' && run.steps[k] !== 'success'; });
+    var failed = Object.keys(STEP).filter(function (k) { return k !== 'tenders' && k !== 'exchange' && run.steps[k] !== 'success'; });
     var out = [];
     if (failed.length) out.push('سایت به‌روز نشد؛ مرحله ناموفق: ' + failed.map(function (k) { return STEP[k]; }).join('، ') + '.');
     if (run.llm_status !== 'ok') out.push(LLM[run.llm_status] || 'LLM پاسخ نداد؛ مناقصات بدون امتیازدهی هوشمند فیلتر شدند.');
     if (run.steps.tenders !== 'success') out.push('دریافت مناقصات ناموفق بود.');
+    if (run.steps.exchange && run.steps.exchange !== 'success') out.push('قیمت پلی‌اتیلن بورس کالا دریافت نشد.');
     if (!failed.length) out.push('نرخ ارز و بقیه صفحات به‌روز شدند.');
     return 'اجرای ساعت ' + timeFa(run.at) + ': ' + out.join(' ');
   }

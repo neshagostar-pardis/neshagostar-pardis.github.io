@@ -103,3 +103,20 @@ td.st { font-weight: 700; white-space: nowrap; }
 .foot .social svg { width: 18px; height: 18px; fill: #242424; }
 @media (max-width: 900px) { .foot-cols { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 560px) { .foot-cols { grid-template-columns: 1fr; gap: 20px; } }
+
+/* comparison charts: series 3/4 are the exchange; hover tooltip from static/chart.js */
+:root { --s3: #1565c0; --s4: #7b3fa0; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --s3: #64a8f0; --s4: #c08ae0; } }
+.mchart .ln.s3 { stroke: var(--s3); stroke-width: 2.5; } .mchart .ln.s4 { stroke: var(--s4); stroke-width: 2.5; stroke-dasharray: 6 4; }
+.mchart .pt.s3 { fill: var(--s3); } .mchart .pt.s4 { fill: var(--s4); }
+.legend .key.s3::before { border-block-start: 3px solid var(--s3); }
+.legend .key.s4::before { border-block-start: 3px dashed var(--s4); }
+.chart.has-tip { position: relative; }
+.chart.has-tip svg { touch-action: pan-y; cursor: crosshair; }
+.mchart .cross { stroke: var(--muted); stroke-width: 1; stroke-dasharray: 3 3; pointer-events: none; }
+.chart-tip { position: absolute; z-index: 2; pointer-events: none; background: var(--surface); color: var(--text); border: 1px solid var(--line);
+  border-inline-start: 3px solid var(--accent); border-radius: 4px; box-shadow: 0 2px 10px rgb(0 0 0 / .15); padding: 6px 10px; font-size: .8rem; line-height: 1.7; white-space: nowrap; }
+.chart-tip strong { display: block; }
+.chart-tip .sw { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-inline-end: 6px; vertical-align: middle; background: var(--s1); }
+.chart-tip .sw.s2 { background: var(--s2); } .chart-tip .sw.s3 { background: var(--s3); } .chart-tip .sw.s4 { background: var(--s4); }
+.src { font-size: .85rem; color: var(--muted); }
