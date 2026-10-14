@@ -14,6 +14,8 @@ body.inv { background: var(--bg); padding-block-end: 72px; }
 .inv input, .inv select, .inv textarea { display: block; width: 100%; margin-top: 2px; padding: 7px 9px; font: inherit; font-size: .95rem;
   color: var(--text); background: var(--surface); border: 1px solid #c9c9c9; border-radius: 4px; min-width: 0; }
 .inv textarea { resize: vertical; line-height: 1.7; }
+/* text boxes and dropdowns share one height, so boxes side by side line up */
+.inv input:not([type=checkbox]):not([type=radio]):not([type=file]), .inv select { box-sizing: border-box; height: 2.6rem; }
 .inv input:focus-visible, .inv select:focus-visible, .inv textarea:focus-visible, .inv button:focus-visible, .inv summary:focus-visible {
   outline: 3px solid var(--accent); outline-offset: 1px; }
 .inv input::placeholder, .inv textarea::placeholder { color: var(--auto); opacity: 1; }
@@ -25,6 +27,7 @@ body.inv { background: var(--bg); padding-block-end: 72px; }
 .inv label.chk input { width: auto; margin: 0; }
 .row2, .row3 { display: grid; gap: 0 12px; grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .row3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.row2, .row3, .line-grid { align-items: end; }   /* a label that wraps must not push its box down */
 .hint { color: var(--muted); font-size: .8rem; margin: 4px 0; }
 .lang-tag { font-size: .7rem; background: var(--brand-soft); color: var(--brand); border-radius: 3px; padding: 0 5px; margin-inline-start: 4px; }
 .msg { color: var(--up); font-size: .9rem; }
@@ -78,6 +81,8 @@ body.inv { background: var(--bg); padding-block-end: 72px; }
 .line-desc { margin-block: 4px; }
 .line-grid { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 0 8px; }
 .line-total { display: block; padding: 7px 0; font-weight: 700; color: var(--text); font-variant-numeric: tabular-nums; text-align: end; }
+.line-grid .line-total { box-sizing: border-box; height: 2.6rem; }
+.line-grid .line-total { display: flex; align-items: center; justify-content: flex-end; margin-top: 2px; }
 .line-tail { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
 .line-det summary { cursor: pointer; font-size: .8rem; color: var(--link); }
 .det-grid { display: grid; grid-template-columns: auto 1fr; gap: 2px 12px; font-size: .78rem; margin: 6px 0; }
