@@ -42,3 +42,13 @@
 .tf-more { display: block; margin: 12px auto; }
 .months { display: flex; flex-wrap: wrap; gap: 6px 16px; padding: 0; list-style: none; }
 .mlist { padding-inline-start: 18px; } .mlist li { margin-block: 4px; }
+
+/* relevance to our products, 5 = they buy our product, 1 = service work */
+.badge.match { font-weight: 700; border-color: transparent; }
+.badge.match.m5 { background: #13621f; color: #fff; }
+.badge.match.m4 { background: #2e7d32; color: #fff; }
+.badge.match.m3 { background: var(--accent); color: #242424; }
+.badge.match.m2 { background: #e0e0e0; color: #242424; }
+.badge.match.m1 { background: transparent; border-color: var(--line); color: var(--muted); font-weight: 400; }
+.match-legend { font-size: .85rem; color: var(--muted); }
+.match-legend .badge { margin-inline: 2px; }

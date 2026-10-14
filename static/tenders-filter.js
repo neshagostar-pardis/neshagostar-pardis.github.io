@@ -95,6 +95,11 @@
     var h = el('h3', 't-title');
     var a = el('a', '', t.title); a.href = t.page + '#t-' + t.id; h.appendChild(a); li.appendChild(h);
     var b = el('p', 't-badges');
+    if (t.match) {
+      var mb = el('span', 'badge match m' + t.match, 'ارتباط ' + fa(t.match) + '/۵ · ' + (t.match_label || ''));
+      mb.title = 'میزان ارتباط با محصولات نشاگستر پردیس';
+      b.appendChild(mb); b.appendChild(document.createTextNode(' '));
+    }
     b.appendChild(el('span', 'badge', t.type || 'مناقصه'));
     if (expired) { b.appendChild(document.createTextNode(' ')); b.appendChild(el('span', 'badge expired', 'منقضی')); }
     (t.tags || []).forEach(function (tag) { b.appendChild(document.createTextNode(' ')); b.appendChild(el('span', 'badge tag', tag)); });

@@ -5,7 +5,7 @@
   "url": "https://neshagostar.com"
  },
  "homepage": "https://neshagostar-pardis.github.io/",
- "updated": "2026-10-14T18:23:41+03:30",
+ "updated": "2026-10-14T18:32:45+03:30",
  "update_frequency": "daily (Asia/Tehran)",
  "attribution": "Please credit «نشاگستر پردیس» with a link to the dataset page.",
  "llms": "https://neshagostar-pardis.github.io/llms.txt",
@@ -20,7 +20,7 @@
    "description": "قیمت فروش دلار در بازار آزاد ایران به تومان، ثبت روزانه از alanchand.com توسط نشاگستر پردیس.",
    "page": "https://neshagostar-pardis.github.io/currency/dollar/",
    "temporal_coverage": "2026-10-14/..",
-   "updated": "2026-10-14T18:23:41+03:30",
+   "updated": "2026-10-14T18:32:45+03:30",
    "files": [
     {
      "url": "https://neshagostar-pardis.github.io/currency/data/usd.csv",
@@ -33,7 +33,7 @@
    "description": "قیمت فروش یورو در بازار آزاد ایران به تومان، ثبت روزانه از alanchand.com توسط نشاگستر پردیس.",
    "page": "https://neshagostar-pardis.github.io/currency/euro/",
    "temporal_coverage": "2026-10-14/..",
-   "updated": "2026-10-14T18:23:41+03:30",
+   "updated": "2026-10-14T18:32:45+03:30",
    "files": [
     {
      "url": "https://neshagostar-pardis.github.io/currency/data/eur.csv",
@@ -151,7 +151,7 @@
    "name": "مناقصه‌ها و استعلام‌های لوله، مخزن و سپتیک پلی‌اتیلن",
    "description": "Daily list of Iranian tenders and price inquiries for polyethylene pipes, tanks, septic tanks and wastewater packages: title, employer, province, deadline, a short summary and source links.",
    "page": "https://neshagostar-pardis.github.io/tenders/",
-   "updated": "2026-10-14T18:23:41+03:30",
+   "updated": "2026-10-14T18:32:45+03:30",
    "files": [
     {
      "url": "https://neshagostar-pardis.github.io/tenders/data/index.json",
