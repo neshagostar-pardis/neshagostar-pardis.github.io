@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>صدور پیش‌فاکتور | نشاگستر پردیس</title>
+<meta name="description" content="بخش داخلی صدور پیش‌فاکتور و فاکتور نشاگستر پردیس به فارسی و انگلیسی؛ فقط برای کاربران مجاز، با ورود نام کاربری و رمز عبور و بدون دسترسی عمومی.">
+<meta name="robots" content="noindex,nofollow">
+<meta name="referrer" content="no-referrer">
+<meta name="theme-color" content="#FFD900">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="preload" href="/static/fonts/Vazirmatn-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/static/style.css">
+<link rel="stylesheet" href="/static/invoice/invoice.css">
+</head>
+<body class="inv">
+<header class="inv-top">
+  <a class="inv-brand" href="/"><img src="/static/img/logo.png" width="98" height="40" alt="لوگوی نشاگستر پردیس"></a>
+  <h1>صدور پیش‌فاکتور و فاکتور</h1>
+  <div class="inv-user" id="user-bar" hidden>
+    <span id="user-name" class="muted"></span>
+    <button type="button" class="ibtn" id="btn-saved">ذخیره‌شده‌ها</button>
+    <button type="button" class="ibtn" id="btn-settings">تنظیمات</button>
+    <button type="button" class="ibtn ghost" id="btn-logout">خروج</button>
+  </div>
+</header>
+
+<main class="inv-main">
+  <section id="login" class="login card">
+    
+    <h2>هنوز راه‌اندازی نشده</h2>
+    <p>برای این بخش هنوز کاربری تعریف نشده است. مدیر سایت باید کاربران را اضافه کند.</p>
+    
+    <noscript><p class="msg">این بخش بدون جاوااسکریپت کار نمی‌کند.</p></noscript>
+  </section>
+
+  <section id="app" hidden>
+    <p id="storage-warn" class="msg warn" hidden></p>
+    <div class="inv-grid">
+      <div class="pane pane-form" id="pane-form">
+        <form id="inv-form" autocomplete="off" novalidate>
+          <fieldset class="card">
+            <legend>زبان، نوع سند و واحد پول</legend>
+            <div class="seg" role="group" aria-label="زبان سند">
+              <button type="button" id="lang-fa" aria-pressed="true">فارسی</button>
+              <button type="button" id="lang-en" aria-pressed="false">English</button>
+            </div>
+            <p class="hint">متن‌های آزاد (نام، نشانی و …) برای هر زبان جدا نگه‌داری می‌شوند؛ با عوض کردن زبان، نسخه همان زبان را وارد کنید.</p>
+            <div class="row3">
+              <label>نوع سند <select id="f-type">
+                <option value="proforma">پیش‌فاکتور</option>
+                <option value="offer">پیش‌فاکتور قیمت (موقت)</option>
+                <option value="invoice">فاکتور</option></select></label>
+              <label>واحد پول <select id="f-currency" data-auto="currency">
+                <option value="IRT">تومان</option><option value="IRR">ریال</option><option value="USD">دلار آمریکا (USD)</option></select></label>
+              <label id="usd-box">نرخ دلار (تومان) <input id="f-usd" class="num" inputmode="decimal"></label>
+            </div>
+          </fieldset>
+
+          <fieldset class="card">
+            <legend>مشخصات سند</legend>
+            <div class="row3">
+              <label>شماره <input id="f-number" data-auto="number" inputmode="latin"></label>
+              <label>تاریخ <input id="f-date" data-auto="date" inputmode="numeric" aria-describedby="f-date-hint"></label>
+              <label>اعتبار (روز) <input id="f-valid" data-auto="validDays" inputmode="numeric"></label>
+            </div>
+            <p class="hint" id="f-date-hint" aria-live="polite"></p>
+            <div class="row3">
+              <label>مبنای تحویل <select id="f-basis" data-auto="basis">
+                <option value="EXW">درب کارخانه (EXW)</option><option value="DDP">تحویل در مقصد (DDP)</option>
+                <option value="border">تحویل در مرز</option><option value="place">تحویل در محل مشخص</option></select></label>
+              <label id="place-box">محل تحویل <span class="lang-tag"></span><input id="f-place" data-bi="delivery.place"></label>
+              <label>مدت تحویل (روز کاری) <input id="f-ddays" inputmode="numeric" placeholder="خالی = نمایش داده نشود"></label>
+            </div>
+            <details class="more">
+              <summary>اطلاعات تکمیلی سند (اختیاری)</summary>
+              <div class="row3">
+                <label>کد تعرفه (HS) <input id="f-hs" data-auto="hs" inputmode="latin"></label>
+                <label>شماره قرارداد <input id="f-contract" inputmode="latin"></label>
+                <label>کد کالای خریدار <input id="f-itemcode" inputmode="latin"></label>
+              </div>
+              <div class="row2">
+                <label>نام پروژه <span class="lang-tag"></span><input id="f-project" data-bi="project"></label>
+                <label>کد پروژه <input id="f-pcode" inputmode="latin"></label>
+              </div>
+            </details>
+          </fieldset>
+
+          <fieldset class="card">
+            <legend>کارفرما / خریدار</legend>
+            <div class="row2">
+              <label>نام <span class="lang-tag"></span><input id="b-name" data-bi="buyer.name" list="customers"></label>
+              <label>شناسه ملی / کد اقتصادی <input id="b-code" inputmode="numeric"></label>
+            </div>
+            <div class="row2">
+              <label>تلفن <input id="b-phone" inputmode="tel"></label>
+              <label>ایمیل <input id="b-email" type="email" inputmode="email"></label>
+            </div>
+            <label>نشانی <span class="lang-tag"></span><input id="b-address" data-bi="buyer.address"></label>
+            <datalist id="customers"></datalist>
+          </fieldset>
+
+          <fieldset class="card">
+            <legend>قیمت مواد اولیه (تومان بر کیلوگرم)</legend>
+            <p class="hint">عدد خاکستری پیشنهاد سیستم (آخرین قیمت خرید) است؛ هر زمان می‌توانید عدد خود را وارد کنید.</p>
+            <div id="raw-inputs" class="raw-grid"></div>
+          </fieldset>
+
+          <fieldset class="card">
+            <legend>اقلام</legend>
+            <div class="combo">
+              <label for="item-search">افزودن کالا</label>
+              <input id="item-search" role="combobox" aria-expanded="false" aria-controls="item-list" aria-autocomplete="list" placeholder="جستجو با نام، قطر یا کد کالا">
+              <ul id="item-list" class="combo-list" role="listbox" hidden></ul>
+            </div>
+            <div id="tier-info" class="hint" aria-live="polite"></div>
+            <div id="lines" class="lines"></div>
+            <label>خط استاندارد لوله‌ها <input id="f-standards" data-auto="standards" inputmode="latin"></label>
+            <p class="hint">قیمت خاکستری پیشنهاد مدل است (تحویل درب کارخانه، بدون حمل و مالیات). برای قیمت دیگر، عدد را وارد کنید.</p>
+          </fieldset>
+
+          <fieldset class="card">
+            <legend>جمع، مالیات و پرداخت</legend>
+            <div class="row3">
+              <label class="chk"><input id="t-vat-on" type="checkbox" data-auto="vatOn"> مالیات بر ارزش افزوده</label>
+              <label>نرخ مالیات (٪) <input id="t-vat" inputmode="decimal"></label>
+              <label>تخفیف کلی (٪) <input id="t-disc" inputmode="decimal"></label>
+            </div>
+            <div id="totals-mini" class="totals-mini" aria-live="polite"></div>
+          </fieldset>
+
+          <fieldset class="card">
+            <legend>بخش‌های اختیاری</legend>
+            <label class="chk"><input id="o-transport" type="checkbox"> هزینه تخمینی حمل</label>
+            <div class="sub" id="transport-box">
+              <div class="row2">
+                <label>کرایه هر واحد (به واحد پول سند) <input id="tr-rate" class="num" inputmode="decimal"></label>
+                <label>مقصد <span class="lang-tag"></span><input id="tr-dest" data-bi="transport.dest"></label>
+              </div>
+            </div>
+            <label class="chk"><input id="o-delivery" type="checkbox"> خلاصه تحویل (قرارداد چندمرحله‌ای)</label>
+            <div class="sub" id="delivery-box">
+              <label>محل تحویل <span class="lang-tag"></span><input id="ds-point" data-bi="deliverySum.point"></label>
+              <div class="row3">
+                <label>این محموله <input id="ds-this" class="num" inputmode="decimal"></label>
+                <label>تحویل‌شده تا کنون <input id="ds-sofar" class="num" inputmode="decimal"></label>
+                <label>کل قرارداد <input id="ds-total" class="num" inputmode="decimal"></label>
+              </div>
+            </div>
+            <label class="chk"><input id="o-packing" type="checkbox"> خلاصه بسته‌بندی</label>
+            <label class="chk"><input id="o-bank" type="checkbox"> اطلاعات بانکی</label>
+            <div class="sub" id="bank-box">
+              <div class="row3">
+                <label>نام بانک <input id="bk-bank"></label>
+                <label>شماره حساب <input id="bk-account" inputmode="numeric"></label>
+                <label>شماره شبا <input id="bk-sheba" inputmode="latin"></label>
+              </div>
+              <p class="hint">خالی = «در صورت درخواست ارائه می‌شود».</p>
+            </div>
+            <label class="chk"><input id="o-stamp" type="checkbox"> نمایش مهر شرکت در محل امضا</label>
+            <p class="hint" id="stamp-hint"></p>
+          </fieldset>
+
+          <fieldset class="card">
+            <legend>شرایط و توضیحات</legend>
+            <p class="hint">بندها بر اساس نوع سند خودکار اضافه می‌شوند. متن خاکستری متن پیش‌فرض است؛ برای همین سند می‌توانید آن را تغییر دهید یا بند را حذف کنید.</p>
+            <ol id="terms" class="terms-edit"></ol>
+            <label>توضیحات دیگر (هر خط یک بند) <span class="lang-tag"></span><textarea id="c-notes" data-bi="notes" rows="3"></textarea></label>
+          </fieldset>
+
+          <div class="actions card">
+            <button type="button" class="ibtn primary" id="a-save">ذخیره</button>
+            <button type="button" class="ibtn" id="a-print">چاپ / PDF</button>
+            <button type="button" class="ibtn" id="a-dup">نسخه جدید از همین سند</button>
+            <button type="button" class="ibtn" id="a-new">سند جدید</button>
+            <p class="hint">اطلاعات فقط روی همین دستگاه ذخیره می‌شود. <span id="save-state" aria-live="polite"></span></p>
+          </div>
+        </form>
+      </div>
+
+      <div class="pane pane-preview" id="pane-preview" aria-label="پیش‌نمایش سند">
+        <div class="sheet-wrap" id="sheet-wrap"><article class="sheet" id="sheet"></article></div>
+      </div>
+    </div>
+
+    <nav class="mob-toggle" aria-label="نما">
+      <button type="button" id="m-form" aria-pressed="true">ورود اطلاعات</button>
+      <button type="button" id="m-preview" aria-pressed="false">پیش‌نمایش</button>
+    </nav>
+  </section>
+
+  <dialog id="dlg-saved" class="dlg">
+    <form method="dialog" class="dlg-head"><h2>اسناد ذخیره‌شده</h2><button class="ibtn ghost" aria-label="بستن">✕</button></form>
+    <input id="saved-q" placeholder="جستجو با شماره، خریدار یا کالا" aria-label="جستجو در اسناد">
+    <ul id="saved-list" class="saved-list"></ul>
+    <div class="dlg-foot">
+      <button type="button" class="ibtn" id="b-export">پشتیبان‌گیری (فایل)</button>
+      <label class="chk"><input type="checkbox" id="b-export-plain"> فایل بدون رمز (هر کسی می‌تواند بخواند)</label>
+      <label class="ibtn file">بازیابی از فایل <input type="file" id="b-import" accept="application/json,.json" hidden></label>
+    </div>
+  </dialog>
+
+  <dialog id="dlg-settings" class="dlg">
+    <form method="dialog" class="dlg-head"><h2>تنظیمات</h2><button class="ibtn ghost" aria-label="بستن">✕</button></form>
+    <div class="dlg-body">
+      <fieldset class="key"><legend>پرداخت و مهلت مانده</legend>
+        <div class="row3">
+          <label>پیش‌پرداخت (٪) <input id="s-adv" inputmode="decimal"></label>
+          <label><b>مهلت پرداخت ۲۵٪ مانده (روز)</b> <input id="s-bdays" inputmode="numeric"></label>
+          <label>شروع مهلت <select id="s-btrig"><option value="ready">از اعلام آمادگی تحویل</option><option value="advance">از دریافت پیش‌پرداخت</option></select></label>
+        </div>
+        <p class="hint">مهلت پیش‌فرض ۳۰ روز است تا مدیر عدد نهایی را تعیین کند.</p>
+      </fieldset>
+      <fieldset><legend>فروشنده</legend>
+        <div class="row2"><label>نام (فارسی) <input id="s-name-fa"></label><label>نام (English) <input id="s-name-en" dir="ltr"></label></div>
+        <div class="row2"><label>نشانی (فارسی) <input id="s-addr-fa"></label><label>نشانی (English) <input id="s-addr-en" dir="ltr"></label></div>
+        <div class="row3"><label>تلفن <input id="s-phone" dir="ltr"></label><label>همراه <input id="s-mobile" dir="ltr"></label><label>نمابر <input id="s-fax" dir="ltr"></label></div>
+        <div class="row2"><label>ایمیل <input id="s-email" dir="ltr"></label><label>وب‌سایت <input id="s-web" dir="ltr"></label></div>
+        <div class="row3"><label>شناسه ملی <input id="s-nid" inputmode="numeric"></label><label>کد اقتصادی <input id="s-ecode" inputmode="numeric"></label><label>شماره ثبت <input id="s-reg" inputmode="numeric"></label></div>
+      </fieldset>
+      <fieldset><legend>شماره‌گذاری و پیش‌فرض‌ها</legend>
+        <div class="row3">
+          <label>پیشوند شماره <input id="s-prefix" dir="ltr"></label>
+          <label>شماره بعدی <input id="s-seq" inputmode="numeric"></label>
+          <label>نرخ پیش‌فرض مالیات (٪) <input id="s-vat" inputmode="decimal"></label>
+        </div>
+        <label>خط استاندارد پیش‌فرض <input id="s-standards" dir="ltr"></label>
+      </fieldset>
+      <fieldset><legend>متن پیش‌فرض بندها</legend>
+        <p class="hint">جای‌نگهدارها: {valid_until} {validity_days} {balance_days} {advance_pct} {balance_pct} {place} {n}</p>
+        <div id="s-terms"></div>
+        <button type="button" class="ibtn sm" id="s-terms-reset">بازگشت به متن‌های اولیه</button>
+      </fieldset>
+      <p class="hint" id="s-model"></p>
+    </div>
+  </dialog>
+</main>
+<script src="/static/invoice/price.js" defer></script>
+<script src="/static/invoice/i18n.js" defer></script>
+<script src="/static/invoice/invoice.js" defer></script>
+</body>
+</html>
