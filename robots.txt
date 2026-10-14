@@ -2,3 +2,6 @@ User-agent: *
 Allow: /
 
 Sitemap: https://neshagostar-pardis.github.io/sitemap.xml
+
+# Summary for LLM tools: https://neshagostar-pardis.github.io/llms.txt
+# Dataset catalog: https://neshagostar-pardis.github.io/data.json

@@ -1,0 +1,143 @@
+{
+ "name": "نشاگستر پردیس",
+ "publisher": {
+  "name": "Neshagostar Pardis Co.",
+  "url": "https://neshagostar.com"
+ },
+ "homepage": "https://neshagostar-pardis.github.io/",
+ "updated": "2026-10-14T15:37:58+03:30",
+ "update_frequency": "daily (Asia/Tehran)",
+ "attribution": "Please credit «نشاگستر پردیس» with a link to the dataset page.",
+ "llms": "https://neshagostar-pardis.github.io/llms.txt",
+ "sitemap": "https://neshagostar-pardis.github.io/sitemap.xml",
+ "feeds": {
+  "atom": "https://neshagostar-pardis.github.io/feed.xml",
+  "json": "https://neshagostar-pardis.github.io/feed.json"
+ },
+ "datasets": [
+  {
+   "name": "تاریخچه روزانه قیمت دلار آزاد به تومان",
+   "description": "قیمت فروش دلار در بازار آزاد ایران به تومان، ثبت روزانه از alanchand.com توسط نشاگستر پردیس.",
+   "page": "https://neshagostar-pardis.github.io/currency/dollar/",
+   "temporal_coverage": "2026-10-14/..",
+   "updated": "2026-10-14T15:37:58+03:30",
+   "files": [
+    {
+     "url": "https://neshagostar-pardis.github.io/currency/data/usd.csv",
+     "format": "text/csv"
+    }
+   ]
+  },
+  {
+   "name": "تاریخچه روزانه قیمت یورو آزاد به تومان",
+   "description": "قیمت فروش یورو در بازار آزاد ایران به تومان، ثبت روزانه از alanchand.com توسط نشاگستر پردیس.",
+   "page": "https://neshagostar-pardis.github.io/currency/euro/",
+   "temporal_coverage": "2026-10-14/..",
+   "updated": "2026-10-14T15:37:58+03:30",
+   "files": [
+    {
+     "url": "https://neshagostar-pardis.github.io/currency/data/eur.csv",
+     "format": "text/csv"
+    }
+   ]
+  },
+  {
+   "name": "تاریخچه ماهانه قیمت خرید پلی‌اتیلن سنگین PE100 (ریال بر کیلوگرم)",
+   "description": "میانگین وزنی، کمترین و بیشترین قیمت خرید ماهانه پلی‌اتیلن سنگین PE100 در فاکتورهای خرید کارخانه نشاگستر پردیس، بدون مالیات بر ارزش افزوده و هزینه حمل، از فروردین ۱۴۰۰ تا خرداد ۱۴۰۵.",
+   "page": "https://neshagostar-pardis.github.io/hdpe/pe100/",
+   "temporal_coverage": "2021-03-21/2026-06-21",
+   "updated": "2026-10-14T10:42:25+03:30",
+   "files": [
+    {
+     "url": "https://neshagostar-pardis.github.io/hdpe/data/pe100.csv",
+     "format": "text/csv"
+    },
+    {
+     "url": "https://neshagostar-pardis.github.io/hdpe/data/hdpe.json",
+     "format": "application/json"
+    }
+   ]
+  },
+  {
+   "name": "تاریخچه ماهانه قیمت خرید پلی‌اتیلن سنگین PE80 (ریال بر کیلوگرم)",
+   "description": "میانگین وزنی، کمترین و بیشترین قیمت خرید ماهانه پلی‌اتیلن سنگین PE80 در فاکتورهای خرید کارخانه نشاگستر پردیس، بدون مالیات بر ارزش افزوده و هزینه حمل، از اردیبهشت ۱۴۰۰ تا خرداد ۱۴۰۵.",
+   "page": "https://neshagostar-pardis.github.io/hdpe/pe80/",
+   "temporal_coverage": "2021-04-21/2026-06-21",
+   "updated": "2026-10-14T10:42:25+03:30",
+   "files": [
+    {
+     "url": "https://neshagostar-pardis.github.io/hdpe/data/pe80.csv",
+     "format": "text/csv"
+    },
+    {
+     "url": "https://neshagostar-pardis.github.io/hdpe/data/hdpe.json",
+     "format": "application/json"
+    }
+   ]
+  },
+  {
+   "name": "تاریخچه ماهانه قیمت خرید مستربچ مشکی (کربن بلک) (ریال بر کیلوگرم)",
+   "description": "میانگین وزنی، کمترین و بیشترین قیمت خرید ماهانه مستربچ مشکی (کربن بلک) در فاکتورهای خرید کارخانه نشاگستر پردیس، بدون مالیات بر ارزش افزوده و هزینه حمل، از اردیبهشت ۱۴۰۰ تا اسفند ۱۴۰۴.",
+   "page": "https://neshagostar-pardis.github.io/hdpe/black-masterbatch/",
+   "temporal_coverage": "2021-04-21/2026-03-20",
+   "updated": "2026-10-14T10:42:25+03:30",
+   "files": [
+    {
+     "url": "https://neshagostar-pardis.github.io/hdpe/data/black-masterbatch.csv",
+     "format": "text/csv"
+    },
+    {
+     "url": "https://neshagostar-pardis.github.io/hdpe/data/hdpe.json",
+     "format": "application/json"
+    }
+   ]
+  },
+  {
+   "name": "تاریخچه ماهانه قیمت خرید گرانول پلی‌اتیلن سنگین (HDPE) در نشاگستر پردیس",
+   "description": "میانگین وزنی، کمترین و بیشترین قیمت خرید ماهانه گرانول پلی‌اتیلن PE100 و PE80 و مستربچ مشکی بر اساس فاکتورهای خرید واقعی کارخانه، به ریال بر کیلوگرم، بدون مالیات و هزینه حمل.",
+   "page": "https://neshagostar-pardis.github.io/hdpe/",
+   "temporal_coverage": "2021-03-21/2026-06-21",
+   "updated": "2026-10-14T10:42:25+03:30",
+   "files": [
+    {
+     "url": "https://neshagostar-pardis.github.io/hdpe/data/hdpe.json",
+     "format": "application/json"
+    },
+    {
+     "url": "https://neshagostar-pardis.github.io/hdpe/data/pe100.csv",
+     "format": "text/csv"
+    },
+    {
+     "url": "https://neshagostar-pardis.github.io/hdpe/data/pe80.csv",
+     "format": "text/csv"
+    },
+    {
+     "url": "https://neshagostar-pardis.github.io/hdpe/data/black-masterbatch.csv",
+     "format": "text/csv"
+    },
+    {
+     "url": "https://neshagostar-pardis.github.io/hdpe/data/granul.csv",
+     "format": "text/csv"
+    }
+   ]
+  },
+  {
+   "name": "مناقصه‌ها و استعلام‌های لوله، مخزن و سپتیک پلی‌اتیلن",
+   "description": "Daily list of Iranian tenders and price inquiries for polyethylene pipes, tanks, septic tanks and wastewater packages: title, employer, province, deadline, a short summary and source links.",
+   "page": "https://neshagostar-pardis.github.io/tenders/",
+   "updated": "2026-10-14T15:37:58+03:30",
+   "files": [
+    {
+     "url": "https://neshagostar-pardis.github.io/tenders/data/index.json",
+     "format": "application/json",
+     "role": "day index"
+    },
+    {
+     "url": "https://neshagostar-pardis.github.io/tenders/data/1405-07.json",
+     "format": "application/json",
+     "role": "month 1405-07 (Jalali)"
+    }
+   ]
+  }
+ ]
+}

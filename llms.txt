@@ -1,0 +1,48 @@
+# نشاگستر پردیس (Neshagostar Pardis Co.)
+
+> تولیدکننده لوله‌های دوجداره کاروگیت و اسپیرال پلی‌اتیلن، مخازن و سپتیک‌های پلی‌اتیلن و پکیج‌های تصفیه فاضلاب از سال ۱۳۷۷. این سایت هر روز به‌طور خودکار به‌روز می‌شود: نرخ آزاد دلار و یورو، قیمت ماهانه مواد اولیه پلی‌اتیلن و فهرست مناقصه‌ها و استعلام‌های لوله، مخزن و سپتیک پلی‌اتیلن.
+
+Daily-updated Persian site by Neshagostar Pardis Co., a polyethylene pipe and tank manufacturer in Qazvin, Iran (since 1998). Prices are in Iranian toman (1 toman = 10 rials) unless a file says rial. Dates on pages are Jalali (Solar Hijri); data files use ISO Gregorian dates, Asia/Tehran time. Tender entries are short summaries written by Neshagostar Pardis with a link to the original notice; check the source before bidding.
+
+Last build: 2026-10-14T15:37:58+03:30
+
+## نرخ ارز (Currency rates)
+
+- [نرخ دلار و یورو امروز ۲۲ مهر ۱۴۰۵ | نشاگستر](https://neshagostar-pardis.github.io/currency/): نرخ بازار آزاد ارز چهارشنبه ۲۲ مهر ۱۴۰۵: دلار ۲۶۳٬۵۰۰ و یورو ۲۹۵٬۰۰۰ تومان. جدول خرید و فروش، معادل ریالی و تاریخچه روزانه، ثبت‌شده هر روز ساعت ۸ صبح تهران.
+- [قیمت دلار امروز ۲۲ مهر ۱۴۰۵ + تاریخچه و نمودار](https://neshagostar-pardis.github.io/currency/dollar/): قیمت دلار آزاد چهارشنبه ۲۲ مهر ۱۴۰۵: ۲۶۳٬۵۰۰ تومان. جدول تاریخچه روزانه، نمودار روند و فایل CSV قابل دانلود، به‌روزرسانی هر روز.
+- [قیمت یورو امروز ۲۲ مهر ۱۴۰۵ + تاریخچه و نمودار](https://neshagostar-pardis.github.io/currency/euro/): قیمت یورو آزاد چهارشنبه ۲۲ مهر ۱۴۰۵: ۲۹۵٬۰۰۰ تومان. جدول تاریخچه روزانه، نمودار روند و فایل CSV قابل دانلود، به‌روزرسانی هر روز.
+
+## قیمت مواد پلی‌اتیلن (HDPE prices)
+
+- [قیمت پلی اتیلن سنگین (HDPE) — تاریخچه قیمت خرید گرانول](https://neshagostar-pardis.github.io/hdpe/): تاریخچه ماهانه قیمت خرید گرانول پلی اتیلن PE100 و PE80 و مستربچ مشکی از فروردین ۱۴۰۰ تا خرداد ۱۴۰۵ به تومان و ریال بر کیلوگرم، با نمودار، جدول و فایل CSV.
+- [قیمت مستربچ مشکی — تاریخچه ماهانه قیمت خرید](https://neshagostar-pardis.github.io/hdpe/black-masterbatch/): قیمت خرید مستربچ مشکی در اسفند ۱۴۰۴: میانگین ۱۰۸٬۹۰۰ تومان بر کیلوگرم. جدول ماهانه از اردیبهشت ۱۴۰۰، کمترین و بیشترین، تغییر سالانه، نمودار و CSV.
+- [قیمت مواد پلی اتیلن PE100 — تاریخچه ماهانه قیمت خرید](https://neshagostar-pardis.github.io/hdpe/pe100/): قیمت خرید مواد پلی اتیلن PE100 در خرداد ۱۴۰۵: میانگین ۱۱۸٬۱۹۰ تومان بر کیلوگرم. جدول ماهانه از فروردین ۱۴۰۰، کمترین و بیشترین، تغییر سالانه، نمودار و CSV.
+- [قیمت مواد پلی اتیلن PE80 — تاریخچه ماهانه قیمت خرید](https://neshagostar-pardis.github.io/hdpe/pe80/): قیمت خرید مواد پلی اتیلن PE80 در خرداد ۱۴۰۵: میانگین ۱۲۲٬۶۱۲ تومان بر کیلوگرم. جدول ماهانه از اردیبهشت ۱۴۰۰، کمترین و بیشترین، تغییر سالانه، نمودار و CSV.
+
+## مناقصات (Tenders)
+
+- [مناقصه لوله و مخزن پلی اتیلن و آبفا امروز | نشاگستر](https://neshagostar-pardis.github.io/tenders/): فهرست روزانه مناقصه‌ها و استعلام‌های لوله پلی اتیلن، لوله کاروگیت، مخزن، سپتیک تانک و پکیج تصفیه فاضلاب؛ به‌روزرسانی چهارشنبه ۲۲ مهر ۱۴۰۵ با لینک آگهی منبع.
+- [مناقصه لوله و مخزن پلی اتیلن مهر ۱۴۰۵ | نشاگستر](https://neshagostar-pardis.github.io/tenders/1405/07/): آرشیو ۳۶ مناقصه و استعلام لوله کاروگیت، اسپیرال، مخزن، سپتیک و پکیج تصفیه فاضلاب در مهر ۱۴۰۵، به تفکیک روز، با کارفرما، استان و لینک آگهی منبع.
+
+## صفحات دیگر (Other pages)
+
+- [نشاگستر پردیس | نرخ ارز روزانه و مناقصات لوله و مخزن](https://neshagostar-pardis.github.io/): نرخ روزانه دلار و یورو و رصد مناقصات لوله دوجداره کاروگیت، اسپیرال، مخزن و سپتیک پلی‌اتیلن؛ تولیدکننده لوله و مخازن پلی‌اتیلن از سال ۱۳۷۷ در قزوین.
+
+## داده‌ها و فیدها (Data and feeds)
+
+- [Dataset catalog (JSON)](https://neshagostar-pardis.github.io/data.json): every downloadable file with its page, format and last update
+- [Today's snapshot (Markdown)](https://neshagostar-pardis.github.io/llms-full.txt): current rates, tenders of the last 7 days, HDPE monthly prices
+- [Tender feed (Atom)](https://neshagostar-pardis.github.io/feed.xml) and [JSON Feed](https://neshagostar-pardis.github.io/feed.json): new tenders of the last 14 days
+- [Sitemap](https://neshagostar-pardis.github.io/sitemap.xml)
+
+## محصولات نشاگستر (Manufacturer product pages)
+
+- [لوله دوجداره کاروگیت](https://neshagostar.com/carogit-pipe/)
+- [لوله کاروگیت اسپیرال](https://neshagostar.com/spiral-corrugated-pipe/)
+- [مخازن پلی‌اتیلن](https://neshagostar.com/polyethylene-tanks/)
+- [سپتیک تانک پلی‌اتیلن](https://neshagostar.com/septic-tank/)
+- [پکیج تصفیه فاضلاب](https://neshagostar.com/wastewater-treatment-package/)
+- [چربی‌گیر دوجداره](https://neshagostar.com/چربی-گیر-دوجداره/)
+- [منهول کاروگیت](https://neshagostar.com/manhole-carogit/)
+- [اتصالات کاروگیت](https://neshagostar.com/carogit-connections/)
+- [استعلام قیمت از نشاگستر](https://neshagostar.com/contact-us/)
