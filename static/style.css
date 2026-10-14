@@ -69,7 +69,7 @@ html, body { overflow-x: hidden; }
 .legend .key::before { content: ""; display: inline-block; width: 22px; height: 0; margin-inline-end: 6px; vertical-align: middle; border-block-start: 3px solid var(--s1); }
 .legend .key.s2::before { border-block-start: 3px dashed var(--s2); }
 
-/* notification center: header badge + /vaziat/ */
+/* notification center: header badge + /status/ */
 .top nav a.ntf { background: var(--up); color: #ffffff; border-radius: 999px; padding-inline: 12px; }
 .top nav a.ntf[hidden] { display: none; }
 .top nav a.ntf b { font-weight: 700; }

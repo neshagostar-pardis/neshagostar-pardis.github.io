@@ -1,6 +1,6 @@
 /* Notification center: reads /status.json (written by every workflow run) and works out, in the
    visitor's browser, which days updated, which failed and which never started. Runs on every page
-   for the header badge; fills the lists on /vaziat/. */
+   for the header badge; fills the lists on /status/. */
 (function () {
   var TZ = 'Asia/Tehran';
   var LATE_HOUR = 13; // no successful run by this Tehran hour: today is flagged as late

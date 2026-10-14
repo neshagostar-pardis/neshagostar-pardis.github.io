@@ -1,4 +1,4 @@
-/* /monaghesat/ hub and daily tender pages. Uses the tokens from style.css; logical properties for RTL. */
+/* /tenders/ hub and daily tender pages. Uses the tokens from style.css; logical properties for RTL. */
 .days ul { display: flex; flex-wrap: wrap; gap: 6px 8px; padding: 0; margin: 8px 0 0; list-style: none; }
 .days a { display: inline-block; padding: 2px 10px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); font-size: .85rem; text-decoration: none; }
 .day { scroll-margin-top: 12px; }
