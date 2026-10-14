@@ -4,13 +4,13 @@
 
 Daily-updated Persian site by Neshagostar Pardis Co., a polyethylene pipe and tank manufacturer in Qazvin, Iran (since 1998). Prices are in Iranian toman (1 toman = 10 rials) unless a file says rial. Dates on pages are Jalali (Solar Hijri); data files use ISO Gregorian dates, Asia/Tehran time. Tender entries are short summaries written by Neshagostar Pardis with a link to the original notice; check the source before bidding.
 
-Last build: 2026-10-14T15:37:58+03:30
+Last build: 2026-10-14T15:45:18+03:30
 
 ## نرخ ارز (Currency rates)
 
-- [نرخ دلار و یورو امروز ۲۲ مهر ۱۴۰۵ | نشاگستر](https://neshagostar-pardis.github.io/currency/): نرخ بازار آزاد ارز چهارشنبه ۲۲ مهر ۱۴۰۵: دلار ۲۶۳٬۵۰۰ و یورو ۲۹۵٬۰۰۰ تومان. جدول خرید و فروش، معادل ریالی و تاریخچه روزانه، ثبت‌شده هر روز ساعت ۸ صبح تهران.
+- [نرخ دلار و یورو امروز ۲۲ مهر ۱۴۰۵ | نشاگستر](https://neshagostar-pardis.github.io/currency/): نرخ بازار آزاد ارز چهارشنبه ۲۲ مهر ۱۴۰۵: دلار ۲۶۳٬۵۰۰ و یورو ۲۹۴٬۹۰۰ تومان. جدول خرید و فروش، معادل ریالی و تاریخچه روزانه، ثبت‌شده هر روز ساعت ۸ صبح تهران.
 - [قیمت دلار امروز ۲۲ مهر ۱۴۰۵ + تاریخچه و نمودار](https://neshagostar-pardis.github.io/currency/dollar/): قیمت دلار آزاد چهارشنبه ۲۲ مهر ۱۴۰۵: ۲۶۳٬۵۰۰ تومان. جدول تاریخچه روزانه، نمودار روند و فایل CSV قابل دانلود، به‌روزرسانی هر روز.
-- [قیمت یورو امروز ۲۲ مهر ۱۴۰۵ + تاریخچه و نمودار](https://neshagostar-pardis.github.io/currency/euro/): قیمت یورو آزاد چهارشنبه ۲۲ مهر ۱۴۰۵: ۲۹۵٬۰۰۰ تومان. جدول تاریخچه روزانه، نمودار روند و فایل CSV قابل دانلود، به‌روزرسانی هر روز.
+- [قیمت یورو امروز ۲۲ مهر ۱۴۰۵ + تاریخچه و نمودار](https://neshagostar-pardis.github.io/currency/euro/): قیمت یورو آزاد چهارشنبه ۲۲ مهر ۱۴۰۵: ۲۹۴٬۹۰۰ تومان. جدول تاریخچه روزانه، نمودار روند و فایل CSV قابل دانلود، به‌روزرسانی هر روز.
 
 ## قیمت مواد پلی‌اتیلن (HDPE prices)
 
