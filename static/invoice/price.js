@@ -60,6 +60,7 @@
       else {
         var gp = pj.grades[g], h = projMonths(gp, date, md);
         v = Math.exp(gp.level + projLogGrowth(gp, h));
+        if (has(gp.cap) && v > gp.cap.cap_value) v = gp.cap.cap_value;
         sig += p.mix[g] * gp.sigma1 * Math.sqrt(h > 1 ? h : 1.0);
       }
       res[g] = v;

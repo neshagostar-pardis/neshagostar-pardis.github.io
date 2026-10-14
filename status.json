@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T18:45:35+03:30",
+ "generated_at": "2026-10-14T18:54:19+03:30",
  "since": "2026-10-14",
  "cleared_at": null,
  "runs": [
@@ -144,6 +144,22 @@
   {
    "date": "2026-10-14",
    "at": "2026-10-14T18:45:35+03:30",
+   "event": "workflow_dispatch",
+   "result": "ok",
+   "llm_status": "ok",
+   "steps": {
+    "rates": "success",
+    "build": "success",
+    "seo": "success",
+    "save": "success",
+    "llm": "success",
+    "tenders": "success",
+    "exchange": "success"
+   }
+  },
+  {
+   "date": "2026-10-14",
+   "at": "2026-10-14T18:54:19+03:30",
    "event": "workflow_dispatch",
    "result": "ok",
    "llm_status": "ok",

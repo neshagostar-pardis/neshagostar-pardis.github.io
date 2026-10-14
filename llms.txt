@@ -4,7 +4,7 @@
 
 Daily-updated Persian site by Neshagostar Pardis Co., a polyethylene pipe and tank manufacturer in Qazvin, Iran (since 1998). Prices are in Iranian toman (1 toman = 10 rials) unless a file says rial. Dates on pages are Jalali (Solar Hijri); data files use ISO Gregorian dates, Asia/Tehran time. Tender entries are short summaries written by Neshagostar Pardis with a link to the original notice; check the source before bidding.
 
-Last build: 2026-10-14T18:45:33+03:30
+Last build: 2026-10-14T18:54:17+03:30
 
 ## نرخ ارز (Currency rates)
 
