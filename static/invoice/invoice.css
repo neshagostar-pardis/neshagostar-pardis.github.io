@@ -71,6 +71,9 @@ body.inv { background: var(--bg); padding-block-end: 72px; }
 .line { border: 1px solid var(--line); border-inline-start: 3px solid var(--accent); border-radius: 4px; padding: 6px 10px; margin-block: 8px; }
 .line-head { display: flex; gap: 8px; align-items: flex-start; }
 .line-no { font-weight: 700; color: var(--brand); }
+.line-rm { border-color: var(--up); white-space: nowrap; }
+.line-rm:hover { background: var(--up); border-color: var(--up); color: #fff; }
+.undo-bar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; padding: 6px 10px; border: 1px dashed var(--line); border-radius: 4px; font-size: .85rem; }
 .line-name { flex: 1; font-size: .9rem; }
 .line-desc { margin-block: 4px; }
 .line-grid { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 0 8px; }

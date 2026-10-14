@@ -558,8 +558,19 @@
     Object.keys(I.UNITS.fa).forEach(function (u) { var o = el('option', '', I.UNITS.fa[u]); o.value = u; sel.appendChild(o); });
     sel.value = current;
   }
+  var lastRemoved = null;   // {item, index, inv} of the line just removed, for the undo bar
   function renderLines() {
     var box = $('lines'); box.textContent = ''; lineRefs = [];
+    if (lastRemoved && lastRemoved.inv !== S.inv) lastRemoved = null;   // another invoice was opened
+    if (lastRemoved) {
+      var undo = el('div', 'undo-bar', 'ردیف «' + I.describe(itemByCode(lastRemoved.item.code) || {}, 'fa') + '» حذف شد. ');
+      var back = el('button', 'ibtn sm', 'بازگرداندن'); back.type = 'button';
+      back.addEventListener('click', function () {
+        S.inv.items.splice(Math.min(lastRemoved.index, S.inv.items.length), 0, lastRemoved.item);
+        lastRemoved = null; renderLines(); changed();
+      });
+      undo.appendChild(back); box.appendChild(undo);
+    }
     S.inv.items.forEach(function (l, i) { box.appendChild(lineRow(l, i)); });
     if (!S.inv.items.length) box.appendChild(el('p', 'hint', 'هنوز کالایی اضافه نشده است.'));
   }
@@ -572,8 +583,8 @@
     if (it.confidence === 'low') name.appendChild(el('span', 'badge low', 'اطمینان کم'));
     if (it.coef && it.coef.method === 'not_priced') name.appendChild(el('span', 'badge', 'قیمت دستی'));
     head.appendChild(name);
-    var rm = el('button', 'ibtn ghost sm', '✕'); rm.type = 'button'; rm.setAttribute('aria-label', 'حذف ردیف ' + fa(i + 1));
-    rm.addEventListener('click', function () { S.inv.items.splice(i, 1); renderLines(); changed(); });
+    var rm = el('button', 'ibtn sm danger line-rm', '✕ حذف این ردیف'); rm.type = 'button'; rm.setAttribute('aria-label', 'حذف ردیف ' + fa(i + 1));
+    rm.addEventListener('click', function () { lastRemoved = { item: S.inv.items.splice(i, 1)[0], index: i, inv: S.inv }; renderLines(); changed(); });
     head.appendChild(rm);
     row.appendChild(head);
 
