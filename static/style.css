@@ -68,3 +68,16 @@ html, body { overflow-x: hidden; }
 .legend { display: flex; flex-wrap: wrap; gap: 4px 16px; align-items: center; font-size: .9rem; margin-block-start: 6px; }
 .legend .key::before { content: ""; display: inline-block; width: 22px; height: 0; margin-inline-end: 6px; vertical-align: middle; border-block-start: 3px solid var(--s1); }
 .legend .key.s2::before { border-block-start: 3px dashed var(--s2); }
+
+/* notification center: header badge + /vaziat/ */
+.top nav a.ntf { background: var(--up); color: #ffffff; border-radius: 999px; padding-inline: 12px; }
+.top nav a.ntf[hidden] { display: none; }
+.top nav a.ntf b { font-weight: 700; }
+.ntf-list ul { list-style: none; padding: 0; }
+.ntf-list li { background: var(--surface); border: 1px solid var(--line); border-inline-start: 4px solid var(--up); border-radius: 4px; padding: 8px 12px; margin-block: 8px; }
+.ntf-list li.st-partial, .ntf-list li.st-late { border-inline-start-color: var(--accent-hover); }
+td.st { font-weight: 700; white-space: nowrap; }
+.st-ok { color: var(--down); } .st-failed, .st-missed { color: var(--up); }
+.st-partial, .st-late { color: var(--accent-hover); } .st-pending { color: var(--muted); }
+.ntf-list li { color: var(--text); } .ntf-list li strong { color: var(--up); }
+.ntf-list li.st-partial strong, .ntf-list li.st-late strong { color: var(--accent-hover); }
