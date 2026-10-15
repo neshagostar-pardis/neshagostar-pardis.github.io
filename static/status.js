@@ -11,6 +11,7 @@
     authentication_failed: 'کلید LLM نامعتبر است یا تنظیم نشده است.'
   };
   var LABEL = { ok: 'انجام شد', partial: 'ناقص', failed: 'ناموفق', missed: 'اجرا نشد', late: 'هنوز انجام نشده', pending: 'در انتظار' };
+  var USAGE_WARN = 0.8; // share of the monthly run minutes that raises a warning; the full limit raises an alert
 
   function ymd(d) {
     return new Intl.DateTimeFormat('en-CA', { timeZone: TZ, year: 'numeric', month: '2-digit', day: '2-digit' }).format(d);
@@ -66,7 +67,18 @@
       days.push({ day: d, state: state, msg: msg });
       if (state !== 'ok' && state !== 'pending' && ts > cleared) notes.push({ day: d, state: state, msg: msg });
     }
-    return { days: days, notes: notes };
+    var u = s.usage, usage = null;
+    if (u && u.limit) {
+      var share = u.minutes / u.limit, nf = function (n) { return n.toLocaleString('fa-IR'); };
+      usage = { state: share >= 1 ? 'failed' : share >= USAGE_WARN ? 'late' : 'ok',
+                msg: 'زمان اجرای این ماه: ' + nf(u.minutes) + ' از ' + nf(u.limit) + ' دقیقه (' + nf(Math.round(share * 100)) + '٪).' };
+      // a live condition, not an event: shown until the next month resets it, whatever was cleared
+      if (share >= 1) notes.unshift({ state: 'failed', head: 'سقف زمان اجرای ماهانه پر شده است: ',
+        msg: 'به‌روزرسانی‌های خودکار تا اول ماه بعد ممکن است اجرا نشوند. ' + usage.msg });
+      else if (share >= USAGE_WARN) notes.unshift({ state: 'late', head: 'زمان اجرای ماهانه رو به پایان است: ',
+        msg: usage.msg });
+    }
+    return { days: days, notes: notes, usage: usage };
   }
 
   function el(tag, cls, text) {
@@ -90,12 +102,17 @@
         var ul = el('ul');
         r.notes.forEach(function (n) {
           var li = el('li', 'st-' + n.state);
-          li.appendChild(el('strong', '', dayFa(n.day) + ' — ' + LABEL[n.state] + ': '));
+          li.appendChild(el('strong', '', n.head || dayFa(n.day) + ' — ' + LABEL[n.state] + ': '));
           li.appendChild(document.createTextNode(n.msg));
           ul.appendChild(li);
         });
         list.appendChild(ul);
       }
+    }
+    var usage = document.getElementById('ntf-usage');
+    if (usage && r.usage) {
+      usage.textContent = r.usage.msg;
+      usage.className = 'st-' + r.usage.state;
     }
     var tbody = document.querySelector('#ntf-days tbody');
     if (tbody) {

@@ -112,7 +112,7 @@ body.inv { background: var(--bg); padding-block-end: 72px; }
 .mob-toggle { display: none; }
 
 /* ------------------------------------------------------------------ A4 sheet */
-.sheet { width: 210mm; min-height: 297mm; background: #fff; color: #000; padding: 12mm; box-shadow: 0 2px 14px rgb(0 0 0 / .15);
+.sheet { box-sizing: border-box; width: 210mm; min-height: 297mm; background: #fff; color: #000; padding: 12mm; box-shadow: 0 2px 14px rgb(0 0 0 / .15);
   font-size: 9pt; line-height: 1.45; }
 .sheet.en { font-family: Arial, Helvetica, sans-serif; }
 .sheet.fa { font-family: Vazirmatn, Tahoma, sans-serif; }
@@ -198,13 +198,13 @@ bdi.ltr { unicode-bidi: isolate; direction: ltr; }
 /* ------------------------------------------------------------------ print: only the sheet, real A4 */
 @page { size: A4; margin: 0; }
 @media print {
-  body.inv { background: #fff; padding: 0; }
+  html, body.inv { background: #fff; padding: 0; margin: 0; }
   .inv-top, .pane-form, .mob-toggle, #storage-warn, #login, dialog { display: none !important; }
   .inv-main { padding: 0; max-width: none; }
   .inv-grid { display: block; }
   .pane-preview, body.view-preview .pane-preview { display: block !important; position: static; }
   .sheet-wrap { height: auto !important; overflow: visible; }
-  .sheet { transform: none !important; box-shadow: none; width: 210mm; min-height: auto; padding: 12mm; }
+  .sheet { transform: none !important; box-shadow: none; width: 210mm; min-height: auto; padding: 12mm; margin: 0; }
   .sh-items tr, .sh-gi, .sh-terms li { break-inside: avoid; }
   .sh-section { break-after: avoid; }
   .sheet * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
