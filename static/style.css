@@ -120,3 +120,16 @@ td.st { font-weight: 700; white-space: nowrap; }
 .chart-tip .sw { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-inline-end: 6px; vertical-align: middle; background: var(--s1); }
 .chart-tip .sw.s2 { background: var(--s2); } .chart-tip .sw.s3 { background: var(--s3); } .chart-tip .sw.s4 { background: var(--s4); }
 .src { font-size: .85rem; color: var(--muted); }
+/* articles and news (/articles/, /news/) */
+.post { max-width: 46rem; }
+.post-meta { color: var(--muted); font-size: .9rem; }
+.prose { line-height: 2; font-size: 1.05rem; }
+.prose h2 { margin-block-start: 36px; }
+.prose h3 { font-size: 1.05rem; margin-block: 24px 6px; }
+.prose table { border-collapse: collapse; margin-block: 16px; }
+.prose th, .prose td { border: 1px solid var(--line); padding: 6px 10px; }
+.prose blockquote { margin-inline: 0; padding-inline-start: 14px; border-inline-start: 3px solid var(--line); color: var(--muted); }
+sup.cite { font-size: .75em; } sup.cite a { text-decoration: none; }
+.sources ol { padding-inline-start: 1.4em; font-size: .92rem; } .sources li { margin-block: 6px; overflow-wrap: anywhere; }
+.sources li:target { background: var(--surface); outline: 2px solid var(--accent); }
+.post-list { list-style: none; padding: 0; } .post-list h2 { border: 0; padding: 0; margin-block: 12px 4px; }
