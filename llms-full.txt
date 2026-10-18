@@ -1,10 +1,10 @@
 # نشاگستر پردیس — داده‌های امروز
 
-Snapshot built 2026-10-18T08:15:30+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
+Snapshot built 2026-10-18T10:14:07+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
 
 ## نرخ ارز آزاد (2026-10-18، ۱۴۰۵/۰۷/۲۶)
 
-Free-market rates in toman, fetched 2026-10-18T08:07:37+03:30. Pages: https://neshagostar-pardis.github.io/currency/
+Free-market rates in toman, fetched 2026-10-18T10:07:36+03:30. Pages: https://neshagostar-pardis.github.io/currency/
 
 | ارز | خرید (تومان) | فروش (تومان) |
 |---|---:|---:|
@@ -23,9 +23,20 @@ Free-market rates in toman, fetched 2026-10-18T08:07:37+03:30. Pages: https://ne
 | 2026-10-15 | 267,250 | 299,600 |
 | 2026-10-14 | 265,700 | 296,400 |
 
-## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۵۸ مورد)
+## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۵۹ مورد)
 
 Summaries by Neshagostar Pardis; follow the source link for the official notice. Archive: https://neshagostar-pardis.github.io/tenders/
+
+### مناقصه تکمیل فرآیند تصفیه خانه فاضلاب صنعتی توسعه سیستم RO2 موجود احداث مخزن ذخیره پساب تصفیه شده شهری ایجاد و اصلاح شبکه زیرساخت مربوطه در شرکت فولاد هرمزگان جنوب به روش EPC
+- نوع: مناقصه
+- کارفرما: شرکت فولاد هرمزگان جنوب
+- استان: هرمزگان
+- مهلت: 2026-10-28 (۶ آبان ۱۴۰۵)
+- انتشار: 2026-10-18 (۲۶ مهر ۱۴۰۵)
+- محصول: تصفیه‌خانه فاضلاب صنعتی، مخزن ذخیره پساب
+- خلاصه: شرکت فولاد هرمزگان جنوب برای تکمیل تصفیه‌خانه فاضلاب صنعتی، توسعه سیستم RO2 و احداث مخزن ذخیره پساب تصفیه‌شده، مناقصه‌ای به روش EPC برگزار کرده است. پروژه شامل ایجاد و اصلاح شبکه و زیرساخت‌های مربوطه است.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/07/26/#t-f2aca548a6
+- منبع: https://www.hezarehinfo.net/tenders/nid11299725
 
 ### استعلام خرید لوله کاروگیت با ضمائیم پیوستی
 - نوع: استعلام
@@ -643,13 +654,13 @@ Average traded price per grade on the Iran Mercantile Exchange (ime.co.ir), as r
 
 | کلاس | گرید | تاریخ | قیمت روز | ماه | میانگین ماه |
 |---|---|---|---:|---|---:|
-| PE100 | CRP100N | 2026-10-17 | 213,920 | 1405-07 | 202,630 |
+| PE100 | CRP100N | 2026-10-18 | 213,920 | 1405-07 | 202,630 |
 | PE100 | CRP100N |  |  | 1405-06 | 151,750 |
 | PE100 | CRP100N |  |  | 1405-05 | 137,880 |
 | PE100 | CRP100N |  |  | 1405-04 | 157,250 |
 | PE100 | CRP100N |  |  | 1405-03 | 133,460 |
 | PE100 | CRP100N |  |  | 1405-02 | 120,570 |
-| PE80 | EX3 | 2026-10-17 | 202,060 | 1405-07 | 193,690 |
+| PE80 | EX3 | 2026-10-18 | 202,060 | 1405-07 | 193,690 |
 | PE80 | EX3 |  |  | 1405-06 | 144,670 |
 | PE80 | EX3 |  |  | 1405-05 | 132,890 |
 | PE80 | EX3 |  |  | 1405-04 | 149,730 |
