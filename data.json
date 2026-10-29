@@ -5,7 +5,7 @@
   "url": "https://neshagostar.com"
  },
  "homepage": "https://neshagostar-pardis.github.io/",
- "updated": "2026-10-28T00:31:49+03:30",
+ "updated": "2026-10-29T08:15:20+03:30",
  "update_frequency": "daily (Asia/Tehran)",
  "attribution": "Please credit «نشاگستر پردیس» with a link to the dataset page.",
  "llms": "https://neshagostar-pardis.github.io/llms.txt",
@@ -20,7 +20,7 @@
    "description": "قیمت فروش دلار در بازار آزاد ایران به تومان، ثبت روزانه از alanchand.com توسط نشاگستر پردیس.",
    "page": "https://neshagostar-pardis.github.io/currency/dollar/",
    "temporal_coverage": "2026-10-14/..",
-   "updated": "2026-10-28T00:31:49+03:30",
+   "updated": "2026-10-29T08:15:20+03:30",
    "files": [
     {
      "url": "https://neshagostar-pardis.github.io/currency/data/usd.csv",
@@ -33,7 +33,7 @@
    "description": "قیمت فروش یورو در بازار آزاد ایران به تومان، ثبت روزانه از alanchand.com توسط نشاگستر پردیس.",
    "page": "https://neshagostar-pardis.github.io/currency/euro/",
    "temporal_coverage": "2026-10-14/..",
-   "updated": "2026-10-28T00:31:49+03:30",
+   "updated": "2026-10-29T08:15:20+03:30",
    "files": [
     {
      "url": "https://neshagostar-pardis.github.io/currency/data/eur.csv",
@@ -46,7 +46,7 @@
    "description": "میانگین، کمترین و بیشترین قیمت ماهانه پلی‌اتیلن سنگین PE100 در داده‌های قیمت نشاگستر پردیس، بدون مالیات بر ارزش افزوده و هزینه حمل، از فروردین ۱۴۰۰ تا خرداد ۱۴۰۵.",
    "page": "https://neshagostar-pardis.github.io/hdpe/pe100/",
    "temporal_coverage": "2021-03-21/2026-06-21",
-   "updated": "2026-10-28T00:31:49+03:30",
+   "updated": "2026-10-29T08:15:20+03:30",
    "files": [
     {
      "url": "https://neshagostar-pardis.github.io/hdpe/data/pe100.csv",
@@ -63,7 +63,7 @@
    "description": "میانگین قیمت معاملات پلی‌اتیلن سنگین گرید CRP100N (PE100) در بورس کالای ایران، ثبت روزانه و میانگین ماهانه، به نقل از ایران ضایعات (iranzayeat.com).",
    "page": "https://neshagostar-pardis.github.io/hdpe/pe100/",
    "temporal_coverage": "2026-04-21/..",
-   "updated": "2026-10-28T00:31:49+03:30",
+   "updated": "2026-10-29T08:15:20+03:30",
    "files": [
     {
      "url": "https://neshagostar-pardis.github.io/hdpe/data/exchange.json",
@@ -76,7 +76,7 @@
    "description": "میانگین، کمترین و بیشترین قیمت ماهانه پلی‌اتیلن سنگین PE80 در داده‌های قیمت نشاگستر پردیس، بدون مالیات بر ارزش افزوده و هزینه حمل، از اردیبهشت ۱۴۰۰ تا خرداد ۱۴۰۵.",
    "page": "https://neshagostar-pardis.github.io/hdpe/pe80/",
    "temporal_coverage": "2021-04-21/2026-06-21",
-   "updated": "2026-10-28T00:31:49+03:30",
+   "updated": "2026-10-29T08:15:20+03:30",
    "files": [
     {
      "url": "https://neshagostar-pardis.github.io/hdpe/data/pe80.csv",
@@ -93,7 +93,7 @@
    "description": "میانگین قیمت معاملات پلی‌اتیلن سنگین گرید EX3 (PE80) در بورس کالای ایران، ثبت روزانه و میانگین ماهانه، به نقل از ایران ضایعات (iranzayeat.com).",
    "page": "https://neshagostar-pardis.github.io/hdpe/pe80/",
    "temporal_coverage": "2026-04-21/..",
-   "updated": "2026-10-28T00:31:49+03:30",
+   "updated": "2026-10-29T08:15:20+03:30",
    "files": [
     {
      "url": "https://neshagostar-pardis.github.io/hdpe/data/exchange.json",
@@ -123,7 +123,7 @@
    "description": "میانگین، کمترین و بیشترین قیمت ماهانه گرانول پلی‌اتیلن PE100 و PE80 و مستربچ مشکی در داده‌های قیمت نشاگستر پردیس، به ریال بر کیلوگرم، بدون مالیات و هزینه حمل.",
    "page": "https://neshagostar-pardis.github.io/hdpe/",
    "temporal_coverage": "2021-03-21/2026-06-21",
-   "updated": "2026-10-28T00:31:49+03:30",
+   "updated": "2026-10-29T08:15:20+03:30",
    "files": [
     {
      "url": "https://neshagostar-pardis.github.io/hdpe/data/hdpe.json",
@@ -151,7 +151,7 @@
    "name": "مناقصه‌ها و استعلام‌های لوله، مخزن و سپتیک پلی‌اتیلن",
    "description": "Daily list of Iranian tenders and price inquiries for polyethylene pipes, tanks, septic tanks and wastewater packages: title, employer, province, deadline, a short summary and source links.",
    "page": "https://neshagostar-pardis.github.io/tenders/",
-   "updated": "2026-10-28T00:31:49+03:30",
+   "updated": "2026-10-29T08:15:20+03:30",
    "files": [
     {
      "url": "https://neshagostar-pardis.github.io/tenders/data/index.json",
