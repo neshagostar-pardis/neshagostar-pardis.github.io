@@ -93,6 +93,11 @@
      "date": "2026-10-30",
      "jalali": "1405/08/08",
      "avg": 236440
+    },
+    {
+     "date": "2026-10-31",
+     "jalali": "1405/08/09",
+     "avg": 236440
     }
    ],
    "monthly": {
@@ -107,7 +112,7 @@
    "producer": "پتروشیمی جم",
    "class": "PE100",
    "url": "https://iranzayeat.com/prices/search/pscat-60/pstag-327",
-   "fetched_at": "2026-10-30T08:09:50+03:30"
+   "fetched_at": "2026-10-31T08:09:47+03:30"
   },
   "pe80": {
    "daily": [
@@ -195,6 +200,11 @@
      "date": "2026-10-30",
      "jalali": "1405/08/08",
      "avg": 212060
+    },
+    {
+     "date": "2026-10-31",
+     "jalali": "1405/08/09",
+     "avg": 212060
     }
    ],
    "monthly": {
@@ -209,7 +219,7 @@
    "producer": "چند پتروشیمی (امیرکبیر، ایلام، شازند و …)",
    "class": "PE80",
    "url": "https://iranzayeat.com/prices/search/pscat-60/pstag-326",
-   "fetched_at": "2026-10-30T08:09:51+03:30"
+   "fetched_at": "2026-10-31T08:09:48+03:30"
   }
  }
 }
