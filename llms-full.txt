@@ -1,10 +1,10 @@
 # نشاگستر پردیس — داده‌های امروز
 
-Snapshot built 2026-11-01T08:16:17+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
+Snapshot built 2026-11-01T10:14:59+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
 
 ## نرخ ارز آزاد (2026-11-01، ۱۴۰۵/۰۸/۱۰)
 
-Free-market rates in toman, fetched 2026-11-01T08:09:45+03:30. Pages: https://neshagostar-pardis.github.io/currency/
+Free-market rates in toman, fetched 2026-11-01T10:09:32+03:30. Pages: https://neshagostar-pardis.github.io/currency/
 
 | ارز | خرید (تومان) | فروش (تومان) |
 |---|---:|---:|
@@ -32,9 +32,30 @@ Free-market rates in toman, fetched 2026-11-01T08:09:45+03:30. Pages: https://ne
 | 2026-10-20 | 264,300 | 296,800 |
 | 2026-10-19 | 263,100 | 295,500 |
 
-## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۶۶ مورد)
+## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۶۹ مورد)
 
 Summaries by Neshagostar Pardis; follow the source link for the official notice. Archive: https://neshagostar-pardis.github.io/tenders/
+
+### مخزن پلی اتیلن ۳ لایه ، طبق تقاضای پیوست
+- نوع: استعلام
+- کارفرما: شرکت نفت فلات قاره ایران منطقه لاوان
+- استان: هرمزگان
+- مهلت: 2026-11-07 (۱۶ آبان ۱۴۰۵)
+- انتشار: 2026-11-01 (۱۰ آبان ۱۴۰۵)
+- محصول: مخزن پلی‌اتیلن
+- خلاصه: استعلام تهیه مخزن پلی‌اتیلن سه‌لایه طبق تقاضای پیوست توسط شرکت نفت فلات قاره ایران منطقه لاوان.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-b021011e23
+- منبع: https://ariatender.net/%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85-%D9%87%D8%A7/%D9%81%D9%84%D8%B2%D8%A7%D8%AA-%D9%88-%D8%B3%D8%A7%D8%B2%D9%87-%D9%87%D8%A7%DB%8C-%D9%81%D9%84%D8%B2%DB%8C/%D9%85%D8%AE%D8%B2%D9%86-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-3-%D9%84%D8%A7%DB%8C%D9%87-%D8%B7%D8%A8%D9%82-%D8%AA%D9%82%D8%A7%D8%B6%D8%A7%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA، https://mozayedemonaghese.com/front/post/4/1712141/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DA%A9%D9%86%D9%86%D8%AF%D9%87_%D8%A7%D9%86%D9%88%D8%A7%D8%B9_%D9%85%D8%AE%D8%A7%D8%B2%D9%86، https://irantender.net/user.php?section=tender&category=details&id=6134671
+
+### مناقصه اجرای باقیمانده شبکه جمع آوری فاضلاب آخمقیه و مناطق متغرقه تبریز
+- نوع: مناقصه
+- استان: آذربایجان شرقی
+- مهلت: 2026-11-02 (۱۱ آبان ۱۴۰۵)
+- انتشار: 2026-11-01 (۱۰ آبان ۱۴۰۵)
+- محصول: شبکه جمع‌آوری فاضلاب
+- خلاصه: مناقصه اجرای بخش باقیمانده شبکه جمع‌آوری فاضلاب آخمقیه و مناطق پراکنده در تبریز.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-9717e1492f
+- منبع: https://www.hezarehinfo.net/tenders/nid11361491
 
 ### خرید یک عدد مخزن پلی اتیلن پنج لایه ۱۰۰۰۰ لیتری آنتی باکتریال
 - نوع: استعلام
@@ -87,7 +108,7 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - محصول: خط انتقال فاضلاب
 - خلاصه: احداث خط انتقال فاضلاب شهرک طالقانی ماهشهر از ایستگاه پمپاژ PS4T تا منهول انتظار.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-651cf36b08
-- منبع: https://www.hezarehinfo.net/tenders/nid11358691
+- منبع: https://www.hezarehinfo.net/tenders/nid11358691، https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D8%A2%D8%A8-%D9%88-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8/%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%D8%A7%D8%AD%D8%AF%D8%A7%D8%AB-%D8%AE%D8%B7-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8-%D8%B4%D9%87%D8%B1%DA%A9-%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86%DB%8C-%D8%AD%D8%AF-%D9%81%D8%A7%D8%B5%D9%84-%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%BE%D9%85%D9%BE%D8%A7%DA%98-ps4t-%D8%AA%D8%A7-%D9%85%D9%86%D9%87%D9%88%D9%84-%D8%A7
 
 ### مناقصه شبکه جمع آوری فاضلاب
 - نوع: مناقصه
@@ -225,6 +246,16 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - خلاصه: فراخوان ارزیابی کیفی برای احداث خط انتقال فاضلاب شهرک طالقانی ماهشهر از ایستگاه پمپاژ PS4T تا منهول انتظار.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-91d69f2bcb
 - منبع: https://www.hezarehinfo.net/tenders/nid11356166، https://mozayedemonaghese.com/front/post/2/1707651/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%D8%A7%D9%86_%D8%A2%D8%A8_%D9%88_%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8
+
+### استعلام ایجاد انشعابات جدیدفاضلاب درمحدوده های آماده اتصال به شبکه جمع آوری فاضلاب شهربروجردبا شرایط پیوست.منبع مالی پروژه اعتبارات جاری (داخلی) شرکت می باشد
+- نوع: استعلام
+- کارفرما: اموراب وفاضلاب شهرستان بروجرد
+- استان: لرستان / بروجرد
+- مهلت: 2026-11-04 (۱۳ آبان ۱۴۰۵)
+- محصول: انشعاب فاضلاب، شبکه جمع‌آوری فاضلاب
+- خلاصه: استعلام ایجاد انشعابات جدید فاضلاب در محدوده‌های آماده اتصال به شبکه جمع‌آوری فاضلاب شهر بروجرد، با تأمین مالی از اعتبارات جاری شرکت.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-4965e4ff07
+- منبع: https://mozayedemonaghese.com/front/post/4/1712438/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%D8%A7%D9%86_%D8%A2%D8%A8_%D9%88_%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8
 
 ### استعلام بارگیری حمل باراندازی و نصب ۵۰۰ فقره انشعاب فاضلاب نقاط پراکنده شهر قدس اب و فاضلاب غرب استان تهران به مدت۴ماه طبق اسناد پیوست
 - نوع: استعلام
