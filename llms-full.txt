@@ -1,23 +1,23 @@
 # نشاگستر پردیس — داده‌های امروز
 
-Snapshot built 2026-11-01T12:16:08+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
+Snapshot built 2026-11-01T14:15:33+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
 
 ## نرخ ارز آزاد (2026-11-01، ۱۴۰۵/۰۸/۱۰)
 
-Free-market rates in toman, fetched 2026-11-01T12:09:48+03:30. Pages: https://neshagostar-pardis.github.io/currency/
+Free-market rates in toman, fetched 2026-11-01T14:09:38+03:30. Pages: https://neshagostar-pardis.github.io/currency/
 
 | ارز | خرید (تومان) | فروش (تومان) |
 |---|---:|---:|
-| دلار آمریکا (USD) | 269,850 | 272,600 |
-| یورو (EUR) | 301,600 | 304,600 |
-| درهم امارات (AED) | 73,480 | 74,220 |
-| لیر ترکیه (TRY) | 5,370 | 5,540 |
+| دلار آمریکا (USD) | 270,450 | 273,200 |
+| یورو (EUR) | 302,200 | 305,300 |
+| درهم امارات (AED) | 73,650 | 74,390 |
+| لیر ترکیه (TRY) | 5,380 | 5,550 |
 
 ### دلار و یورو، ۱۴ روز اخیر (فروش، تومان)
 
 | تاریخ | USD | EUR |
 |---|---:|---:|
-| 2026-11-01 | 272,600 | 304,600 |
+| 2026-11-01 | 273,200 | 305,300 |
 | 2026-10-31 | 275,500 | 307,800 |
 | 2026-10-30 | 271,900 | 304,300 |
 | 2026-10-29 | 270,200 | 301,200 |
@@ -32,7 +32,7 @@ Free-market rates in toman, fetched 2026-11-01T12:09:48+03:30. Pages: https://ne
 | 2026-10-20 | 264,300 | 296,800 |
 | 2026-10-19 | 263,100 | 295,500 |
 
-## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۷۶ مورد)
+## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۷۷ مورد)
 
 Summaries by Neshagostar Pardis; follow the source link for the official notice. Archive: https://neshagostar-pardis.github.io/tenders/
 
@@ -67,7 +67,7 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - محصول: انشعاب فاضلاب، لوله و متعلقات
 - خلاصه: خرید، حمل و باراندازی لوله و متعلقات برای ۵۰۰ فقره کیت انشعاب فاضلاب توسط شرکت آب و فاضلاب منطقه یک تهران.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-8cde8ce314
-- منبع: https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D8%A2%D8%A8-%D9%88-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8/%D8%AE%D8%B1%DB%8C%D8%AF-%D8%AD%D9%85%D9%84-%D8%A8%D8%A7%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%D9%88-%D8%A8%D8%A7%D8%B1%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-%D9%84%D9%88%D9%84%D9%87-%D9%88-%D9%85%D8%AA%D8%B9%D9%84%D9%82%D8%A7%D8%AA-%DB%B5%DB%B0%DB%B0-%D9%81%D9%82%D8%B1%D9%87-%DA%A9%DB%8C%D8%AA-%D8%A7%D9%86%D8%B4%D8%B9%D8%A7%D8%A8-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8-1793517637067، https://mozayedemonaghese.com/front/post/2/1713715/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D8%A7%D9%86%D9%88%D8%A7%D8%B9_%D9%85%D8%B5%D8%A7%D9%84%D8%AD_%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86%DB%8C
+- منبع: https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D8%A2%D8%A8-%D9%88-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8/%D8%AE%D8%B1%DB%8C%D8%AF-%D8%AD%D9%85%D9%84-%D8%A8%D8%A7%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%D9%88-%D8%A8%D8%A7%D8%B1%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-%D9%84%D9%88%D9%84%D9%87-%D9%88-%D9%85%D8%AA%D8%B9%D9%84%D9%82%D8%A7%D8%AA-%DB%B5%DB%B0%DB%B0-%D9%81%D9%82%D8%B1%D9%87-%DA%A9%DB%8C%D8%AA-%D8%A7%D9%86%D8%B4%D8%B9%D8%A7%D8%A8-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8-1793517637067، https://mozayedemonaghese.com/front/post/2/1713715/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D8%A7%D9%86%D9%88%D8%A7%D8%B9_%D9%85%D8%B5%D8%A7%D9%84%D8%AD_%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86%DB%8C، https://www.hezarehinfo.net/tenders/nid11363472
 
 ### احداث تصفیه خانه فاضلاب شهر صفادشت، کلیه عملیات تهیه، حمل، انبارداری و مهندسی اجرای سازه های فرآیندی و جانبی فاضلاب شهر صفادشت
 - نوع: مناقصه
@@ -98,6 +98,17 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - خلاصه: مناقصه عمومی اجرای باقیمانده شبکه جمع آوری فاضلاب در استان آذربایجان شرقی.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-d63713d190
 - منبع: https://irantender.net/user.php?section=tender&category=details&id=6134875
+
+### مناقصه عملیات تکمیل یک خط جریان و احداث حوضچه کلرزنی تصفیه خانه فاضلاب ساوه
+- نوع: مناقصه
+- کارفرما: شرکت آب و فاضلاب استان مرکزی
+- استان: مرکزی
+- مهلت: 2026-11-05 (۱۴ آبان ۱۴۰۵)
+- انتشار: 2026-11-01 (۱۰ آبان ۱۴۰۵)
+- محصول: تصفیه خانه فاضلاب، حوضچه کلرزنی
+- خلاصه: شرکت آب و فاضلاب استان مرکزی برای تکمیل یک خط جریان و ساخت حوضچه کلرزنی در تصفیه خانه فاضلاب ساوه مناقصه برگزار کرده است.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-afbc123137
+- منبع: https://www.hezarehinfo.net/tenders/nid11363791، https://mozayedemonaghese.com/front/post/2/1714246/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D8%AA%D8%B5%D9%81%DB%8C%D9%87_%D8%A2%D8%A8_%D8%AE%D8%A7%D9%86%DA%AF%DB%8C_%D9%88_%D8%B5%D9%86%D8%B9%D8%AA%DB%8C
 
 ### مناقصه واگذاری عملیات اجرایی اجرای شبکه فاضلاب شهر مجلسی محله صنعت
 - نوع: مناقصه
@@ -296,7 +307,7 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - محصول: شبکه فاضلاب
 - خلاصه: شرکت آب و فاضلاب استان اصفهان مناقصه اجرای شبکه فاضلاب شهر مجلسی (محله صنعت) را برگزار کرده است.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-26de1c509e
-- منبع: https://www.abfaesfahan.ir/tender/%d8%a7%d8%ac%d8%b1%d8%a7%db%8c-%d8%b4%d8%a8%da%a9%d9%87-%d9%81%d8%a7%d8%b6%d9%84%d8%a7%d8%a8-%d8%b4%d9%87%d8%b1-%d9%85%d8%ac%d9%84%d8%b3%db%8c-%d9%85%d8%ad%d9%84%d9%87-%d8%b5%d9%86%d8%b9%d8%aa-%d8%b4/، https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D8%A2%D8%A8-%D9%88-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8/%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B4%D8%A8%DA%A9%D9%87-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8-%D8%B4%D9%87%D8%B1-%D9%85%D8%AC%D9%84%D8%B3%DB%8C-%D9%85%D8%AD%D9%84%D9%87-%D8%B5%D9%86%D8%B9%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-234-3-405، https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D8%A2%D8%A8-%D9%88-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8/%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B4%D8%A8%DA%A9%D9%87-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8-%D8%B4%D9%87%D8%B1-%D9%85%D8%AC%D9%84%D8%B3%DB%8C-%D9%85%D8%AD%D9%84%D9%87-%D8%B5%D9%86%D8%B9%D8%AA
+- منبع: https://www.abfaesfahan.ir/tender/%d8%a7%d8%ac%d8%b1%d8%a7%db%8c-%d8%b4%d8%a8%da%a9%d9%87-%d9%81%d8%a7%d8%b6%d9%84%d8%a7%d8%a8-%d8%b4%d9%87%d8%b1-%d9%85%d8%ac%d9%84%d8%b3%db%8c-%d9%85%d8%ad%d9%84%d9%87-%d8%b5%d9%86%d8%b9%d8%aa-%d8%b4/، https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D8%A2%D8%A8-%D9%88-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8/%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B4%D8%A8%DA%A9%D9%87-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8-%D8%B4%D9%87%D8%B1-%D9%85%D8%AC%D9%84%D8%B3%DB%8C-%D9%85%D8%AD%D9%84%D9%87-%D8%B5%D9%86%D8%B9%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-234-3-405، https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D8%A2%D8%A8-%D9%88-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8/%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B4%D8%A8%DA%A9%D9%87-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8-%D8%B4%D9%87%D8%B1-%D9%85%D8%AC%D9%84%D8%B3%DB%8C-%D9%85%D8%AD%D9%84%D9%87-%D8%B5%D9%86%D8%B9%D8%AA، https://irantender.net/user.php?section=tender&category=details&id=6136546
 
 ### مناقصه فراخوان ارزیابی کیفی عملیات احداث خط انتقال فاضلاب شهرک طالقانی حد فاصل ایستگاه پمپاژ PS4T تا منهول انتظار ماهشهر
 - نوع: مناقصه
