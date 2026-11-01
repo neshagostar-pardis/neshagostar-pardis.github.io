@@ -1,23 +1,23 @@
 # نشاگستر پردیس — داده‌های امروز
 
-Snapshot built 2026-11-01T10:14:59+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
+Snapshot built 2026-11-01T12:16:08+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
 
 ## نرخ ارز آزاد (2026-11-01، ۱۴۰۵/۰۸/۱۰)
 
-Free-market rates in toman, fetched 2026-11-01T10:09:32+03:30. Pages: https://neshagostar-pardis.github.io/currency/
+Free-market rates in toman, fetched 2026-11-01T12:09:48+03:30. Pages: https://neshagostar-pardis.github.io/currency/
 
 | ارز | خرید (تومان) | فروش (تومان) |
 |---|---:|---:|
-| دلار آمریکا (USD) | 268,900 | 271,600 |
-| یورو (EUR) | 300,500 | 303,500 |
-| درهم امارات (AED) | 73,210 | 73,950 |
-| لیر ترکیه (TRY) | 5,350 | 5,520 |
+| دلار آمریکا (USD) | 269,850 | 272,600 |
+| یورو (EUR) | 301,600 | 304,600 |
+| درهم امارات (AED) | 73,480 | 74,220 |
+| لیر ترکیه (TRY) | 5,370 | 5,540 |
 
 ### دلار و یورو، ۱۴ روز اخیر (فروش، تومان)
 
 | تاریخ | USD | EUR |
 |---|---:|---:|
-| 2026-11-01 | 271,600 | 303,500 |
+| 2026-11-01 | 272,600 | 304,600 |
 | 2026-10-31 | 275,500 | 307,800 |
 | 2026-10-30 | 271,900 | 304,300 |
 | 2026-10-29 | 270,200 | 301,200 |
@@ -32,9 +32,20 @@ Free-market rates in toman, fetched 2026-11-01T10:09:32+03:30. Pages: https://ne
 | 2026-10-20 | 264,300 | 296,800 |
 | 2026-10-19 | 263,100 | 295,500 |
 
-## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۶۹ مورد)
+## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۷۶ مورد)
 
 Summaries by Neshagostar Pardis; follow the source link for the official notice. Archive: https://neshagostar-pardis.github.io/tenders/
+
+### خرید لوله پلی اتیلن دوجداره فاضلابی (کاروگیت) و ملحقات
+- نوع: استعلام
+- کارفرما: شرکت آب و فاضلاب جنوب شرقی استان تهران
+- استان: تهران
+- مهلت: 2026-11-04 (۱۳ آبان ۱۴۰۵)
+- انتشار: 2026-11-01 (۱۰ آبان ۱۴۰۵)
+- محصول: لوله کاروگیت، لوله پلی اتیلن دوجداره
+- خلاصه: استعلام خرید لوله پلی اتیلن دوجداره فاضلابی (کاروگیت) و ملحقات توسط شرکت آب و فاضلاب جنوب شرقی استان تهران.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-34df692c03
+- منبع: https://ariatender.net/%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85-%D9%87%D8%A7/%D9%84%D9%88%D9%84%D9%87-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%88-%D8%B4%DB%8C%D8%B1%D8%A2%D9%84%D8%A7%D8%AA/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-%D8%AF%D9%88%D8%AC%D8%AF%D8%A7%D8%B1%D9%87-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8%DB%8C-%DA%A9%D8%A7%D8%B1%D9%88%DA%AF%DB%8C%D8%AA-%D9%88-%D9%85%D9%84%D8%AD%D9%82%D8%A7%D8%AA-، https://mozayedemonaghese.com/front/post/4/1713114/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%84%D9%88%D9%84%D9%87_%D9%88_%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA، https://irantender.net/user.php?section=tender&category=details&id=6135655
 
 ### مخزن پلی اتیلن ۳ لایه ، طبق تقاضای پیوست
 - نوع: استعلام
@@ -47,6 +58,27 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-b021011e23
 - منبع: https://ariatender.net/%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85-%D9%87%D8%A7/%D9%81%D9%84%D8%B2%D8%A7%D8%AA-%D9%88-%D8%B3%D8%A7%D8%B2%D9%87-%D9%87%D8%A7%DB%8C-%D9%81%D9%84%D8%B2%DB%8C/%D9%85%D8%AE%D8%B2%D9%86-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-3-%D9%84%D8%A7%DB%8C%D9%87-%D8%B7%D8%A8%D9%82-%D8%AA%D9%82%D8%A7%D8%B6%D8%A7%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA، https://mozayedemonaghese.com/front/post/4/1712141/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DA%A9%D9%86%D9%86%D8%AF%D9%87_%D8%A7%D9%86%D9%88%D8%A7%D8%B9_%D9%85%D8%AE%D8%A7%D8%B2%D9%86، https://irantender.net/user.php?section=tender&category=details&id=6134671
 
+### خرید، حمل، بارگیری و باراندازی لوله و متعلقات ۵۰۰ فقره کیت انشعاب فاضلاب
+- نوع: مناقصه
+- کارفرما: شرکت آب و فاضلاب منطقه یک شهر تهران
+- استان: تهران
+- مهلت: 2026-11-07 (۱۶ آبان ۱۴۰۵)
+- انتشار: 2026-11-01 (۱۰ آبان ۱۴۰۵)
+- محصول: انشعاب فاضلاب، لوله و متعلقات
+- خلاصه: خرید، حمل و باراندازی لوله و متعلقات برای ۵۰۰ فقره کیت انشعاب فاضلاب توسط شرکت آب و فاضلاب منطقه یک تهران.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-8cde8ce314
+- منبع: https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D8%A2%D8%A8-%D9%88-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8/%D8%AE%D8%B1%DB%8C%D8%AF-%D8%AD%D9%85%D9%84-%D8%A8%D8%A7%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%D9%88-%D8%A8%D8%A7%D8%B1%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-%D9%84%D9%88%D9%84%D9%87-%D9%88-%D9%85%D8%AA%D8%B9%D9%84%D9%82%D8%A7%D8%AA-%DB%B5%DB%B0%DB%B0-%D9%81%D9%82%D8%B1%D9%87-%DA%A9%DB%8C%D8%AA-%D8%A7%D9%86%D8%B4%D8%B9%D8%A7%D8%A8-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8-1793517637067، https://mozayedemonaghese.com/front/post/2/1713715/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D8%A7%D9%86%D9%88%D8%A7%D8%B9_%D9%85%D8%B5%D8%A7%D9%84%D8%AD_%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86%DB%8C
+
+### احداث تصفیه خانه فاضلاب شهر صفادشت، کلیه عملیات تهیه، حمل، انبارداری و مهندسی اجرای سازه های فرآیندی و جانبی فاضلاب شهر صفادشت
+- نوع: مناقصه
+- استان: تهران
+- مهلت: 2026-11-14 (۲۳ آبان ۱۴۰۵)
+- انتشار: 2026-11-01 (۱۰ آبان ۱۴۰۵)
+- محصول: تصفیه خانه فاضلاب
+- خلاصه: مناقصه احداث تصفیه خانه فاضلاب شهر صفادشت شامل تهیه، حمل، انبارداری و اجرای سازه های فرآیندی و جانبی.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-2dcc1058ac
+- منبع: https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D8%A2%D8%A8-%D9%88-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8/%D8%A7%D8%AD%D8%AF%D8%A7%D8%AB-%D8%AA%D8%B5%D9%81%DB%8C%D9%87-%D8%AE%D8%A7%D9%86%D9%87-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8-%D8%B4%D9%87%D8%B1-%D8%B5%D9%81%D8%A7%D8%AF%D8%B4%D8%AA-%DA%A9%D9%84%DB%8C%D9%87-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%D8%AA%D9%87%DB%8C%D9%87-%D8%AD%D9%85%D9%84-%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D9%88-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C
+
 ### مناقصه اجرای باقیمانده شبکه جمع آوری فاضلاب آخمقیه و مناطق متغرقه تبریز
 - نوع: مناقصه
 - استان: آذربایجان شرقی
@@ -56,6 +88,36 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - خلاصه: مناقصه اجرای بخش باقیمانده شبکه جمع‌آوری فاضلاب آخمقیه و مناطق پراکنده در تبریز.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-9717e1492f
 - منبع: https://www.hezarehinfo.net/tenders/nid11361491
+
+### مناقصه عمومی عملیات مربوط به اجرای باقیمانده شبکه جمع آوری فاضلاب
+- نوع: مناقصه
+- استان: آذربایجان شرقی
+- مهلت: 2026-11-02 (۱۱ آبان ۱۴۰۵)
+- انتشار: 2026-11-01 (۱۰ آبان ۱۴۰۵)
+- محصول: شبکه جمع آوری فاضلاب
+- خلاصه: مناقصه عمومی اجرای باقیمانده شبکه جمع آوری فاضلاب در استان آذربایجان شرقی.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-d63713d190
+- منبع: https://irantender.net/user.php?section=tender&category=details&id=6134875
+
+### مناقصه واگذاری عملیات اجرایی اجرای شبکه فاضلاب شهر مجلسی محله صنعت
+- نوع: مناقصه
+- استان: اصفهان
+- مهلت: 2026-11-15 (۲۴ آبان ۱۴۰۵)
+- انتشار: 2026-11-01 (۱۰ آبان ۱۴۰۵)
+- محصول: شبکه فاضلاب
+- خلاصه: مناقصه واگذاری عملیات اجرایی شبکه فاضلاب شهر مجلسی (محله صنعت) در استان اصفهان.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-789de7a3e9
+- منبع: https://www.hezarehinfo.net/tenders/nid11362951
+
+### مناقصه واگذاری عملیات اجرایی باقیمانده ضلع شرقی و خط انتقال فاضلاب شهر چرمهین
+- نوع: مناقصه
+- استان: اصفهان
+- مهلت: 2026-11-15 (۲۴ آبان ۱۴۰۵)
+- انتشار: 2026-11-01 (۱۰ آبان ۱۴۰۵)
+- محصول: شبکه فاضلاب، خط انتقال فاضلاب
+- خلاصه: مناقصه اجرای باقیمانده ضلع شرقی و خط انتقال فاضلاب شهر چرمهین در استان اصفهان.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-7811f3eb8a
+- منبع: https://www.hezarehinfo.net/tenders/nid11362945
 
 ### خرید یک عدد مخزن پلی اتیلن پنج لایه ۱۰۰۰۰ لیتری آنتی باکتریال
 - نوع: استعلام
@@ -213,7 +275,7 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - محصول: خطوط فاضلابرو، انشعاب فاضلاب
 - خلاصه: اجرای پراکنده خطوط فاضلابرو و نصب انشعابات فاضلاب در منطقه ۵ آبفای تهران.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-fd2a458fba
-- منبع: https://www.hezarehinfo.net/tenders/nid11357296، https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D8%A2%D8%A8-%D9%88-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7-%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C-%DB%8C%DA%A9%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%DB%8C%DA%A9-%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D8%A7%DB%8C-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B7%D9%88%D8%B7-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8%D8%B1%D9%88-%D9%BE%D8%B1%D8%A7%DA%A9%D9%86%D8%AF%D9%87-%D8%A8، https://mozayedemonaghese.com/front/post/2/1708549/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D8%A2%D8%A8_%D9%88_%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8
+- منبع: https://www.hezarehinfo.net/tenders/nid11357296، https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D8%A2%D8%A8-%D9%88-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7-%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C-%DB%8C%DA%A9%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%DB%8C%DA%A9-%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D8%A7%DB%8C-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B7%D9%88%D8%B7-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8%D8%B1%D9%88-%D9%BE%D8%B1%D8%A7%DA%A9%D9%86%D8%AF%D9%87-%D8%A8، https://mozayedemonaghese.com/front/post/2/1708549/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D8%A2%D8%A8_%D9%88_%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8، https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D8%A2%D8%A8-%D9%88-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8/%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B7%D9%88%D8%B7-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8-%D8%B1%D9%88-%D9%BE%D8%B1%D8%A7%DA%A9%D9%86%D8%AF%D9%87-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D9%86%D8%B5%D8%A8-%D8%A7%D9%86%D8%B4%D8%B9%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8-%D8%A8%D9%87-%D8%B5%D9%88%D8%B1%D8%AA-%D9%BE%D8%B1%D8%A7%DA%A9%D9%86%D8%AF%D9%87-%D8%AF%D8%B1-%D8%B3%D8%B7%D8%AD-1793517756305
 
 ### مناقصه عمومی یک مرحله ای کانال دفع آبهای سطحی و امورات عمرانی به صورت دستمزدی
 - نوع: مناقصه
@@ -234,7 +296,7 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - محصول: شبکه فاضلاب
 - خلاصه: شرکت آب و فاضلاب استان اصفهان مناقصه اجرای شبکه فاضلاب شهر مجلسی (محله صنعت) را برگزار کرده است.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-26de1c509e
-- منبع: https://www.abfaesfahan.ir/tender/%d8%a7%d8%ac%d8%b1%d8%a7%db%8c-%d8%b4%d8%a8%da%a9%d9%87-%d9%81%d8%a7%d8%b6%d9%84%d8%a7%d8%a8-%d8%b4%d9%87%d8%b1-%d9%85%d8%ac%d9%84%d8%b3%db%8c-%d9%85%d8%ad%d9%84%d9%87-%d8%b5%d9%86%d8%b9%d8%aa-%d8%b4/، https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D8%A2%D8%A8-%D9%88-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8/%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B4%D8%A8%DA%A9%D9%87-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8-%D8%B4%D9%87%D8%B1-%D9%85%D8%AC%D9%84%D8%B3%DB%8C-%D9%85%D8%AD%D9%84%D9%87-%D8%B5%D9%86%D8%B9%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-234-3-405
+- منبع: https://www.abfaesfahan.ir/tender/%d8%a7%d8%ac%d8%b1%d8%a7%db%8c-%d8%b4%d8%a8%da%a9%d9%87-%d9%81%d8%a7%d8%b6%d9%84%d8%a7%d8%a8-%d8%b4%d9%87%d8%b1-%d9%85%d8%ac%d9%84%d8%b3%db%8c-%d9%85%d8%ad%d9%84%d9%87-%d8%b5%d9%86%d8%b9%d8%aa-%d8%b4/، https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D8%A2%D8%A8-%D9%88-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8/%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B4%D8%A8%DA%A9%D9%87-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8-%D8%B4%D9%87%D8%B1-%D9%85%D8%AC%D9%84%D8%B3%DB%8C-%D9%85%D8%AD%D9%84%D9%87-%D8%B5%D9%86%D8%B9%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-234-3-405، https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D8%A2%D8%A8-%D9%88-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8/%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B4%D8%A8%DA%A9%D9%87-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8-%D8%B4%D9%87%D8%B1-%D9%85%D8%AC%D9%84%D8%B3%DB%8C-%D9%85%D8%AD%D9%84%D9%87-%D8%B5%D9%86%D8%B9%D8%AA
 
 ### مناقصه فراخوان ارزیابی کیفی عملیات احداث خط انتقال فاضلاب شهرک طالقانی حد فاصل ایستگاه پمپاژ PS4T تا منهول انتظار ماهشهر
 - نوع: مناقصه
@@ -266,6 +328,16 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - خلاصه: آب و فاضلاب غرب استان تهران برای بارگیری، حمل و نصب ۵۰۰ فقره انشعاب فاضلاب در نقاط پراکنده شهر قدس استعلام گرفته است. مدت کار ۴ ماه است.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-f0b60d3ebe
 - منبع: https://mozayedemonaghese.com/front/post/4/1710939/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%D8%A7%D9%86_%D8%A2%D8%A8_%D9%88_%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8
+
+### استعلام نصب انشعابات فاضلاب در سطح شهر شیروان ( زون شمال غربی)به تعداد ۴۰۰فقره
+- نوع: استعلام
+- کارفرما: آب و فاضلاب شهرستان شیروان استان خراسان شمالی
+- استان: خراسان شمالی / شیروان
+- مهلت: 2026-11-05 (۱۴ آبان ۱۴۰۵)
+- محصول: انشعاب فاضلاب
+- خلاصه: استعلام نصب ۴۰۰ فقره انشعاب فاضلاب در زون شمال غربی شهر شیروان توسط آب و فاضلاب شیروان.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/10/#t-ac7f96fb70
+- منبع: https://mozayedemonaghese.com/front/post/4/1713024/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%D8%A7%D9%86_%D8%A2%D8%A8_%D9%88_%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8
 
 ### مناقصه عمومی همزمان با ارزیابی (یکپارچه) یک مرحله ای تکمیل و ارتقاء مدول اول تصفیه خانه فاضلاب ناحیه صنعتی آقچلی
 - نوع: مناقصه
