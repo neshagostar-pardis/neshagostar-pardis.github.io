@@ -1,22 +1,23 @@
 # نشاگستر پردیس — داده‌های امروز
 
-Snapshot built 2026-11-01T14:15:33+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
+Snapshot built 2026-11-02T08:16:41+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
 
-## نرخ ارز آزاد (2026-11-01، ۱۴۰۵/۰۸/۱۰)
+## نرخ ارز آزاد (2026-11-02، ۱۴۰۵/۰۸/۱۱)
 
-Free-market rates in toman, fetched 2026-11-01T14:09:38+03:30. Pages: https://neshagostar-pardis.github.io/currency/
+Free-market rates in toman, fetched 2026-11-02T08:09:41+03:30. Pages: https://neshagostar-pardis.github.io/currency/
 
 | ارز | خرید (تومان) | فروش (تومان) |
 |---|---:|---:|
-| دلار آمریکا (USD) | 270,450 | 273,200 |
-| یورو (EUR) | 302,200 | 305,300 |
-| درهم امارات (AED) | 73,650 | 74,390 |
-| لیر ترکیه (TRY) | 5,380 | 5,550 |
+| دلار آمریکا (USD) | 269,800 | 272,500 |
+| یورو (EUR) | 301,500 | 304,500 |
+| درهم امارات (AED) | 73,460 | 74,200 |
+| لیر ترکیه (TRY) | 5,360 | 5,530 |
 
 ### دلار و یورو، ۱۴ روز اخیر (فروش، تومان)
 
 | تاریخ | USD | EUR |
 |---|---:|---:|
+| 2026-11-02 | 272,500 | 304,500 |
 | 2026-11-01 | 273,200 | 305,300 |
 | 2026-10-31 | 275,500 | 307,800 |
 | 2026-10-30 | 271,900 | 304,300 |
@@ -30,11 +31,20 @@ Free-market rates in toman, fetched 2026-11-01T14:09:38+03:30. Pages: https://ne
 | 2026-10-22 | 269,800 | 303,300 |
 | 2026-10-21 | 265,500 | 298,100 |
 | 2026-10-20 | 264,300 | 296,800 |
-| 2026-10-19 | 263,100 | 295,500 |
 
-## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۷۷ مورد)
+## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۷۲ مورد)
 
 Summaries by Neshagostar Pardis; follow the source link for the official notice. Archive: https://neshagostar-pardis.github.io/tenders/
+
+### مناقصه اجرای عملیات خاکبرداری کانال دفع آبهای سطحی
+- نوع: مناقصه
+- استان: تهران، فارس، هرمزگان
+- مهلت: 2026-11-07 (۱۶ آبان ۱۴۰۵)
+- انتشار: 2026-11-01 (۱۰ آبان ۱۴۰۵)
+- محصول: کانال آب‌های سطحی
+- خلاصه: مناقصه اجرای عملیات خاکبرداری کانال دفع آب‌های سطحی. محل اجرا در استان‌های تهران، فارس و هرمزگان ذکر شده است.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/11/#t-5e90e33b52
+- منبع: https://www.hezarehinfo.net/tenders/nid11365555
 
 ### خرید لوله پلی اتیلن دوجداره فاضلابی (کاروگیت) و ملحقات
 - نوع: استعلام
@@ -381,17 +391,6 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/07/#t-1bcc64f9b5
 - منبع: https://www.hezarehinfo.net/tenders/nid11351277، https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D9%84%D9%88%D9%84%D9%87-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%88-%D8%B4%DB%8C%D8%B1%D8%A2%D9%84%D8%A7%D8%AA/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%8C%DA%A9-%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D8%A7%DB%8C-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%D8%AE%D8%B1%DB%8C%D8%AF-%D9%84%D9%88%D9%84%D9%87-%DA%A9%D8%A7%D8%B1%D9%88%DA%AF%DB%8C%D8%AA-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8%DB%8C-%D8%A8%D9%87-%D9%82%D8%B7%D8%B1-1200%D9%88، https://mozayedemonaghese.com/front/post/2/1703144/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D8%A7%D9%86%D9%88%D8%A7%D8%B9_%D8%B3%DB%8C%D8%B3%D8%AA%D9%85_%D9%87%D8%A7%DB%8C_%D8%AA%D9%87%D9%88%DB%8C%D9%87_%D9%85%D8%B7%D8%A8%D9%88%D8%B9
 
-### خرید لوله کاروگیت فاضلابی۳۰۰ سنگین
-- نوع: استعلام
-- کارفرما: شهرداری تفرش استان مرکزی
-- استان: مرکزی
-- مهلت: 2026-11-01 (۱۰ آبان ۱۴۰۵)
-- انتشار: 2026-10-28 (۶ آبان ۱۴۰۵)
-- محصول: لوله کاروگیت فاضلابی
-- خلاصه: شهرداری تفرش در استان مرکزی برای خرید لوله کاروگیت فاضلابی ۳۰۰ سنگین استعلام گرفته است.
-- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/07/#t-8379cc0544
-- منبع: https://ariatender.net/%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85-%D9%87%D8%A7/%D9%84%D9%88%D9%84%D9%87-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%88-%D8%B4%DB%8C%D8%B1%D8%A2%D9%84%D8%A7%D8%AA/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%84%D9%88%D9%84%D9%87-%DA%A9%D8%A7%D8%B1%D9%88%DA%AF%DB%8C%D8%AA-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8%DB%8C300-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-، https://mozayedemonaghese.com/front/post/4/1704669/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%84%D9%88%D9%84%D9%87_%D9%88_%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA، https://irantender.net/user.php?section=tender&category=details&id=6128519
-
 ### مناقصه : ۱ - خرید لوله کاروگیت ۲ - بلوک بتنی مفصلی
 - نوع: مناقصه
 - استان: البرز
@@ -411,6 +410,17 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - خلاصه: مناقصه خرید لوله پلی‌اتیلن دوجداره سایز ۱۴۰۰ به‌همراه کوپلر در استان خراسان رضوی.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/07/#t-2cd0d8aa76
 - منبع: https://irantender.net/user.php?section=tender&category=details&id=6125372
+
+### خرید لوله کاروگیت فاضلابی۳۰۰ سنگین
+- نوع: استعلام
+- کارفرما: شهرداری تفرش استان مرکزی
+- استان: مرکزی
+- مهلت: 2026-11-01 (۱۰ آبان ۱۴۰۵)
+- انتشار: 2026-10-28 (۶ آبان ۱۴۰۵)
+- محصول: لوله کاروگیت فاضلابی
+- خلاصه: شهرداری تفرش در استان مرکزی برای خرید لوله کاروگیت فاضلابی ۳۰۰ سنگین استعلام گرفته است.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/07/#t-8379cc0544
+- منبع: https://ariatender.net/%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85-%D9%87%D8%A7/%D9%84%D9%88%D9%84%D9%87-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%88-%D8%B4%DB%8C%D8%B1%D8%A2%D9%84%D8%A7%D8%AA/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%84%D9%88%D9%84%D9%87-%DA%A9%D8%A7%D8%B1%D9%88%DA%AF%DB%8C%D8%AA-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8%DB%8C300-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-، https://mozayedemonaghese.com/front/post/4/1704669/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%84%D9%88%D9%84%D9%87_%D9%88_%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA، https://irantender.net/user.php?section=tender&category=details&id=6128519
 
 ### عملیات اجرایی ایستگاه سوار حافظ(محوطه و ساختمان ایستگاه سوار حافظ ) به انضمام تهیه و نصب سپتیک فاضلاب
 - نوع: استعلام
@@ -487,17 +497,6 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/06/#t-65b469918a
 - منبع: https://ariatender.net/%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85-%D9%87%D8%A7/%D9%84%D9%88%D9%84%D9%87-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%88-%D8%B4%DB%8C%D8%B1%D8%A2%D9%84%D8%A7%D8%AA/%D9%84%D9%88%D9%84%D9%87-%D8%AF%D9%88%D8%AC%D8%AF%D8%A7%D8%B1%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-%D9%85%D8%B4%D8%AE%D8%B5%D8%A7%D8%AA-%D8%B7%D8%A8%D9%82-%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D8%AE%D8%B1%DB%8C%D8%AF-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%DB%8C، https://mozayedemonaghese.com/front/post/4/1698481/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%84%D9%88%D9%84%D9%87_%D9%88_%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA، https://irantender.net/user.php?section=tender&category=details&id=6122727
 
-### استعلام لوله کاروگیت طبق مشخصات فنی پیوست
-- نوع: استعلام
-- کارفرما: شرکت اب و فاضلاب استان کردستان
-- استان: کردستان / سنندج
-- مهلت: 2026-11-01 (۱۰ آبان ۱۴۰۵)
-- انتشار: 2026-10-27 (۵ آبان ۱۴۰۵)
-- محصول: لوله کاروگیت
-- خلاصه: استعلام خرید لوله کاروگیت طبق مشخصات فنی پیوست برای آب و فاضلاب استان کردستان.
-- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/06/#t-eea6bbb234
-- منبع: https://mozayedemonaghese.com/front/post/4/1698132/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D8%A7%D9%86%D9%88%D8%A7%D8%B9_%D9%84%D9%88%D9%84%D9%87_%D9%84%D9%86%D8%B3، https://irantender.net/user.php?section=tender&category=details&id=6124077
-
 ### خرید تانکر ۱۵۰۰۰ لیتری پلی اتیلن مطابق مشخصات فنی پیوستی به تعاداد ۲ عدد
 - نوع: استعلام
 - کارفرما: شهرداری کمال شهر استان البرز
@@ -542,6 +541,17 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/06/#t-bce42fd9ee
 - منبع: https://ariatender.net/%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85-%D9%87%D8%A7/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C-%D9%88-%D8%B9%D9%85%D9%88%D9%85%DB%8C/%D9%86%D8%B5%D8%A8-%D9%88-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B3%D9%BE%D8%AA%DB%8C%DA%A9-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D9%88%DB%8C%DA%98%D9%87-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%A8%D8%B1-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86، https://mozayedemonaghese.com/front/post/4/1699747/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%D8%A7%D9%86_%D8%A2%D8%A8_%D9%88_%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8، https://irantender.net/user.php?section=tender&category=details&id=6122950
 
+### استعلام لوله کاروگیت طبق مشخصات فنی پیوست
+- نوع: استعلام
+- کارفرما: شرکت اب و فاضلاب استان کردستان
+- استان: کردستان / سنندج
+- مهلت: 2026-11-01 (۱۰ آبان ۱۴۰۵)
+- انتشار: 2026-10-27 (۵ آبان ۱۴۰۵)
+- محصول: لوله کاروگیت
+- خلاصه: استعلام خرید لوله کاروگیت طبق مشخصات فنی پیوست برای آب و فاضلاب استان کردستان.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/06/#t-eea6bbb234
+- منبع: https://mozayedemonaghese.com/front/post/4/1698132/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D8%A7%D9%86%D9%88%D8%A7%D8%B9_%D9%84%D9%88%D9%84%D9%87_%D9%84%D9%86%D8%B3، https://irantender.net/user.php?section=tender&category=details&id=6124077
+
 ### مناقصه عمومی دو مرحله ای تهیه، ساخت، حمل و نصب پکیج درام فیلتر تصفیه خانه فاضلاب نیروگاه اصفهان
 - نوع: مناقصه
 - استان: اصفهان
@@ -563,17 +573,6 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/06/#t-5b3d282829
 - منبع: https://ariatender.net/%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85-%D9%87%D8%A7/%D8%B1%D8%A7%D9%87%D8%B3%D8%A7%D8%B2%DB%8C-%D9%88-%D8%B4%D9%87%D8%B1%D8%B3%D8%A7%D8%B2%DB%8C/%D8%A7%D8%AD%D8%AF%D8%A7%D8%AB-%D8%B3%D9%BE%D8%AA%DB%8C%DA%A9-%D9%88-%DA%86%D8%A7%D9%84%D9%87-%D9%BE%D9%85%D9%BE-%D8%B2%DB%8C%D8%B1-%DA%AF%D8%B0%D8%B1-%D8%A7%D8%A8%D9%88%D8%B0%D8%B1-%D8%BA%D9%81%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%D9%87-%D9%85%D9%86%D8%B7%D9%82%D9%87-5، https://ariatender.net/%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85-%D9%87%D8%A7/%D8%AA%D8%A7%D8%B3%DB%8C%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%DA%A9%DB%8C-%D9%88-%D9%85%DA%A9%D8%A7%D9%86%DB%8C%DA%A9%DB%8C/%D8%A7%D8%AD%D8%AF%D8%A7%D8%AB-%D8%B3%D9%BE%D8%AA%DB%8C%DA%A9-%D9%88-%DA%86%D8%A7%D9%84%D9%87-%D9%BE%D9%85%D9%BE-%D8%B2%DB%8C%D8%B1-%DA%AF%D8%B0%D8%B1-%D8%A7%D8%A8%D9%88%D8%B0%D8%B1-%D8%BA%D9%81%D8%A7%D8%B1%DB%8C-، https://mozayedemonaghese.com/front/post/4/1698388/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%BE%D9%84_%D9%88_%D8%AA%D9%88%D9%86%D9%84_%D8%B3%D8%A7%D8%B2%DB%8C، https://irantender.net/user.php?section=tender&category=details&id=6123698
 
-### مناقصه عمومی یک مرحله ای عملیات تهیه و اجرای شبکه جمع آوری فاضلاب و شبکه توزیع آب و خط انتقال آب محله های ۳ و ۴
-- نوع: مناقصه
-- کارفرما: شرکت آب و فاضلاب استان مرکزی
-- استان: مرکزی
-- مهلت: 2026-11-01 (۱۰ آبان ۱۴۰۵)
-- انتشار: 2026-10-27 (۵ آبان ۱۴۰۵)
-- محصول: شبکه جمع‌آوری فاضلاب
-- خلاصه: تهیه و اجرای شبکه جمع‌آوری فاضلاب، شبکه توزیع آب و خط انتقال آب در محله‌های ۳ و ۴ توسط آب و فاضلاب استان مرکزی.
-- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/06/#t-63c4dc3263
-- منبع: https://www.hezarehinfo.net/tenders/nid11344385، https://mozayedemonaghese.com/front/post/2/1697842/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%D8%A7%D9%86_%D8%A2%D8%A8_%D9%88_%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8
-
 ### مناقصه اجرای عملیات خط انتقال فاضلاب ۱۲۰۰ میلی متری
 - نوع: مناقصه
 - استان: آذربایجان شرقی
@@ -583,16 +582,6 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - خلاصه: مناقصه‌ای در آذربایجان شرقی برای اجرای عملیات خط انتقال فاضلاب ۱۲۰۰ میلی‌متری برگزار شده است.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/06/#t-8523956115
 - منبع: https://irantender.net/user.php?section=tender&category=details&id=6123615
-
-### مناقصه اجرای شبکه جمع آوری فاضلاب
-- نوع: مناقصه
-- استان: مرکزی
-- مهلت: 2026-11-01 (۱۰ آبان ۱۴۰۵)
-- انتشار: 2026-10-27 (۵ آبان ۱۴۰۵)
-- محصول: شبکه جمع‌آوری فاضلاب
-- خلاصه: مناقصه‌ای در استان مرکزی برای اجرای شبکه جمع‌آوری فاضلاب برگزار شده است.
-- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/06/#t-eed63a0bc2
-- منبع: https://irantender.net/user.php?section=tender&category=details&id=6122722
 
 ### استعلام احداث شبکه جمع آوری فاضلاب ضروری محلات سطح شهر سنندج و نواحی الحاقی فاز۲۵ (کد ۱۲۹-۱۴۰۵)
 - نوع: استعلام
@@ -616,6 +605,17 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/06/#t-ccaed5500c
 - منبع: https://www.hezarehinfo.net/tenders/nid11346992، https://www.hezarehinfo.net/tenders/nid11345424، https://mozayedemonaghese.com/front/post/2/1697837/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D8%A2%D8%A8_%D9%88_%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8، https://irantender.net/user.php?section=tender&category=details&id=6122838
 
+### مناقصه عمومی یک مرحله ای عملیات تهیه و اجرای شبکه جمع آوری فاضلاب و شبکه توزیع آب و خط انتقال آب محله های ۳ و ۴
+- نوع: مناقصه
+- کارفرما: شرکت آب و فاضلاب استان مرکزی
+- استان: مرکزی
+- مهلت: 2026-11-01 (۱۰ آبان ۱۴۰۵)
+- انتشار: 2026-10-27 (۵ آبان ۱۴۰۵)
+- محصول: شبکه جمع‌آوری فاضلاب
+- خلاصه: تهیه و اجرای شبکه جمع‌آوری فاضلاب، شبکه توزیع آب و خط انتقال آب در محله‌های ۳ و ۴ توسط آب و فاضلاب استان مرکزی.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/06/#t-63c4dc3263
+- منبع: https://www.hezarehinfo.net/tenders/nid11344385، https://mozayedemonaghese.com/front/post/2/1697842/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%D8%A7%D9%86_%D8%A2%D8%A8_%D9%88_%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8
+
 ### استعلام اجرای بخشی از شبکه جمع آوری فاضلاب شهر کبودراهنگ
 - نوع: استعلام
 - کارفرما: شرکت آب و فاضلاب استان همدان
@@ -636,6 +636,16 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - خلاصه: مناقصه‌ای در آذربایجان شرقی برای انجام عملیات باقی‌مانده شبکه جمع‌آوری فاضلاب برگزار شده است.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/06/#t-4f95506a46
 - منبع: https://irantender.net/user.php?section=tender&category=details&id=6123684
+
+### مناقصه اجرای شبکه جمع آوری فاضلاب
+- نوع: مناقصه
+- استان: مرکزی
+- مهلت: 2026-11-01 (۱۰ آبان ۱۴۰۵)
+- انتشار: 2026-10-27 (۵ آبان ۱۴۰۵)
+- محصول: شبکه جمع‌آوری فاضلاب
+- خلاصه: مناقصه‌ای در استان مرکزی برای اجرای شبکه جمع‌آوری فاضلاب برگزار شده است.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/06/#t-eed63a0bc2
+- منبع: https://irantender.net/user.php?section=tender&category=details&id=6122722
 
 ### مناقصه عمومی یک مرحله ای خرید لوله پلی اتیلن دوجداره سایز ۱۴۰۰ به همراه کوپلر
 - نوع: مناقصه
@@ -689,16 +699,6 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/05/#t-f719d45511
 - منبع: https://www.hezarehinfo.net/tenders/nid11341545، https://www.hezarehinfo.net/tenders/nid11338415، https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D9%84%D9%88%D9%84%D9%87-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%88-%D8%B4%DB%8C%D8%B1%D8%A2%D9%84%D8%A7%D8%AA/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%A2%D8%A8-%D9%87%D8%A7%DB%8C-%D8%B3%D8%B7%D8%AD%DB%8C-%D9%88%D8%A7%D9%82%D8%B9-%D8%AF%D8%B1-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%B3%D8%B9%D8%AF%DB%8C-%DA%A9%D9%88%DA%86%D9%87-%D8%B4%D9%87%DB%8C%D8%AF-%D8%AA%D9%82%DB%8C-%D9%BE%D9%88%D8%B1، https://irantender.net/user.php?section=tender&category=details&id=6118598
 
-### مناقصه ۲ عنوان مناقصه شامل : عملیات تهیه و اجرای خط انتقال از چاه های جدید شهر میلاجرد شهرستان کمیجان / عملیات تهیه و اجرای شبکه جمع آوری فاضلاب و شبکه توزیع آب محله های ۳ و ۴ شهر جدید امیرکبیر شهر ار
-- نوع: مناقصه
-- استان: مرکزی
-- مهلت: 2026-11-01 (۱۰ آبان ۱۴۰۵)
-- انتشار: 2026-10-26 (۴ آبان ۱۴۰۵)
-- محصول: شبکه جمع آوری فاضلاب، خط انتقال آب
-- خلاصه: دو مناقصه شامل اجرای خط انتقال از چاه های جدید میلاجرد کمیجان و اجرای شبکه جمع آوری فاضلاب و توزیع آب محله های ۳ و ۴ شهر جدید امیرکبیر در استان مرکزی.
-- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/05/#t-3c4fa8e6e3
-- منبع: https://www.hezarehinfo.net/tenders/nid11342019
-
 ### مناقصه تامین منابع مالی مورد نیاز ایجاد تأسیسات فاضلاب شهر بروجرد شامل اجرای بخشی از شبکه جمع آوری فاضلاب شهر بروجرد
 - نوع: مناقصه
 - کارفرما: اموراب وفاضلاب شهرستان بروجرد
@@ -710,26 +710,6 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/05/#t-9ed68aa08f
 - منبع: https://www.hezarehinfo.net/tenders/nid11338882، https://mozayedemonaghese.com/front/post/2/1691781/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%D8%A7%D9%86_%D8%A2%D8%A8_%D9%88_%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8
 
-### مناقصه ایجاد تاسیسات جمع آوری و تصفیه فاضلاب
-- نوع: مناقصه
-- استان: یزد
-- مهلت: 2026-11-01 (۱۰ آبان ۱۴۰۵)
-- انتشار: 2026-10-26 (۴ آبان ۱۴۰۵)
-- محصول: جمع آوری فاضلاب، تصفیه فاضلاب
-- خلاصه: مناقصه ایجاد تاسیسات جمع آوری و تصفیه فاضلاب در استان یزد. کارفرما در آگهی مشخص نشده است.
-- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/05/#t-8aa390eb6a
-- منبع: https://irantender.net/user.php?section=tender&category=details&id=6116849
-
-### مناقصه پروژه ایجاد تاسیسات جمع آوری و تصفیه فاضلاب
-- نوع: مناقصه
-- استان: یزد
-- مهلت: 2026-11-01 (۱۰ آبان ۱۴۰۵)
-- انتشار: 2026-10-26 (۴ آبان ۱۴۰۵)
-- محصول: جمع آوری فاضلاب، تصفیه فاضلاب
-- خلاصه: مناقصه پروژه ایجاد تاسیسات جمع آوری و تصفیه فاضلاب در استان یزد. کارفرما در آگهی مشخص نشده است.
-- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/05/#t-2625d569da
-- منبع: https://irantender.net/user.php?section=tender&category=details&id=6116835
-
 ### اصلاح و توسعه شبکه فاضلاب در سطح منطقه یک شماره ۲۱۹-۳-۴۰۵
 - نوع: مناقصه
 - کارفرما: شرکت آب و فاضلاب استان اصفهان
@@ -740,6 +720,16 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - خلاصه: اصلاح و توسعه شبکه فاضلاب در منطقه یک توسط شرکت آب و فاضلاب استان اصفهان.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/05/#t-6429c0772a
 - منبع: https://www.abfaesfahan.ir/tender/%d8%a7%d8%b5%d9%84%d8%a7%d8%ad-%d9%88-%d8%aa%d9%88%d8%b3%d8%b9%d9%87-%d8%b4%d8%a8%da%a9%d9%87-%d9%81%d8%a7%d8%b6%d9%84%d8%a7%d8%a8-%d8%af%d8%b1-%d8%b3%d8%b7%d8%ad-%d9%85%d9%86%d8%b7%d9%82%d9%87-11/
+
+### مناقصه ۲ عنوان مناقصه شامل : عملیات تهیه و اجرای خط انتقال از چاه های جدید شهر میلاجرد شهرستان کمیجان / عملیات تهیه و اجرای شبکه جمع آوری فاضلاب و شبکه توزیع آب محله های ۳ و ۴ شهر جدید امیرکبیر شهر ار
+- نوع: مناقصه
+- استان: مرکزی
+- مهلت: 2026-11-01 (۱۰ آبان ۱۴۰۵)
+- انتشار: 2026-10-26 (۴ آبان ۱۴۰۵)
+- محصول: شبکه جمع آوری فاضلاب، خط انتقال آب
+- خلاصه: دو مناقصه شامل اجرای خط انتقال از چاه های جدید میلاجرد کمیجان و اجرای شبکه جمع آوری فاضلاب و توزیع آب محله های ۳ و ۴ شهر جدید امیرکبیر در استان مرکزی.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/05/#t-3c4fa8e6e3
+- منبع: https://www.hezarehinfo.net/tenders/nid11342019
 
 ### استعلام اجر ای شبکه فاضلاب و نصب انشعابات ضلع جنوبی مسجد شهدا ( نو) و پراکنده در بافت تاریخی و فرهنگی شهر شیراز بر اساس اسناد استعلام ۳۶۰۵۰
 - نوع: استعلام
@@ -763,6 +753,26 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/05/#t-8fd6e3d597
 - منبع: https://mozayedemonaghese.com/front/post/4/1693751/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%D8%A7%D9%86_%D8%A2%D8%A8_%D9%88_%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8، https://irantender.net/user.php?section=tender&category=details&id=6118013
 
+### مناقصه ایجاد تاسیسات جمع آوری و تصفیه فاضلاب
+- نوع: مناقصه
+- استان: یزد
+- مهلت: 2026-11-01 (۱۰ آبان ۱۴۰۵)
+- انتشار: 2026-10-26 (۴ آبان ۱۴۰۵)
+- محصول: جمع آوری فاضلاب، تصفیه فاضلاب
+- خلاصه: مناقصه ایجاد تاسیسات جمع آوری و تصفیه فاضلاب در استان یزد. کارفرما در آگهی مشخص نشده است.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/05/#t-8aa390eb6a
+- منبع: https://irantender.net/user.php?section=tender&category=details&id=6116849
+
+### مناقصه پروژه ایجاد تاسیسات جمع آوری و تصفیه فاضلاب
+- نوع: مناقصه
+- استان: یزد
+- مهلت: 2026-11-01 (۱۰ آبان ۱۴۰۵)
+- انتشار: 2026-10-26 (۴ آبان ۱۴۰۵)
+- محصول: جمع آوری فاضلاب، تصفیه فاضلاب
+- خلاصه: مناقصه پروژه ایجاد تاسیسات جمع آوری و تصفیه فاضلاب در استان یزد. کارفرما در آگهی مشخص نشده است.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/05/#t-2625d569da
+- منبع: https://irantender.net/user.php?section=tender&category=details&id=6116835
+
 ### مناقصه ۲ عنوان مناقصه شامل : عملیات لایروبی، احداث، بهسازی، تعمیر و نگهداشت کانال ها، مسیل ها، حوضچه های رسوب گیر، زهکش ها، چاه های جذبی و شبکه جمع آوری و هدایت آب های سطحی (حفر چاه جذبی) در سطح منطقه
 - نوع: مناقصه
 - استان: تهران
@@ -782,68 +792,6 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - خلاصه: شرکت آب و فاضلاب مشهد مناقصه تامین لوله و لوازم و اجرای خط انتقال کلکتور را برگزار کرده است. جنس لوله در آگهی مشخص نشده است.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/05/#t-0124a5976b
 - منبع: https://mozayedemonaghese.com/front/post/2/1693198/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%84%D9%88%D9%84%D9%87_%D9%88_%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA
-
-### لوله پلی اتیلن دوجداره با مانشون ۲۰۰ : ۴۵۰۰ متر واشر مانشون ۲۰۰ : ۷۵۰ حلقه
-- نوع: استعلام
-- کارفرما: شرکت آب و فاضلاب استان آذربایجان شرقی
-- استان: آذربایجان شرقی
-- مهلت: 2026-11-01 (۱۰ آبان ۱۴۰۵)
-- انتشار: 2026-10-25 (۳ آبان ۱۴۰۵)
-- محصول: لوله پلی‌اتیلن دوجداره، واشر مانشون
-- خلاصه: استعلام ۴۵۰۰ متر لوله پلی‌اتیلن دوجداره با مانشون ۲۰۰ و ۷۵۰ حلقه واشر مانشون برای آب و فاضلاب استان آذربایجان شرقی.
-- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/04/#t-067ee32398
-- منبع: https://ariatender.net/%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85-%D9%87%D8%A7/%D9%84%D9%88%D9%84%D9%87-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%88-%D8%B4%DB%8C%D8%B1%D8%A2%D9%84%D8%A7%D8%AA/%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-%D8%AF%D9%88%D8%AC%D8%AF%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7-%D9%85%D8%A7%D9%86%D8%B4%D9%88%D9%86-200-%3A-4500-%D9%85%D8%AA%D8%B1-%D9%88%D8%A7%D8%B4%D8%B1-%D9%85%D8%A7%D9%86%D8%B4%D9%88%D9%86-200-%3A-750-%D8%AD%D9%84%D9%82%D9%87-1792920313333، https://mozayedemonaghese.com/front/post/4/1691430/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%84%D9%88%D9%84%D9%87_%D9%88_%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA، https://irantender.net/user.php?section=tender&category=details&id=6114168
-
-### لوله دوجداره کاروگیت سایز۲۰۰ میلیمتر مقاومت ۳۱/۵ لوله دوجداره کاروگیت سایز۳۱۵ میلیمتر مقاومت ۳۱/۵ واشر سایز ۲۰۰میلیمتر واشر سایز۳۱۵میلیمتر
-- نوع: استعلام
-- کارفرما: شورای هماهنگی مبارزه مواد مخدر
-- استان: کرمان
-- مهلت: 2026-10-28 (۶ آبان ۱۴۰۵)
-- انتشار: 2026-10-25 (۳ آبان ۱۴۰۵)
-- محصول: لوله دوجداره کاروگیت، واشر
-- خلاصه: استعلام لوله دوجداره کاروگیت در دو سایز ۲۰۰ و ۳۱۵ میلیمتر به همراه واشر همان سایزها برای شورای هماهنگی مبارزه مواد مخدر در کرمان.
-- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/04/#t-13ec12f390
-- منبع: https://ariatender.net/%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85-%D9%87%D8%A7/%D9%84%D9%88%D9%84%D9%87-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%88-%D8%B4%DB%8C%D8%B1%D8%A2%D9%84%D8%A7%D8%AA/%D9%84%D9%88%D9%84%D9%87-%D8%AF%D9%88%D8%AC%D8%AF%D8%A7%D8%B1%D9%87-%DA%A9%D8%A7%D8%B1%D9%88%DA%AF%DB%8C%D8%AA-%D8%B3%D8%A7%DB%8C%D8%B2200-%D9%85%DB%8C%D9%84%DB%8C%D9%85%D8%AA%D8%B1-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA-31-5-%D9%84%D9%88%D9%84%D9%87-%D8%AF%D9%88%D8%AC%D8%AF%D8%A7%D8%B1%D9%87-%DA%A9%D8%A7%D8%B1%D9%88%DA%AF%DB%8C%D8%AA-%D8%B3%D8%A7%DB%8C%D8%B2315-%D9%85%DB%8C، https://mozayedemonaghese.com/front/post/4/1690609/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%84%D9%88%D9%84%D9%87_%D9%88_%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84، https://irantender.net/user.php?section=tender&category=details&id=6114709
-
-### عملیات اجرایی آب و فاضلاب ایستگاه پایش و سوله های کارگاهی و هدایت آب های سطحی (۳۱۰۰ متر لوله گذاری بهمراه ۳ عدد پمپ و ۷ عدد مخزن پلی اتیلن)، شهرک صنعتی خلیج فارس
-- نوع: مناقصه
-- استان: هرمزگان
-- مهلت: 2026-10-29 (۷ آبان ۱۴۰۵)
-- انتشار: 2026-10-25 (۳ آبان ۱۴۰۵)
-- محصول: مخزن پلی‌اتیلن، لوله‌گذاری، هدایت آب‌های سطحی
-- خلاصه: اجرای آب و فاضلاب ایستگاه پایش و سوله‌های کارگاهی و هدایت آب‌های سطحی شهرک صنعتی خلیج فارس شامل ۳۱۰۰ متر لوله‌گذاری، ۳ پمپ و ۷ مخزن پلی‌اتیلن.
-- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/04/#t-9b4b20fe72
-- منبع: https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D8%A2%D8%A8-%D9%88-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8/%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C%DB%8C-%D8%A2%D8%A8-%D9%88-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8-%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%BE%D8%A7%DB%8C%D8%B4-%D9%88-%D8%B3%D9%88%D9%84%D9%87-%D9%87%D8%A7%DB%8C-%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87%DB%8C-%D9%88-%D9%87%D8%AF%D8%A7%DB%8C%D8%AA-%D8%A2%D8%A8-%D9%87%D8%A7%DB%8C-%D8%B3%D8%B7%D8%AD%DB%8C-%DB%B3%DB%B1
-
-### مناقصه تجهیز تاسیسات سپتیک
-- نوع: مناقصه
-- استان: خراسان رضوی
-- مهلت: نامشخص
-- انتشار: 2026-10-25 (۳ آبان ۱۴۰۵)
-- محصول: تاسیسات سپتیک
-- خلاصه: مناقصه‌ای برای تجهیز تاسیسات سپتیک در خراسان رضوی منتشر شده است. کارفرما و جزئیات بیشتر در اطلاعات ذکر نشده است.
-- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/04/#t-58bd9079b7
-- منبع: https://irantender.net/user.php?section=tender&category=details&id=6112969
-
-### اجرای ۲۵۰متراصلاح وبازسازی شبکه فاضلاب به روشCIPP به همراه تهیه تمامی مصالح ...-شرکت آبفامنطقه۳تهران
-- نوع: مناقصه
-- کارفرما: شرکت آبفا منطقه ۳ تهران
-- استان: تهران
-- مهلت: 2026-11-01 (۱۰ آبان ۱۴۰۵)
-- انتشار: 2026-10-25 (۳ آبان ۱۴۰۵)
-- محصول: شبکه فاضلاب، بازسازی CIPP
-- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/04/#t-1b15d81e00
-- منبع: https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D8%A2%D8%A8-%D9%88-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8/%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%DB%B2%DB%B5%DB%B0%D9%85%D8%AA%D8%B1%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%A8%DA%A9%D9%87-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8-%D8%A8%D9%87-%D8%B1%D9%88%D8%B4cipp-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%AA%D9%87%DB%8C%D9%87-%D8%AA%D9%85%D8%A7%D9%85%DB%8C-%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D8%B4%D8%B1%DA%A9%D8%AA
-
-### مناقصه اجرای عملیات احداث رمپ دسترسی و معابر و دایک و کانال کنترل سیلاب ناحیه همتمتی صنفی جاسک، عملیات اجرایی آب و فاضلاب ایستگاه پایش و سوله های کارگاهی و هدایت آب های سطحی شهرک صنعتی خلیج فارس، اجرا
-- نوع: مناقصه
-- استان: هرمزگان
-- مهلت: 2026-10-29 (۷ آبان ۱۴۰۵)
-- انتشار: 2026-10-25 (۳ آبان ۱۴۰۵)
-- محصول: هدایت آب‌های سطحی، کانال کنترل سیلاب
-- خلاصه: مناقصه اجرای رمپ دسترسی، معابر، دایک و کانال کنترل سیلاب در جاسک و نیز آب و فاضلاب و هدایت آب‌های سطحی شهرک صنعتی خلیج فارس در هرمزگان.
-- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/04/#t-17cf474ad9
-- منبع: https://www.hezarehinfo.net/tenders/nid11331915
 
 ## قیمت پلی‌اتیلن در بورس کالا (تومان بر کیلوگرم)
 
