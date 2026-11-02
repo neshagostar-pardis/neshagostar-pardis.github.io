@@ -1,23 +1,23 @@
 # نشاگستر پردیس — داده‌های امروز
 
-Snapshot built 2026-11-02T10:15:16+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
+Snapshot built 2026-11-02T12:15:11+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
 
 ## نرخ ارز آزاد (2026-11-02، ۱۴۰۵/۰۸/۱۱)
 
-Free-market rates in toman, fetched 2026-11-02T10:09:57+03:30. Pages: https://neshagostar-pardis.github.io/currency/
+Free-market rates in toman, fetched 2026-11-02T12:09:59+03:30. Pages: https://neshagostar-pardis.github.io/currency/
 
 | ارز | خرید (تومان) | فروش (تومان) |
 |---|---:|---:|
-| دلار آمریکا (USD) | 269,800 | 272,500 |
-| یورو (EUR) | 301,700 | 304,700 |
-| درهم امارات (AED) | 73,460 | 74,200 |
-| لیر ترکیه (TRY) | 5,360 | 5,530 |
+| دلار آمریکا (USD) | 271,050 | 273,800 |
+| یورو (EUR) | 303,600 | 306,700 |
+| درهم امارات (AED) | 73,800 | 74,550 |
+| لیر ترکیه (TRY) | 5,390 | 5,560 |
 
 ### دلار و یورو، ۱۴ روز اخیر (فروش، تومان)
 
 | تاریخ | USD | EUR |
 |---|---:|---:|
-| 2026-11-02 | 272,500 | 304,700 |
+| 2026-11-02 | 273,800 | 306,700 |
 | 2026-11-01 | 273,200 | 305,300 |
 | 2026-10-31 | 275,500 | 307,800 |
 | 2026-10-30 | 271,900 | 304,300 |
@@ -32,7 +32,7 @@ Free-market rates in toman, fetched 2026-11-02T10:09:57+03:30. Pages: https://ne
 | 2026-10-21 | 265,500 | 298,100 |
 | 2026-10-20 | 264,300 | 296,800 |
 
-## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۷۴ مورد)
+## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۷۹ مورد)
 
 Summaries by Neshagostar Pardis; follow the source link for the official notice. Archive: https://neshagostar-pardis.github.io/tenders/
 
@@ -47,6 +47,36 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/11/#t-dcede26527
 - منبع: https://mozayedemonaghese.com/front/post/4/1717090/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D8%AA%D8%B5%D9%81%DB%8C%D9%87_%D8%A2%D8%A8_%D8%AE%D8%A7%D9%86%DA%AF%DB%8C_%D9%88_%D8%B5%D9%86%D8%B9%D8%AA%DB%8C، https://irantender.net/user.php?section=tender&category=details&id=6138879
 
+### اجرای سپتیک بیمارستان مادر طبق نقشه ومستندات پیوست
+- نوع: استعلام
+- استان: خوزستان
+- مهلت: 2026-11-09 (۱۸ آبان ۱۴۰۵)
+- انتشار: 2026-11-02 (۱۱ آبان ۱۴۰۵)
+- محصول: سپتیک
+- خلاصه: استعلام اجرای سپتیک بیمارستان مادر در خوزستان بر اساس نقشه و مستندات پیوست.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/11/#t-db5d7ee469
+- منبع: https://ariatender.net/%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85-%D9%87%D8%A7/%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86-%D9%88-%D8%A7%D8%A8%D9%86%DB%8C%D9%87/%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B3%D9%BE%D8%AA%DB%8C%DA%A9-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D9%85%D8%A7%D8%AF%D8%B1-%D8%B7%D8%A8%D9%82-%D9%86%D9%82%D8%B4%D9%87-%D9%88%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D8%A7%D8%AA-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA، https://irantender.net/user.php?section=tender&category=details&id=6139684
+
+### عملیات تعمیر تغییر سایز و جابجایی خط انتقال ۲۰۰۰ میلیمتری فاضلاب انتهای هپکو تا ابتدای فرودگاه شهر اراک (به دلیل اجرای تقاطع غیر همسطح توسط شهرداری و تقویت و توسعه خط انتقال فاضلاب مسکن ملی)
+- نوع: مناقصه
+- استان: مرکزی
+- مهلت: 2026-11-05 (۱۴ آبان ۱۴۰۵)
+- انتشار: 2026-11-02 (۱۱ آبان ۱۴۰۵)
+- محصول: خط انتقال فاضلاب، شبکه فاضلاب
+- خلاصه: تعمیر، تغییر سایز و جابجایی خط انتقال فاضلاب ۲۰۰۰ میلی‌متری از انتهای هپکو تا ابتدای فرودگاه اراک، همراه با تقویت و توسعه خط انتقال فاضلاب مسکن ملی.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/11/#t-a7e2932f6c
+- منبع: https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D8%A2%D8%A8-%D9%88-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8/%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%D8%AA%D8%B9%D9%85%DB%8C%D8%B1-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D8%B3%D8%A7%DB%8C%D8%B2-%D9%88-%D8%AC%D8%A7%D8%A8%D8%AC%D8%A7%DB%8C%DB%8C-%D8%AE%D8%B7-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%DB%B2%DB%B0%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%DB%8C-%D9%87%D9%BE%DA%A9%D9%88-%D8%AA%D8%A7--1793605049874
+
+### استعلام بها نیاز خدمات-اصلاح شبکه فاضلاب قطعه ۱۱۱1B6 فاز یک
+- نوع: استعلام
+- استان: آذربایجان شرقی
+- مهلت: 2026-11-07 (۱۶ آبان ۱۴۰۵)
+- انتشار: 2026-11-02 (۱۱ آبان ۱۴۰۵)
+- محصول: شبکه فاضلاب
+- خلاصه: استعلام بهای خدمات اصلاح شبکه فاضلاب قطعه ۱۱۱1B6 فاز یک در آذربایجان شرقی.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/11/#t-29e997a9e6
+- منبع: https://irantender.net/user.php?section=tender&category=details&id=6139902
+
 ### مناقصه عمومی یک مرحله ای پروژه احداث و بهسازی شبکه دفع آبهای سطحی شهر دیلم
 - نوع: مناقصه
 - استان: بوشهر
@@ -57,6 +87,16 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/11/#t-345406bac8
 - منبع: https://www.hezarehinfo.net/tenders/nid11366850
 
+### مناقصه اجرای شبکه فاضلاب شهر
+- نوع: مناقصه
+- استان: اصفهان
+- مهلت: نامشخص
+- انتشار: 2026-11-02 (۱۱ آبان ۱۴۰۵)
+- محصول: شبکه فاضلاب
+- خلاصه: مناقصه اجرای شبکه فاضلاب یک شهر در استان اصفهان.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/11/#t-63388a61dc
+- منبع: https://irantender.net/user.php?section=tender&category=details&id=6139801
+
 ### مناقصه اجرای عملیات خاکبرداری کانال دفع آبهای سطحی
 - نوع: مناقصه
 - استان: تهران، فارس، هرمزگان
@@ -66,6 +106,16 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - خلاصه: مناقصه اجرای عملیات خاکبرداری کانال دفع آب‌های سطحی. محل اجرا در استان‌های تهران، فارس و هرمزگان ذکر شده است.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/11/#t-5e90e33b52
 - منبع: https://www.hezarehinfo.net/tenders/nid11365555، https://www.hezarehinfo.net/tenders/nid11367238
+
+### استعلام پروژه فاضلاب روستای گراوند برابر فایل پیوستی
+- نوع: استعلام
+- کارفرما: دهیاری گراوند بخش مرکزی شهرستان کرمانشاه
+- استان: کرمانشاه / کرمانشاه
+- مهلت: 2026-11-08 (۱۷ آبان ۱۴۰۵)
+- محصول: شبکه فاضلاب
+- خلاصه: استعلام اجرای پروژه فاضلاب روستای گراوند توسط دهیاری گراوند در شهرستان کرمانشاه، مطابق فایل پیوست.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/11/#t-1e149bf1ec
+- منبع: https://mozayedemonaghese.com/front/post/4/1718683/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%D8%A7%D9%86_%D8%A2%D8%A8_%D9%88_%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8
 
 ### خرید لوله پلی اتیلن دوجداره فاضلابی (کاروگیت) و ملحقات
 - نوع: استعلام
