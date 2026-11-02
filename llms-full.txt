@@ -1,15 +1,15 @@
 # نشاگستر پردیس — داده‌های امروز
 
-Snapshot built 2026-11-02T08:16:41+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
+Snapshot built 2026-11-02T10:15:16+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
 
 ## نرخ ارز آزاد (2026-11-02، ۱۴۰۵/۰۸/۱۱)
 
-Free-market rates in toman, fetched 2026-11-02T08:09:41+03:30. Pages: https://neshagostar-pardis.github.io/currency/
+Free-market rates in toman, fetched 2026-11-02T10:09:57+03:30. Pages: https://neshagostar-pardis.github.io/currency/
 
 | ارز | خرید (تومان) | فروش (تومان) |
 |---|---:|---:|
 | دلار آمریکا (USD) | 269,800 | 272,500 |
-| یورو (EUR) | 301,500 | 304,500 |
+| یورو (EUR) | 301,700 | 304,700 |
 | درهم امارات (AED) | 73,460 | 74,200 |
 | لیر ترکیه (TRY) | 5,360 | 5,530 |
 
@@ -17,7 +17,7 @@ Free-market rates in toman, fetched 2026-11-02T08:09:41+03:30. Pages: https://ne
 
 | تاریخ | USD | EUR |
 |---|---:|---:|
-| 2026-11-02 | 272,500 | 304,500 |
+| 2026-11-02 | 272,500 | 304,700 |
 | 2026-11-01 | 273,200 | 305,300 |
 | 2026-10-31 | 275,500 | 307,800 |
 | 2026-10-30 | 271,900 | 304,300 |
@@ -32,9 +32,30 @@ Free-market rates in toman, fetched 2026-11-02T08:09:41+03:30. Pages: https://ne
 | 2026-10-21 | 265,500 | 298,100 |
 | 2026-10-20 | 264,300 | 296,800 |
 
-## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۷۲ مورد)
+## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۷۴ مورد)
 
 Summaries by Neshagostar Pardis; follow the source link for the official notice. Archive: https://neshagostar-pardis.github.io/tenders/
+
+### استعلام پکیج کامل تصفیه فاضلاب با ظرفیت ۷۰ متر مکعب بیمارستان شهرستان ارسنجان به پیوست لیست مشخصات
+- نوع: استعلام
+- کارفرما: دانشگاه علوم پزشکی و خدمات بهداشتی درمانی
+- استان: فارس / شیراز
+- مهلت: 2026-11-07 (۱۶ آبان ۱۴۰۵)
+- انتشار: 2026-11-02 (۱۱ آبان ۱۴۰۵)
+- محصول: پکیج تصفیه فاضلاب
+- خلاصه: دانشگاه علوم پزشکی برای بیمارستان شهرستان ارسنجان استعلام خرید یک پکیج کامل تصفیه فاضلاب با ظرفیت ۷۰ متر مکعب را منتشر کرده است. مشخصات در لیست پیوست آمده است.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/11/#t-dcede26527
+- منبع: https://mozayedemonaghese.com/front/post/4/1717090/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D8%AA%D8%B5%D9%81%DB%8C%D9%87_%D8%A2%D8%A8_%D8%AE%D8%A7%D9%86%DA%AF%DB%8C_%D9%88_%D8%B5%D9%86%D8%B9%D8%AA%DB%8C، https://irantender.net/user.php?section=tender&category=details&id=6138879
+
+### مناقصه عمومی یک مرحله ای پروژه احداث و بهسازی شبکه دفع آبهای سطحی شهر دیلم
+- نوع: مناقصه
+- استان: بوشهر
+- مهلت: 2026-11-10 (۱۹ آبان ۱۴۰۵)
+- انتشار: 2026-11-02 (۱۱ آبان ۱۴۰۵)
+- محصول: شبکه دفع آب‌های سطحی
+- خلاصه: مناقصه عمومی یک‌مرحله‌ای برای احداث و بهسازی شبکه دفع آب‌های سطحی شهر دیلم در استان بوشهر.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/11/#t-345406bac8
+- منبع: https://www.hezarehinfo.net/tenders/nid11366850
 
 ### مناقصه اجرای عملیات خاکبرداری کانال دفع آبهای سطحی
 - نوع: مناقصه
@@ -44,7 +65,7 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - محصول: کانال آب‌های سطحی
 - خلاصه: مناقصه اجرای عملیات خاکبرداری کانال دفع آب‌های سطحی. محل اجرا در استان‌های تهران، فارس و هرمزگان ذکر شده است.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/11/#t-5e90e33b52
-- منبع: https://www.hezarehinfo.net/tenders/nid11365555
+- منبع: https://www.hezarehinfo.net/tenders/nid11365555، https://www.hezarehinfo.net/tenders/nid11367238
 
 ### خرید لوله پلی اتیلن دوجداره فاضلابی (کاروگیت) و ملحقات
 - نوع: استعلام
