@@ -1,15 +1,15 @@
 # نشاگستر پردیس — داده‌های امروز
 
-Snapshot built 2026-11-04T08:15:19+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
+Snapshot built 2026-11-04T10:15:26+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
 
 ## نرخ ارز آزاد (2026-11-04، ۱۴۰۵/۰۸/۱۳)
 
-Free-market rates in toman, fetched 2026-11-04T08:09:32+03:30. Pages: https://neshagostar-pardis.github.io/currency/
+Free-market rates in toman, fetched 2026-11-04T10:09:50+03:30. Pages: https://neshagostar-pardis.github.io/currency/
 
 | ارز | خرید (تومان) | فروش (تومان) |
 |---|---:|---:|
 | دلار آمریکا (USD) | 271,150 | 273,900 |
-| یورو (EUR) | 304,900 | 308,000 |
+| یورو (EUR) | 304,500 | 307,600 |
 | درهم امارات (AED) | 73,830 | 74,580 |
 | لیر ترکیه (TRY) | 5,390 | 5,560 |
 
@@ -17,7 +17,7 @@ Free-market rates in toman, fetched 2026-11-04T08:09:32+03:30. Pages: https://ne
 
 | تاریخ | USD | EUR |
 |---|---:|---:|
-| 2026-11-04 | 273,900 | 308,000 |
+| 2026-11-04 | 273,900 | 307,600 |
 | 2026-11-03 | 274,900 | 307,800 |
 | 2026-11-02 | 273,700 | 307,000 |
 | 2026-11-01 | 273,200 | 305,300 |
@@ -32,9 +32,20 @@ Free-market rates in toman, fetched 2026-11-04T08:09:32+03:30. Pages: https://ne
 | 2026-10-23 | 274,200 | 307,500 |
 | 2026-10-22 | 269,800 | 303,300 |
 
-## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۶۴ مورد)
+## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۶۵ مورد)
 
 Summaries by Neshagostar Pardis; follow the source link for the official notice. Archive: https://neshagostar-pardis.github.io/tenders/
+
+### خرید مخزن پلی اتیلن
+- نوع: استعلام
+- کارفرما: مدیریت درمان تامین اجتماعی استان بوشهر
+- استان: بوشهر
+- مهلت: 2026-11-09 (۱۸ آبان ۱۴۰۵)
+- انتشار: 2026-11-04 (۱۳ آبان ۱۴۰۵)
+- محصول: مخزن پلی‌اتیلن
+- خلاصه: مدیریت درمان تأمین اجتماعی استان بوشهر برای خرید مخزن پلی‌اتیلن استعلام گرفته است.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/13/#t-ccba682a78
+- منبع: https://ariatender.net/%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85-%D9%87%D8%A7/%D9%81%D9%84%D8%B2%D8%A7%D8%AA-%D9%88-%D8%B3%D8%A7%D8%B2%D9%87-%D9%87%D8%A7%DB%8C-%D9%81%D9%84%D8%B2%DB%8C/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%85%D8%AE%D8%B2%D9%86-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-1793767962233، https://mozayedemonaghese.com/front/post/4/1726214/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%BE%D9%84%DB%8C_%D8%A7%D8%AA%DB%8C%D9%84%D9%86، https://irantender.net/user.php?section=tender&category=details&id=6146985
 
 ### خرید لوله کاروگیت فاضلابی پروژه صدف
 - نوع: استعلام
