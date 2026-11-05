@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T14:15:15+03:30",
+ "generated_at": "2026-11-06T00:52:20+03:30",
  "since": "2026-10-14",
  "cleared_at": null,
  "runs": [
@@ -828,11 +828,27 @@
     "tenders": "success",
     "exchange": "failure"
    }
+  },
+  {
+   "date": "2026-11-06",
+   "at": "2026-11-06T00:52:20+03:30",
+   "event": "schedule",
+   "result": "partial",
+   "llm_status": "ok",
+   "steps": {
+    "rates": "success",
+    "build": "success",
+    "seo": "success",
+    "save": "success",
+    "llm": "success",
+    "tenders": "success",
+    "exchange": "failure"
+   }
   }
  ],
  "usage": {
   "month": "2026-11",
-  "minutes": 199,
+  "minutes": 209,
   "limit": 2000
  }
 }
