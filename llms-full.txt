@@ -1,10 +1,10 @@
 # نشاگستر پردیس — داده‌های امروز
 
-Snapshot built 2026-11-05T08:15:37+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
+Snapshot built 2026-11-05T10:15:13+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
 
 ## نرخ ارز آزاد (2026-11-05، ۱۴۰۵/۰۸/۱۴)
 
-Free-market rates in toman, fetched 2026-11-05T08:09:47+03:30. Pages: https://neshagostar-pardis.github.io/currency/
+Free-market rates in toman, fetched 2026-11-05T10:09:45+03:30. Pages: https://neshagostar-pardis.github.io/currency/
 
 | ارز | خرید (تومان) | فروش (تومان) |
 |---|---:|---:|
@@ -32,9 +32,30 @@ Free-market rates in toman, fetched 2026-11-05T08:09:47+03:30. Pages: https://ne
 | 2026-10-24 | 272,700 | 305,500 |
 | 2026-10-23 | 274,200 | 307,500 |
 
-## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۶۲ مورد)
+## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۶۴ مورد)
 
 Summaries by Neshagostar Pardis; follow the source link for the official notice. Archive: https://neshagostar-pardis.github.io/tenders/
+
+### مناقصه عمومی همزمان با ارزیابی (یکپارچه) یک مرحله ای تکمیل بهسازی معابر کیکاور۳واجرای لوله کاروگیت
+- نوع: مناقصه
+- کارفرما: فرمانداری رباط کریم
+- استان: تهران
+- مهلت: 2026-11-07 (۱۶ آبان ۱۴۰۵)
+- انتشار: 2026-11-05 (۱۴ آبان ۱۴۰۵)
+- محصول: لوله کاروگیت
+- خلاصه: فرمانداری رباط کریم مناقصه‌ای برای تکمیل بهسازی معابر کیکاور ۳ و اجرای لوله کاروگیت برگزار کرده است.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/14/#t-fb532acb07
+- منبع: https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D8%B1%D8%A7%D9%87%D8%B3%D8%A7%D8%B2%DB%8C-%D9%88-%D8%B4%D9%87%D8%B1%D8%B3%D8%A7%D8%B2%DB%8C/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7-%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C-%DB%8C%DA%A9%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%DB%8C%DA%A9-%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D8%A7%DB%8C-%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%D8%A8%D9%87%D8%B3%D8%A7%D8%B2%DB%8C-%D9%85%D8%B9%D8%A7%D8%A8%D8%B1-%DA%A9%DB%8C%DA%A9%D8%A7%D9%88%D8%B13%D9%88%D8%A7%D8%AC، https://mozayedemonaghese.com/front/post/2/1730391/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D8%A7%D9%86%D9%88%D8%A7%D8%B9_%D9%84%D9%88%D9%84%D9%87_%D9%84%D9%86%D8%B3
+
+### مناقصه احداث شبکه جمع آوری آبهای سطحی خیابان امام خمینی ره- حدفاصل میدان انقلاب و خیابان رازی
+- نوع: مناقصه
+- استان: خراسان رضوی
+- مهلت: نامشخص
+- انتشار: 2026-11-05 (۱۴ آبان ۱۴۰۵)
+- محصول: شبکه آب‌های سطحی
+- خلاصه: احداث شبکه جمع‌آوری آب‌های سطحی در خیابان امام خمینی (ره)، حدفاصل میدان انقلاب و خیابان رازی در استان خراسان رضوی.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/14/#t-25d0aa285e
+- منبع: https://www.hezarehinfo.net/tenders/nid11383220
 
 ### احداث شبکه جمع آوری فاضلاب ضروری محلات سطح شهر سنندج و نواحی الحاقی (فاز ۲۶)
 - نوع: مناقصه
@@ -55,7 +76,7 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - محصول: تصفیه‌خانه فاضلاب، شبکه جمع‌آوری فاضلاب
 - خلاصه: دانشگاه علوم پزشکی و خدمات بهداشتی درمانی تهران مناقصه احداث تصفیه‌خانه و شبکه جمع‌آوری فاضلاب بیمارستان روزبه را برگزار کرده است.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/14/#t-a58ca32a1d
-- منبع: https://www.hezarehinfo.net/tenders/nid11381953، https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D9%85%D8%AD%DB%8C%D8%B7-%D8%B2%DB%8C%D8%B3%D8%AA/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%D8%AF%D9%88-%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D8%A7%DB%8C-%D8%A7%D8%AD%D8%AF%D8%A7%D8%AB-%D8%AA%D8%B5%D9%81%DB%8C%D9%87-%D8%AE%D8%A7%D9%86%D9%87-%D9%88-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AC%D9%85%D8%B9-%D8%A2%D9%88%D8%B1%DB%8C-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B1%D9%88%D8%B2%D8%A8%D9%87، https://mozayedemonaghese.com/front/post/2/1729441/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%D8%A7%D9%86_%D8%A2%D8%A8_%D9%88_%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8
+- منبع: https://www.hezarehinfo.net/tenders/nid11381953، https://ariatender.net/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D8%A7%D8%AA/%D9%85%D8%AD%DB%8C%D8%B7-%D8%B2%DB%8C%D8%B3%D8%AA/%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%D8%AF%D9%88-%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D8%A7%DB%8C-%D8%A7%D8%AD%D8%AF%D8%A7%D8%AB-%D8%AA%D8%B5%D9%81%DB%8C%D9%87-%D8%AE%D8%A7%D9%86%D9%87-%D9%88-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AC%D9%85%D8%B9-%D8%A2%D9%88%D8%B1%DB%8C-%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B1%D9%88%D8%B2%D8%A8%D9%87، https://mozayedemonaghese.com/front/post/2/1729441/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%D8%A7%D9%86_%D8%A2%D8%A8_%D9%88_%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8، https://mozayedemonaghese.com/front/post/2/1730379/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%D8%A7%D9%86_%D8%A7%D8%A8%D9%86%DB%8C%D9%87
 
 ### خرید مخزن پلی اتیلن
 - نوع: استعلام

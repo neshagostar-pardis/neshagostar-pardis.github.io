@@ -4,7 +4,7 @@
 
 Daily-updated Persian site by Neshagostar Pardis Co., a polyethylene pipe and tank manufacturer in Qazvin, Iran (since 1998). Prices are in Iranian toman (1 toman = 10 rials) unless a file says rial. Dates on pages are Jalali (Solar Hijri); data files use ISO Gregorian dates, Asia/Tehran time. Tender entries are short summaries written by Neshagostar Pardis with a link to the original notice; check the source before bidding.
 
-Last build: 2026-11-05T08:15:37+03:30
+Last build: 2026-11-05T10:15:13+03:30
 
 ## نرخ ارز (Currency rates)
 
@@ -23,7 +23,7 @@ Last build: 2026-11-05T08:15:37+03:30
 
 - [مناقصه آبفا و مناقصه لوله پلی اتیلن امروز | نشاگستر](https://neshagostar-pardis.github.io/tenders/): فهرست روزانه مناقصه‌ها و استعلام‌های لوله پلی اتیلن، لوله کاروگیت، مخزن، سپتیک تانک و پکیج تصفیه فاضلاب؛ به‌روزرسانی پنجشنبه ۱۴ آبان ۱۴۰۵ با لینک آگهی منبع.
 - [مناقصه لوله و مخزن پلی اتیلن مهر ۱۴۰۵ | نشاگستر](https://neshagostar-pardis.github.io/tenders/1405/07/): آرشیو ۱۱۰ مناقصه و استعلام لوله کاروگیت، اسپیرال، مخزن، سپتیک و پکیج تصفیه فاضلاب در مهر ۱۴۰۵، به تفکیک روز، با کارفرما، استان و لینک آگهی منبع.
-- [مناقصه لوله و مخزن پلی اتیلن آبان ۱۴۰۵ | نشاگستر](https://neshagostar-pardis.github.io/tenders/1405/08/): آرشیو ۱۱۴ مناقصه و استعلام لوله کاروگیت، اسپیرال، مخزن، سپتیک و پکیج تصفیه فاضلاب در آبان ۱۴۰۵، به تفکیک روز، با کارفرما، استان و لینک آگهی منبع.
+- [مناقصه لوله و مخزن پلی اتیلن آبان ۱۴۰۵ | نشاگستر](https://neshagostar-pardis.github.io/tenders/1405/08/): آرشیو ۱۱۶ مناقصه و استعلام لوله کاروگیت، اسپیرال، مخزن، سپتیک و پکیج تصفیه فاضلاب در آبان ۱۴۰۵، به تفکیک روز، با کارفرما، استان و لینک آگهی منبع.
 
 ## صفحات دیگر (Other pages)
 
