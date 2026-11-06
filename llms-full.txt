@@ -1,10 +1,10 @@
 # نشاگستر پردیس — داده‌های امروز
 
-Snapshot built 2026-11-06T08:14:45+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
+Snapshot built 2026-11-06T10:15:09+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
 
 ## نرخ ارز آزاد (2026-11-06، ۱۴۰۵/۰۸/۱۵)
 
-Free-market rates in toman, fetched 2026-11-06T08:09:39+03:30. Pages: https://neshagostar-pardis.github.io/currency/
+Free-market rates in toman, fetched 2026-11-06T10:09:47+03:30. Pages: https://neshagostar-pardis.github.io/currency/
 
 | ارز | خرید (تومان) | فروش (تومان) |
 |---|---:|---:|
