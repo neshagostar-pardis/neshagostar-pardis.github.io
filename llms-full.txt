@@ -1,23 +1,23 @@
 # نشاگستر پردیس — داده‌های امروز
 
-Snapshot built 2026-11-07T12:46:27+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
+Snapshot built 2026-11-07T14:45:19+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
 
 ## نرخ ارز آزاد (2026-11-07، ۱۴۰۵/۰۸/۱۶)
 
-Free-market rates in toman, fetched 2026-11-07T12:39:38+03:30. Pages: https://neshagostar-pardis.github.io/currency/
+Free-market rates in toman, fetched 2026-11-07T14:39:29+03:30. Pages: https://neshagostar-pardis.github.io/currency/
 
 | ارز | خرید (تومان) | فروش (تومان) |
 |---|---:|---:|
-| دلار آمریکا (USD) | 265,800 | 268,500 |
-| یورو (EUR) | 296,300 | 299,300 |
-| درهم امارات (AED) | 72,370 | 73,100 |
-| لیر ترکیه (TRY) | 5,280 | 5,440 |
+| دلار آمریکا (USD) | 264,550 | 267,200 |
+| یورو (EUR) | 294,700 | 297,700 |
+| درهم امارات (AED) | 72,010 | 72,740 |
+| لیر ترکیه (TRY) | 5,250 | 5,410 |
 
 ### دلار و یورو، ۱۴ روز اخیر (فروش، تومان)
 
 | تاریخ | USD | EUR |
 |---|---:|---:|
-| 2026-11-07 | 268,500 | 299,300 |
+| 2026-11-07 | 267,200 | 297,700 |
 | 2026-11-06 | 268,900 | 300,800 |
 | 2026-11-05 | 267,150 | 300,000 |
 | 2026-11-04 | 269,200 | 303,200 |
@@ -32,7 +32,7 @@ Free-market rates in toman, fetched 2026-11-07T12:39:38+03:30. Pages: https://ne
 | 2026-10-26 | 271,200 | 304,300 |
 | 2026-10-25 | 268,900 | 301,200 |
 
-## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۶۸ مورد)
+## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۶۹ مورد)
 
 Summaries by Neshagostar Pardis; follow the source link for the official notice. Archive: https://neshagostar-pardis.github.io/tenders/
 
@@ -55,6 +55,16 @@ Summaries by Neshagostar Pardis; follow the source link for the official notice.
 - خلاصه: مناقصه اجرای پروژه هدایت آب‌های سطحی در سطح شهر صباشهر در استان تهران است. کارفرما مشخص نشده است.
 - صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/16/#t-eb4853d25f
 - منبع: https://www.hezarehinfo.net/tenders/nid11385184
+
+### مناقصه بهسازی سطوح آسفالتی و ترمیم کانالهای آب های سطحی مجتمع تزریق گاز و روکش آسفالت
+- نوع: مناقصه
+- استان: خوزستان
+- مهلت: 2026-11-09 (۱۸ آبان ۱۴۰۵)
+- انتشار: 2026-11-07 (۱۶ آبان ۱۴۰۵)
+- محصول: کانال آب های سطحی
+- خلاصه: بهسازی سطوح آسفالتی و ترمیم کانال های آب های سطحی یک مجتمع تزریق گاز در استان خوزستان.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/16/#t-3aa3991f33
+- منبع: https://www.hezarehinfo.net/tenders/nid11387478
 
 ### استعلام اجرای عملیات ساخت سه نوع تانک پرورش (لاروی، مولدی و استحصال تخم) و لوله گذاری فاضلاب ۲سالن
 - نوع: استعلام
