@@ -1,10 +1,10 @@
 # نشاگستر پردیس — داده‌های امروز
 
-Snapshot built 2026-11-07T08:17:27+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
+Snapshot built 2026-11-07T10:45:35+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
 
 ## نرخ ارز آزاد (2026-11-07، ۱۴۰۵/۰۸/۱۶)
 
-Free-market rates in toman, fetched 2026-11-07T08:09:35+03:30. Pages: https://neshagostar-pardis.github.io/currency/
+Free-market rates in toman, fetched 2026-11-07T10:39:42+03:30. Pages: https://neshagostar-pardis.github.io/currency/
 
 | ارز | خرید (تومان) | فروش (تومان) |
 |---|---:|---:|
@@ -32,9 +32,39 @@ Free-market rates in toman, fetched 2026-11-07T08:09:35+03:30. Pages: https://ne
 | 2026-10-26 | 271,200 | 304,300 |
 | 2026-10-25 | 268,900 | 301,200 |
 
-## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۶۵ مورد)
+## مناقصه‌ها و استعلام‌های ۷ روز اخیر (۶۸ مورد)
 
 Summaries by Neshagostar Pardis; follow the source link for the official notice. Archive: https://neshagostar-pardis.github.io/tenders/
+
+### مناقصه هدایت آب های سطحی معابر
+- نوع: مناقصه
+- استان: تهران
+- مهلت: 2026-11-18 (۲۷ آبان ۱۴۰۵)
+- انتشار: 2026-11-07 (۱۶ آبان ۱۴۰۵)
+- محصول: آب‌های سطحی، هدایت آب
+- خلاصه: مناقصه‌ای برای هدایت آب‌های سطحی معابر در استان تهران است. کارفرما در اطلاعات ذکر نشده است.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/16/#t-7e060989e8
+- منبع: https://www.hezarehinfo.net/tenders/nid11385396
+
+### مناقصه اجرای پروژه هدایت آبهای سطحی سطح شهر صباشهر
+- نوع: مناقصه
+- استان: تهران
+- مهلت: 2026-11-28 (۷ آذر ۱۴۰۵)
+- انتشار: 2026-11-07 (۱۶ آبان ۱۴۰۵)
+- محصول: آب‌های سطحی، هدایت آب
+- خلاصه: مناقصه اجرای پروژه هدایت آب‌های سطحی در سطح شهر صباشهر در استان تهران است. کارفرما مشخص نشده است.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/16/#t-eb4853d25f
+- منبع: https://www.hezarehinfo.net/tenders/nid11385184
+
+### استعلام اجرای عملیات ساخت سه نوع تانک پرورش (لاروی، مولدی و استحصال تخم) و لوله گذاری فاضلاب ۲سالن
+- نوع: استعلام
+- کارفرما: پژوهشکده میگوی کشور بوشهر
+- استان: بوشهر / بوشهر
+- مهلت: 2026-11-11 (۲۰ آبان ۱۴۰۵)
+- محصول: لوله‌گذاری فاضلاب، تانک پرورش
+- خلاصه: پژوهشکده میگوی کشور در بوشهر برای ساخت سه نوع تانک پرورش و لوله‌گذاری فاضلاب دو سالن استعلام گرفته است.
+- صفحه: https://neshagostar-pardis.github.io/tenders/1405/08/16/#t-caf3747a6f
+- منبع: https://mozayedemonaghese.com/front/post/4/1732312/%D8%A2%DA%AF%D9%87%DB%8C_%D9%85%D8%B2%D8%A7%DB%8C%D8%AF%D9%87_%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87/%D9%84%D9%88%D9%84%D9%87_%D9%88_%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA
 
 ### مناقصه عمومی همزمان با ارزیابی (یکپارچه) یک مرحله ای تکمیل بهسازی معابر کیکاور۳واجرای لوله کاروگیت
 - نوع: مناقصه
