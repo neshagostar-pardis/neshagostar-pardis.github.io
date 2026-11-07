@@ -1,23 +1,23 @@
 # نشاگستر پردیس — داده‌های امروز
 
-Snapshot built 2026-11-07T10:45:35+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
+Snapshot built 2026-11-07T12:46:27+03:30 (Asia/Tehran). Index of pages: https://neshagostar-pardis.github.io/llms.txt
 
 ## نرخ ارز آزاد (2026-11-07، ۱۴۰۵/۰۸/۱۶)
 
-Free-market rates in toman, fetched 2026-11-07T10:39:42+03:30. Pages: https://neshagostar-pardis.github.io/currency/
+Free-market rates in toman, fetched 2026-11-07T12:39:38+03:30. Pages: https://neshagostar-pardis.github.io/currency/
 
 | ارز | خرید (تومان) | فروش (تومان) |
 |---|---:|---:|
-| دلار آمریکا (USD) | 265,500 | 268,200 |
-| یورو (EUR) | 295,900 | 298,900 |
-| درهم امارات (AED) | 72,290 | 73,020 |
-| لیر ترکیه (TRY) | 5,270 | 5,430 |
+| دلار آمریکا (USD) | 265,800 | 268,500 |
+| یورو (EUR) | 296,300 | 299,300 |
+| درهم امارات (AED) | 72,370 | 73,100 |
+| لیر ترکیه (TRY) | 5,280 | 5,440 |
 
 ### دلار و یورو، ۱۴ روز اخیر (فروش، تومان)
 
 | تاریخ | USD | EUR |
 |---|---:|---:|
-| 2026-11-07 | 268,200 | 298,900 |
+| 2026-11-07 | 268,500 | 299,300 |
 | 2026-11-06 | 268,900 | 300,800 |
 | 2026-11-05 | 267,150 | 300,000 |
 | 2026-11-04 | 269,200 | 303,200 |
