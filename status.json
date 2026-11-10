@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T12:09:37+03:30",
+ "generated_at": "2026-11-11T00:28:47+03:30",
  "since": "2026-10-14",
  "cleared_at": null,
  "runs": [
@@ -1148,11 +1148,27 @@
     "tenders": "skipped",
     "exchange": "skipped"
    }
+  },
+  {
+   "date": "2026-11-11",
+   "at": "2026-11-11T00:28:47+03:30",
+   "event": "schedule",
+   "result": "failed",
+   "llm_status": "ok",
+   "steps": {
+    "rates": "failure",
+    "build": "skipped",
+    "seo": "skipped",
+    "save": "skipped",
+    "llm": "success",
+    "tenders": "skipped",
+    "exchange": "skipped"
+   }
   }
  ],
  "usage": {
   "month": "2026-11",
-  "minutes": 328,
+  "minutes": 332,
   "limit": 2000
  }
 }
