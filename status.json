@@ -1,24 +1,8 @@
 {
- "generated_at": "2026-11-25T08:07:47+03:30",
+ "generated_at": "2026-11-25T10:07:34+03:30",
  "since": "2026-10-14",
  "cleared_at": null,
  "runs": [
-  {
-   "date": "2026-10-14",
-   "at": "2026-10-14T18:54:19+03:30",
-   "event": "workflow_dispatch",
-   "result": "ok",
-   "llm_status": "ok",
-   "steps": {
-    "rates": "success",
-    "build": "success",
-    "seo": "success",
-    "save": "success",
-    "llm": "success",
-    "tenders": "success",
-    "exchange": "success"
-   }
-  },
   {
    "date": "2026-10-14",
    "at": "2026-10-14T21:28:59+03:30",
@@ -1922,11 +1906,27 @@
     "tenders": "skipped",
     "exchange": "skipped"
    }
+  },
+  {
+   "date": "2026-11-25",
+   "at": "2026-11-25T10:07:34+03:30",
+   "event": "timer",
+   "result": "failed",
+   "llm_status": "ok",
+   "steps": {
+    "rates": "failure",
+    "build": "skipped",
+    "seo": "skipped",
+    "save": "skipped",
+    "llm": "success",
+    "tenders": "skipped",
+    "exchange": "skipped"
+   }
   }
  ],
  "usage": {
   "month": "2026-11",
-  "minutes": 518,
+  "minutes": 521,
   "limit": 2000
  }
 }
